@@ -100,6 +100,20 @@ public class ModsJdom {
         modsRoot.addContent(abElem);
     }
     
+    /** Add origin info. Null arguments are possible, but at least one should be non-null. */
+    public void addOriginInfo (String publisher, String date) {
+    	Element origElem = new Element ("originInfo", modsNS);
+    	if (publisher != null) {
+    		Element pubElem = new Element ("publisher", modsNS);
+    		pubElem.addContent (publisher);
+    		origElem.addContent (pubElem);
+    		Element dateElem = new Element ("dateIssued", modsNS);
+    		dateElem.addContent (date);
+    		origElem.addContent (dateElem);
+    		modsRoot.addContent (origElem);
+    	}
+    }
+    
     /** Add a top-level song. */
     public void addSong (Song s) {
         SongElement seHolder = new SongElement ("constituent");

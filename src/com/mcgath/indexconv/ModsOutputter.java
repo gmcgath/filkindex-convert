@@ -43,8 +43,14 @@ public class ModsOutputter implements SongbookOutputter {
             jdom.addAbstract(abstracte);
         }
         
-        // TODO other headers
+        String publisher = s.getPublisher();
+        String year = s.getYear();
+        if (publisher != null || year != null) {
+        	jdom.addOriginInfo (publisher, year);
+        }
         
+        // TODO other headers?
+
         // And now the songs
         List<Song> songs = s.getSongs();
         for (Song song : songs) {
