@@ -19,7 +19,7 @@ public class SpreadsheetLine {
         SONG_START,
         SONG_END,
         OTHER
-    }
+    };
     
     
     private String rawLine;

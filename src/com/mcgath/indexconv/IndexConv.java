@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import com.mcgath.indexconv.SpreadsheetLine.LineKind;
+import com.mcgath.indexconv.SpreadsheetLine;
 
 /**
  *  The main class for the filk index converter.
@@ -125,15 +125,15 @@ public class IndexConv {
     private void processLine (SpreadsheetLine lin, Songbook songbook) {
         String[] tokens = lin.getTokens ();
         SpreadsheetLine.LineKind kind = lin.getKind();
-        String val;
-        if (tokens.length < 2) {
-            val = "";
-        }
-        else {
-            val = tokens[1];
-        }
+        //String val;
+//        if (tokens.length < 2) {
+//            val = "";
+//        }
+//        else {
+//            val = tokens[1];
+//        }
         if (inPeople) {
-            if (kind == LineKind.CONTRIB_END) {
+            if (kind == SpreadsheetLine.LineKind.CONTRIB_END) {
                 inPeople = false;
             }
             else {
@@ -141,7 +141,7 @@ public class IndexConv {
             }
         }
         else if (inSongs) {
-            if (kind == LineKind.SONG_END) {
+            if (kind == SpreadsheetLine.LineKind.SONG_END) {
                 inSongs = false;
             }
             else {
@@ -164,8 +164,15 @@ public class IndexConv {
             case CONTRIB_START:
                 inPeople = true;
                 break;
+            case CONTRIB_END:
+                break;
             case SONG_START:
                 inSongs = true;
+                break;
+            case SONG_END:
+                break;
+            case OTHER:
+                // TODO something here?
                 break;
             }
         }
