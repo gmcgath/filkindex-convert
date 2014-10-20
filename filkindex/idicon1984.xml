@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="idicon1984">
+<recordInfo>
+<recordCreationDate>2011-07-04</recordCreationDate>
+<recordChangeDate>2011-07-04</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The IDICon Song Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>saddle stich</note>
+</physicalDescription>
+<originInfo>
+<accessCondition>Copyright 1984 for the authors we stole everything
+from. All rights returned to them. This songbook was published for
+use at IDICcon-Houston, 1984, but if you get your hands on a copy and want
+to xerox it for your own ue, knock your brains out! UNDER NO 
+CIRCUMSTANCES IS THIS SONGBOOK EVER TO BE SOLD!</accessCondition>
+<dateIssued>1984</dateIssued>
+<note>
+Some songs are uncredited, and others are credited with notes such
+as "cheated out of," "stolen from," etc. Corrections have been made
+here in some cases.
+</note>
+</originInfo>
+<name type="personal">
+<namePart>Lewis, Barb</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Strom, Marnie</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Smaug the Magic Dragon</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Puff the Magic Dragon</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Yarrow, Peter</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Elevator Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mallardi, Bill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Tompkins, Suzanne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Kaufman, Jerry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Bushyager, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Yesterday</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>McCartney, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Making Wookies</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Making Whoopee</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Together</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Turn and Believe</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <note>Given as "When WIll You Turn?"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Neutral Zone, Romulan View</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rest Stop</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Lord of the Dance</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Pendaryth, Gwudderan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Darrow, Becky</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Cass, Ann</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Toast For Unknown Heroes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+	<relatedItem type="preceding">
+	<titleInfo>
+	<title>Bonnie Ship the Diamond</title>
+	</titleInfo>
+	<note>Tune used or parodied</note>
+	</relatedItem>
+	<relatedItem type="preceding">
+	<titleInfo>
+	<title>Step by Step</title>
+	</titleInfo>
+	<note>Tune used or parodied</note>
+	</relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Old Ben's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>White, Cheryl</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ghost Riders in the Sky</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Miss Piggy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>White, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bones</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'm a Wookiee</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Feel Pretty</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bernstein, Leonard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Twit's Marching Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bilandic, Stefan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sing Me a Song</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Trekker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>White, Cheryl</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Cloud, Jeanne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Boxer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Simon, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Poor Spock Is Dead</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lakin, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>In Our Hands Like Dust</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Tomorrow Belongs to Me</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'm Gonna Be an Engineer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Seeger, Peggy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hope Eyrie</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Few Days</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Starship Unity</title>
+</titleInfo>
+<name type="personal">
+<namePart>Passovoy, Anne</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Given as "The Captain Is a Father to His Crew (Starship Unity)"</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mary O'Meara</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Anderson, Poul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Passovoy, Anne</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ballad of the Birthday Boy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>White, Cheryl</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Cloud, Jeanne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Hang Down Your Head, Tom Dooley</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Send Me Off to Glory in a Glad Bag</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Quark's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robin, Doris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Trimble, Karen</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Battle Hymn of the Republic</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ballad of Transport Eighteen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Iron Mistress</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Daddy's Little Girl</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gone the Rainbow</title>
+   <subTitle>Johnny's Gone for a Soldier</subTitle>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filksong</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rose, Pamela</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Shell, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+<accessCondition>Believe it or not, this is used with permission of
+the authors, Pamela Rose and Leslie Shell!!!!!!</accessCondition>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fame and Glory</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>All the Gold in California</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Eternal Loser</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Wobblies from Space</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Centauri Fair</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kare, Jordin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rumors</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mak, Colette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Rawhide</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dirty Kirk Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>White, Cheryl</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Jeanne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <note>The text runs off the page edge, so the second author's name isn't printed in full</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Starship</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Laken, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Enemy Within</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Couplets for a Departure</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Starwind Rising</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Where Can the Matter Be?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Simpson, Don</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Cochran, Don</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Oh, Dear, What Can the Matter Be?</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Banned from Argo</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>You Fill Up My Sensors</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lakin, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Castaway</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</mods>

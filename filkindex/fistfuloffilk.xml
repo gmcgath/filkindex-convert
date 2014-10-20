@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="fistfuloffilk">
+<recordInfo>
+<recordCreationDate>2007-11-26</recordCreationDate>
+<recordChangeDate>2007-11-26</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>A Fistful of Filk</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<abstract>A short collection of Texan filksongs</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Texas</placeTerm>
+</place>
+<publisher>Inverted-A, Inc.</publisher>
+<dateIssued>1985</dateIssued>
+</originInfo>
+<note>Information from Filkindex by Sourdough Jackson</note>
+
+</mods>

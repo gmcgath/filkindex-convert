@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="songsfromspace">
+<recordInfo>
+<recordCreationDate>2007-07-03</recordCreationDate>
+<recordChangeDate>2012-02-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Songs from Space</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>Quarto stapled</note></physicalDescription>
+<originInfo>
+<place>
+  <placeTerm type="text">London, England</placeTerm>
+</place>
+<publisher> Triode Plus</publisher>
+<dateIssued>1957</dateIssued>
+</originInfo>
+<abstract>A duplicated book of six songs published for the 1957 WorldCon in London.
+It seems to be the earliest book of British filk songs and perhaps the
+earliest filk book ever printed, although it 
+doesn't mention the word filk at all.</abstract>
+<name type="personal">
+<namePart>Sandfield, Laurence</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bentcliffe, Eric</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Jones, Eddie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<note>Information obtained from Rafe Culpin's UK Filk Music Database.
+Listed by Ned Brooks on fanac.org, credited to Eric Bentcliffe. 
+Bentcliffe's nomination on the 1960 TAFF ballot attributes this
+book to him.</note>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ballad of The Little Blue Ship</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sandfield, Laurence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Little Brown Jug</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Four Jolly Spacemen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sandfield, Laurence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lonely Woman's Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sandfield, Laurence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>When the Saints Go Marching In</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sandfield, Laurence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>When the Saints Go Marching In</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song in Exile</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sandfield, Laurence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Londonderry Air</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Space Club Drag</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sandfield, Laurence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+</mods>

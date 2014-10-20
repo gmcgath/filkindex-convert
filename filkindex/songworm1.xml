@@ -1,0 +1,1673 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="songworm1">
+<recordInfo>
+<recordCreationDate>2007-05-31</recordCreationDate>
+<recordChangeDate>2007-12-16</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Songworm Segment 1</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>Song parodies by Bob Kanenfsky</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>Bob Kanefsky</publisher>
+</originInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Songworm</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Songbird</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Turing Test</title>
+   <subTitle>(Mola)</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lola</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>The Kinks</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Pirate Jenny's Granddaughter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Pirate Jenny</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Kurt Weill</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Zombies Robbing the Grave</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bridge Guard in the Karroo</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Warning for Unknown Voters</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>A Toast for Unknown Heroes</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Azi Workforce</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Union Label</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Green, Paula</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Dodds, Malcolm</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Technophobe's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Undertaker's Horse</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Macintosh Town</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Nottimun Town</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Fannish Harper</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Elven Harper</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Red Devil Inn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>HeavenCon</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Firefly</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Firebird</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Nightwriter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Nightcrawler</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Trilogy Readers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Mazianni</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hobbit of the Brandywine</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Blacksmith of Brandywine</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Garvey, Pat</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Garvey, Victoria</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Camazotz</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Camelot</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Loewe, Frederick</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Grow Together</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Come Together</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>McCartney, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rama's Company</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Threes</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rampage</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Golden Eyes</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shapes of Shadow</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Shades of Shadow</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Code</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Men of Harlech</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Just Say No</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Shai-hulud</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Sons of the Saxons</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Song of the Shield-Wall</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Williamson, Melissa</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Janet's Sing</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Janet's Ride</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Jones, Heather Rose</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Argo's Fire-Breathing Daughter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Banned from Argo</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Trekkies Have Invaded</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Calm Down</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Making Love Weighing Nothing at All</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Making Love Out of Nothing at All</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Steinman, Jim</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>From Delta with Love</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Farewell, Mother Russia</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sanders, Debra</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Popeye the Sailor's Ghost</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Carmen Miranda's Ghost</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Boots II</title>
+   <subTitle>The Second Irritation</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Boots</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Auctioneer's Hymn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Engineer's Hymn</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bits</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Boots</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bandersnatch</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Heretic Heart</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mundanes' Waltz</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Witnesses' Waltz</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Johnny's Little Pet</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Daddy's Little Girl</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fellows Eating Breakfast</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Fellowship Going South</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Creature in the Wood</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Creature of the Wood</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Obermarck, Philip</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Alexander, Heather</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tinker's Grandson</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Tinker's Daughter</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Hayes, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tapes! Why'd It Have to Be Tapes?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Snakes</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>McQuillin, Cynthia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sing in the Circle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Dance in the Circle</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Alexander, Heather</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Cat Maiden's Regrets</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Cat Maiden</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Another Saturday Night</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Another Saturday Night (and I Ain't Got Nobody)</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Stevens, Cat</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filksingers, Filksingers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ferryman</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Perils of "Lord of the Dance"</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lord of the Dance</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song from the Pigs' Side</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Song from the Men's Side</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filk of the Night-Mare</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Hymn to the Night-Mare</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Little Fuzzy Icicle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Little Fuzzy Animals</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Hayes, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Never Underestimate Your Case</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Never Set the Cat on Fire</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Hayes, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sky Vermin</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sky Dancer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Shoji, Joey</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Daddy's Other Little Girl</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Fun Fun Fun</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Wilson, Brian</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Love, Mike</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Highway Hypnosis</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Only Have Eyes for You</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dubin, Al</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Winter Horrorland</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Winter Wonderland</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bernard, Felix</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Smith, Richard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Water in the Pipes</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Wind in the Pipes</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Davis, Meg</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Picador</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Come a Little Bit Closer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Leiber, Jerry</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Stoloer</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>One in Ten</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Horse-Tamer's Daughter</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lucy in Disguise</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lucy in the Sky With Diamonds</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>McCartney, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The White Unicorn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Green Gryphon</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Davis, Meg</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Singer of the Shadow</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Singer in the Shadow</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>McQuillin, Cynthia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Need Caffeine</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Goodnight Irene</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ledbetter, Huddie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Lomax, John A.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>On the Silvery Moon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>By the Light of the Silvery Moon</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Madden, Ed</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Edwards, Gus</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bringing in the Sheaves</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>S.E.T.I.</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Somewhere Out There</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Weil, Cynthia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Horner, James</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Mann, Barry</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Man/Wolf</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ladyhawke!</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lullaby for a Weary Body</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lullaby for a Weary World</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Burnside, T. J.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Doppel-entendre</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kanefsky, Bob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Doppelgänger</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="barbecuedsongbook">
+<recordInfo>
+<recordCreationDate>2009-10-03</recordCreationDate>
+<recordChangeDate>2009-10-03</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Barbecued Songbook</title>
+<subTitle>Music Sung in the Filking Community of Texas and Oklahoma</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">English</languageTerm>
+</language>
+<physicalDescription>
+<!-- The form element will be the same for all printed books -->
+<form authority="marcform">print</form>
+<note>Spiral Bound</note>
+</physicalDescription>
+<originInfo>
+<place>
+  <placeTerm type="text">Published in Arlington, Texas</placeTerm>
+</place>
+<publisher>Pegasus Music</publisher>
+<dateIssued>1987</dateIssued>
+</originInfo>
+<accessCondition>All songs are reprinted here by permission of the authors.</accessCondition>
+<name type="personal">
+<namePart>Merritt , Scott</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Mize, Samuel</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<!-- Illustrators, including the cover artist, may be listed here -->
+<name type="personal">
+<namePart>Patterson, Teresa</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fredericks, Ian</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Tagrin, Darla</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Neko, Hisho kara no</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martin, Jean</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Potter, Doug</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Tagrin, Darla</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sherlock</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bostick, Angela</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<note>
+Illustration credits:  Ian Fredericks, Teresa Patterson, Darla Tagrin, front cover.
+Teresa Patterson, page 1. 
+Hisho kara no Neko, page 2. 
+Jean Martin, page 11.
+Doug Potter, page 29.
+Darla Tagrin, pages 30, 66, 67.
+Sherlock, pages 35, 46, 47, 48, 51, 52, 54, 55, 57.
+Angela Bostick, page 39.
+Samuel Mize, pages 43, 44, 45.
+</note>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Diamond (Bonnie Ship the Diamond)</title>
+</titleInfo>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Henry Martin</title>
+</titleInfo>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kilgary Mountain (Whiskey in the Jar)</title>
+</titleInfo>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Star of the County Down</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGarvey, Cathal</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wild Rover</title>
+</titleInfo>
+<note>The is an added verse for bards written by Samual Mize</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Amanda Morgan</title>
+</titleInfo>
+<name type="personal">
+<namePart>McMurray, Clifford (Kip)</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<!-- If the song is based on an existing tune, use this element.
+     If it combines multiple tunes, use one preceding relatedItem
+     for each tun. -->
+<titleInfo>
+<title>Peggy Gordon</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Caretakers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sutton, Bill</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Children of Tomorrow</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bailey, Robin W.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Windmills</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bell, Alan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dorsai Masters of War</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bailey, Robin W.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Masters of War</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>F'nor's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Christmas, Bill</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>It Won't Fly, Orville; Or:It Runs in the Family</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cherryh, C. J.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ladyhawk</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mize, Samuel</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Merritt, Scott</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Machiavel</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cherryh, C.J.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Memory Field</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gentry, Jon</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Men of the Border</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis &amp; Ron Snow, Charles</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Pride of Chanur</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Spacechild Lost</title>
+</titleInfo>
+<name type="personal">
+<namePart>Prather, Anne</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Star Pilot's Hymn</title>
+</titleInfo>
+<name type="personal">
+<namePart>Prather, Anne</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sweet Lady</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Charles</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Visitor</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cherryh, C,J.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wong's Lost and Found Emporium</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gallagher-Wu, Diana</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Brothers of the Dorsai</title>
+</titleInfo>
+<name type="personal">
+<namePart>Drew, Dennis</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Henry Martin</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cold Plastic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mize, Samuel</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Cold Iron</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Do It Yourself</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sutton, Bill</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dragon's Breath</title>
+</titleInfo>
+<name type="personal">
+<namePart>Drew, Dennis</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Dragon's Report</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stephens, Claire</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Irish Washerwoman</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filk-A-Teer</title>
+</titleInfo>
+<name type="personal">
+<namePart>Merritt, Scott</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bonnie Ship the Diamond</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Monsters in the Night</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gallagher-Wu, Diana</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>An Old Cliche Revisited</title>
+</titleInfo>
+<name type="personal">
+<namePart>Farran, Randy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Irish Washerwoman</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Only One Song in the World</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mize, Samuel</namePart>
+<role>
+<roleTerm>compiler</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Oh! Susannah (mostly)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Foster, Stephen</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Pan Galactic Gargle Blaster Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ballagher-Wu, Diana</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Post-Con Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hanson, Gary</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Reconsideration of Anatomical Docking Maneuvers in a Zero-Gravity Environment</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gallagher-Wu, Diana</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Scoundrels</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Irish Washerwoman</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Shai Hoka!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sellars, Nigel</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bonnie Lass of Fyvie</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sunday Mornin' at the Con</title>
+</titleInfo>
+<name type="personal">
+<namePart>Farran, Randy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Sunday Mornin' Comin' Down</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kristofferson, Kris</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Thieves of the Kif</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mize, Samuel</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Mirritt, Scott</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Pride of Chanur</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wouldn't You Rather be a Pro</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sutton, Bill</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+</mods>

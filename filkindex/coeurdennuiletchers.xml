@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl"?>
+<mods xmlns="http://www.loc.gov/mods/v3" ID="coeurdennuiletchers">
+  <recordInfo>
+    <recordCreationDate>2013-12-22</recordCreationDate>
+    <recordChangeDate>2013-12-22</recordChangeDate>
+  </recordInfo>
+  <titleInfo>
+    <title>The Coeur d'Ennui Letchers Guild Songbook</title>
+  </titleInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <note>Legal Size folded &amp; saddle stapled</note>
+  </physicalDescription>
+  <abstract>SCA songs</abstract>
+  <originInfo>
+    <publisher>William Coeur du Boeuf [Bill Fesselmeyer]</publisher>
+    <dateIssued>date unknown</dateIssued>
+  </originInfo>
+  <note>Individual songs are not credited. Information provided by Margaret Middleton.</note>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Four Able Physicians</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Three Travellers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>My Longing Desire</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Squire of Great Reknown</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Baffled Knight</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Oh, No, John!</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Lusty Young Smith</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Riddle</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Blow the Candles Out</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Trooper</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Surprised Nymph</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Put in All! Put in All!</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Two Maidens Went A-Milking</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Comely Dame of islington</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Old Fumbler</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>A Wanton Trick</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Codfish</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Character of a Mistress</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Maids, When You're Young</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Alexandria</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Chastity Belt</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Lady and the Letcher</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Chandler's Shop</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>My First Love in Life</title>
+    </titleInfo>
+  </relatedItem>
+</mods>

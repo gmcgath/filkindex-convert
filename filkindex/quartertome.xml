@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="quartertome">
+<recordInfo>
+<recordCreationDate>2013-02-06</recordCreationDate>
+<recordChangeDate>2013-02-06</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Quartertome</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>A4, spiral bound</note>
+</physicalDescription>
+<abstract>Songbook for Quartertone, the 2013 UK filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">England</placeTerm>
+</place><publisher>Beccon Publications</publisher>
+<dateIssued>2013</dateIssued>
+<note>Information based on Beccom website, which doesn't say
+whether the songs are to original or existing tunes. For consistency,
+all writers are credited with lyrics only, even where independent
+information is available.</note>
+</originInfo>
+<name type="personal">
+<namePart>Richards, Alison</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+
+<name type="personal">
+<namePart>Dennis, Miki</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Afraid of the Shark</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Anna</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Daddy's Little - Oh Amy!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Empty Chair</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The One Left Behind</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Thank You Kindly</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Well Beyond</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Washing Day</title>
+   <subTitle>Spin the Cat</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Rundle, Anne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>If Janis Joplin Had Been a Filker </title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barton, Andrew</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ai Cthulhu </title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Biddle, Brian</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mambo Frankenstein </title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Biddle, Brian</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Occupation: Laundryman </title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bristow, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Path-ology</title>
+   <subTitle>or, "We Must Never Let Sheldon Get This Drunk Again!"</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bristow, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ragged Edge </title>
+   <subTitle>A Microwaving Shanty</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bristow, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Child of the Library</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Cawley, Piers</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Cawley, Gill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Alien Jellyfish Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Conway, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Circle of One</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Conway, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Vegetarian Vampire</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Conway, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>When the Night Has Come</title>
+   <subTitle>Daleks Scaring Me</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Alastair, Rachel</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Alastair, Abigail</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Where's Your School Bag?</title>
+   <subTitle>Daleks Scaring Me</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Alastair, Rachel</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Alastair, Abigail</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>As Am I</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dean, Lawrence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Labyrinth of Shadows</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dean, Lawrence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Listener</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dean, Lawrence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Robber Kings</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dean, Lawrence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Upon Saint Crispin's Day</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dean, Lawrence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sacrifice</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Miki</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sisters Three</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Miki</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Atheist's Anthem</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>That Kind of Mouse</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Word of God</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The King's Lute</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Alway, Peter</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Don't Play the Theremin</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gordon-Kerr, Martin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Gordon-Kerr, Andy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Downtown Skyline</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gordon-Kerr, Martin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Gordon-Kerr, Andy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Old Macdonald Had a Form</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hamilton, Douglas</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Twenty-First Century Streets</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hamilton, Douglas</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Distant Glass</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hoffman, Merav</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Thousand Ships</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Honisch, Juliane</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Catsblood</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Housden, Valerie R</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Following in Valentina's Footsteps</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Housden, Valerie R</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Death Danced at My Party</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spoon ! </title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Uffington Hill</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Grief in Little Pieces</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Allcock, Philip</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sharing Music</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lastalda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Broom Maker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Boy in the Room</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Malme, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Here Stands a Man</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Malme, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Moon Is a Harsh Mistress</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Malme, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shades of Grey</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Malme, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Suddenly Eeyore</title>
+   <subTitle>A Duet Between Christopher Robin and Pooh</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Malme, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Don't Leave Me Alone</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mitchell, Jacqueline</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Count Plantagenet</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nanson, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>So String It with Silver</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nanson, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Spark Song</title>
+   <subTitle>An Ode to Mad Science</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nanson, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Squeaker for the Dead</title>
+   <subTitle>An Ode to Mad Science</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nanson, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Music Has a Strong Magic</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>North, Gytha</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Grey Camel Line</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>North, Gytha</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sam's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nyrond, Soren</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mina's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Old Ones</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song for Amanda</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Antarean Automobile Association </title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Richards, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Music Shop</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Richards, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Pride</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Richards, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Keeper</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Richards, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Richards, Alison</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Nap of the Gods</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rosenfeld, Robert</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Hunter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sampson, Mich</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Can't Follow That</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wegener, Dave</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tater Medallion</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wegener, Dave</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Before the Dawn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Whitaker, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Desolation</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Whitaker, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

@@ -1,0 +1,1294 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="worldconsremembered">
+<recordInfo>
+<recordCreationDate>2006-12-04</recordCreationDate>
+<recordChangeDate>2006-12-10</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Worldcons Remembered</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>A songbook published for Chicon 2000, on the theme of Worldcons
+and other conventions.</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Chicago, Illinois</placeTerm>
+</place>
+<dateIssued>2000</dateIssued>
+</originInfo>
+<accessCondition>All songs copyright 2000 by their respective authors,
+except where noted. All rights are reserved to their respective authors.
+</accessCondition>
+<name type="personal">
+<namePart>Roper, Carol</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Headford, Sally</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Rihn, Greg</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Twelve Years at Worldcon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hayes, Frank</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Twelve Days of Christmas</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>Incorporates lyrics from "The Blacksmith of Brandywine" by Pat and Victoria Garvey, "Privateer" by Michael Longcor, "Unreality Warp" by Clif Flynt, "The Ballad of Gordy Dickson" by Ben Bova, and "Hope Eyrie" by Leslie Fish</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>At the First World Con</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Longcor, Michael</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>When I'm Sixty-Four</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Daddy is a Spaceman</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Veal, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Daddy Is a Yale Man</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Damned Infernal Elevators</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dorn, Sherman</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Little Fuzzy Animals</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Hayes, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Song of the WSFS, Inc.</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Falasca, Nick</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Little Fuzzy Animals</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Hayes, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>Originally published in A STF &amp; FSY SONGBOOK #1, 1960</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>(And It Feels Like It Must Be) Five Hundred Miles</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lurie, Perrianne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Five Hundred Miles</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>West, Hedy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ghost Pirates in DC</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ghost Riders in the Sky</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Jones, Stan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Fen Behind Chicago</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hall, John</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Men Behind the Wire</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Con Organizer's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sommer, Jacob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Twelve Days of Christmas</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>At the World-Con</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Bowery</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Gaunt, Percy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Remember the Hyatt</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, Bill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Flynt, Clif</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>No Quarter, No Quarter</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Coulson, Juanita</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Con Bid</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gold, Lee</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sixteen Tons</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Travis, Merle</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Con Chairman</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Higgins, Barbara Lynn</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Destroyer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Roper, Bill</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Be Our GoH</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Smith, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Be Our Guest</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'm Not Leaving on a Jet Plane</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lurie, Perianne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Leaving on a Jet Plane</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Denver, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Hallways of BucCONeer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mandel, Mark</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Streets of Laredo</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Five Wise Fen of Worldcon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, Carol</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Feld, Harold</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hotel Metropole</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lurie, Perianne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Hotel California</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Henley, Don</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Frey, Glenn</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Felder, Don</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Collector's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Strauss, Erwin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>House of the Rising Sun</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Charlie and the Illinois Center</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Charlie on the MTA</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>NASFiC ConDiego</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Hotel California</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Henley, Don</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Frey, Glenn</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Felder, Don</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Doctor of Physique</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ortlieb, Marc</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Doctor of Physick</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Still at World Con</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kirby, Larry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Still in Saigon</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Hate Worldcon Elevators</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Billings, Lee</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Hate Little Firelizards</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ode to ConFiasco</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Where Have All the Flowers Gone?</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Seeger, Pete</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>SMOF Widow Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, Bill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Roper, Gretchen</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Chicon's OK</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dane, Bruce M.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lincoln Park Pirates</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Goodman, Steve</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Am the Very Model of a Fannish Individual</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Pomeranz, John</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Bentley, Mary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Major General's Song</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sullivan, Arthur</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Evolution of a Neo</title>
+   <subTitle>or, Why Dating Mundanes Doesn't Work</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Billings, Lee</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Susan B.</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Worldcon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ortlieb, Marc</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Maria</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bernstein, Leonard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Working the Convention Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, Bill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Working at the Car Wash Blues</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Croce, Jim</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ops Junkie</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Higgins, Barbara Lynn</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sweet Betsy from Pike</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Tribute to Nola-Con</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>City of New Orleans</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Goodman, Steve</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Nolacon Two</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lurie, Perrianne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>House of the Rising Sun</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ballad of the Pousse-Café</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bonnie Ship the Diamond</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Step by Step</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>(The Con They Call the) City of New Orleans</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lillian, Guy H. III</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Leger, Matt G.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>City of New Orleans</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Goodman, Steve</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Bonnie Intersection</title>
+   <subTitle>or, It's Where, Jim?</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Loch Lomond</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Big Con of Summer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Walker, Anne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Last Rose of Summer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Maeder, James G.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>At Magicon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Levine, Rennie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Alberta Bound</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lightfoot, Gordon</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>MagiCon Hymn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Olympics Theme, 1992</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>ConFiction Frictions</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lurie, Perrianne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Windmills</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bell, Alan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Thanks to the Fen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Flynt, Carol</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Waltzing with Bears</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Marxen, Dale</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Convention of 2140</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bristol, John A.</namePart>
+     <role>
+       <roleTerm>publisher</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Smiles</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>Reprinted from the Science Fiction Song Sheet I, published by John A. Bristol for the Chicago 1940 World Science-Fiction Convention and the Fantasy Amateur Press Association.
+John A. Bristol was a pseudonym of Jack Speer, who may also have
+written the song.</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Heaven-Con</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mar, Kathy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Con Man Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Sally</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filky the Snowman V.2K</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lapgan, Palman</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Frosty the Snowman</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Nelson, Steve</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Rollins, Jack</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Walk Like a Sith</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Smith, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Walk Like a Man</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Return of the Filk</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Return of the King, Uh-Huh</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Smith, Tom</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Eight Days of Iggy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dane, Bruce M.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Twelve Days of Christmas</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Iguana Stew</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barton, Gail</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Baby Face</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Davis, Benny</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Akst, Harry</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Who's Next? (to be fired from IguanaCon?)</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dane, Bruce M.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Who's Next</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lehrer, Tom</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dead Dog Time</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>O'Brien, Maureen</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Closing Time</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Seismonic</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

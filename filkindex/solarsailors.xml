@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="solarsailors">
+<recordInfo>
+<recordCreationDate>2007-01-04</recordCreationDate>
+<recordChangeDate>2007-01-04</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Solar Sailors</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>15 pages</extent>
+</physicalDescription>
+<abstract>Includes the lyrics for the songs from the filk 
+record/tape Solar Sailors. Songs by Leslie Fish.</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>Bandersnatchi Press</publisher>
+</originInfo>
+<accessCondition>Lyrics and original music Copyright 1977 by Leslie Fish</accessCondition>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<note>Information provided by Harold Stein</note>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Starwind Rising</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Eternal Loser</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Wobblies from Space</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Couplets for a Departure</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Castaway</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Banned from Argo</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Thoughts on Strange Visitors</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Six Haiku For A New Flower</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Enemy Within</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Neutral Zone, Romulan View</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Starwind Rising (Reprise)</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

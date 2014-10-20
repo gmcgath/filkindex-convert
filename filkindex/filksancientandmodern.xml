@@ -1,0 +1,715 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="filksancientandmodern">
+<recordInfo>
+<recordCreationDate>2006-12-10</recordCreationDate>
+<recordChangeDate>2006-12-10</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Filks Ancient and Modern</title>
+</titleInfo>
+<identifier type="isbn">1-870824-20-2</identifier>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>A5, comb binding</note>
+</physicalDescription>
+<abstract>Songbook for Pentatonic, the 1993 British filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">England</placeTerm>
+</place>
+<publisher>Beccon Publications</publisher>
+<dateIssued>1993</dateIssued>
+</originInfo>
+<accessCondition>Contents copyright Pentatonic, January 1993. Copyright reverts to contributors on publication.</accessCondition>
+<name type="personal">
+<namePart>Bell, Chris</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nyrond, Zander</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fan in the Bar</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bell, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Beautiful Girl on the Train</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Atkin, Pete</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>4-Play Filk</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Parkinson, Dave</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sugar for Inspiration</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Flowers for Algernon</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mar, Kathy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Way We Do in Bendo</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bell, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Corruption of the Innocent</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>FanTom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sixteen Tons</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spaceships</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Short, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Oriole</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Titanic</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Soul Thief</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Norwegian Wood</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>McCartney, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'm on PAL</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Evans, Peter J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Swallow, Jim</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I'm on Fire</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Springsteen, Bruce</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Filksinger</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>FanTom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Early One Morning</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Death, the Anthropomorphic Personification</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Amos, Simon</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Puff, the Magic Dragon</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Yarrow, Peter</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filked Ya</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Malme, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Kissed You</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mon Seul Desir</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Mon Seul Desir</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shallott</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bell, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Kwisatz Haderach</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Amos, Simon</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Gypsies, Tramps and Thieves</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Intervention</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Amos, Simon</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lord Grenville</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Stewart, Al</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Librarian, Song of the</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>9 to 5 Barbarian</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sutton, Bill</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filking's Not Fair</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Grant, Bruce W.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Oh, Dear, What Can the Matter Be?</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>From a Fragment</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bell, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <note>The first verse dates from the sixteenth century; the rest is by Chris Bell.</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Desolation Road</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Amos, Simon</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Telegraph Road</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Three Little Maids</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Silver, Pat</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Three Little Maids from School</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sullivan, Arthur</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filker's Prayer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Oriole</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Slane</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Old Man Reiver</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>FanTom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Old Man River</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Kern, Jerome</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Techie Gopher</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bell, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Little Susie</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Idic Way</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Rhodri</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Preacher and the Prof</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Robinson, Jane</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>On Top of Cthulhu</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>On Top of Old Smokey</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Yuppie's Hymn to Thor</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Oriole</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>As With Gladness Men of Old</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Eternal Rewriter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Grant, Bruce W.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Eternal Loser</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fan's Daydream</title>
+   <subTitle>or, Let the Tech Ops Beware</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Mash</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tribbles on the Way</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>FanTom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Amateur Rebels</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Big Furry Friend</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>My Four-Legged Friend</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Invitation</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

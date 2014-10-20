@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="sandwormsongbook">
+<recordInfo>
+<recordCreationDate>2006-11-27</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Sandworm Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<originInfo>
+<dateIssued>circa 1970</dateIssued>
+</originInfo>
+<note>Listed by Ned Brooks on fanac.org.</note>
+<name type="personal">
+<namePart>Vardeman, Bob</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+
+</mods>

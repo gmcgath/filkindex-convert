@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="recroomrhymes5">
+<recordInfo>
+<recordCreationDate>2007-03-05</recordCreationDate>
+<recordChangeDate>2007-05-20</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Rec-Room Rhymes #5</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Roberta Rogow and others</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>Other Worlds Books</publisher>
+<dateIssued>1987</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1987.
+All rights revert to original poets.
+</accessCondition>
+<name type="personal">
+<namePart>Rogow, Roberta</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ellenbacher, Jean</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Malone, Pat</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Michaud, Juanne</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Morrison, Andrew</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Posadas, Pat</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Pratt, Jackie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Rondeau, Melody</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Shaver, Teegar</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Summers, Gennie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Williams, Marie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Whaling Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Admira</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'm a Vulcan</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Grand Old Barnes</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ode to the Enterprise</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spock, the Mighty Vulcan</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Welcome Aboard</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Puhl, G.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Credo of Security</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fly On!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Rec-Room</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Has Anybody Here Seen the Archons?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hollander, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Star Trek, the Next Generation</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Puhl, G.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Company Marines</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>You Belong to the Empire</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Accidents Will Happen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Baker, G.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>TARDIS Bells</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sarick, T.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dr. Scarves</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sarick, T.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Time Filker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Landerman, S.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Tilter at Windmills</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <note>With counterpoint by H. Feld</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Criminal Pursuits</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>"Liberator" Journey</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Resistance Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McIver, J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Demolition Man</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Malone, P.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Town Called Silverado</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Grand Canal</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ruth, the White Dragon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clawser, C.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Editor's Advisory</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fanville Hacks</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crawford, D.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Fanzine Editor's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Use for "Argo"</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name>
+      <namePart>Baltimore Filkers Anonymous</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hotel Search</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name>
+      <namePart>Shore Leave Filkers Anonymous</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Child's Guide to the Solar System</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

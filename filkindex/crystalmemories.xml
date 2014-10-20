@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="crystalmemories">
+<recordInfo>
+<recordCreationDate>2007-01-23</recordCreationDate>
+<recordChangeDate>2007-08-17</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Crystal Memories</title>
+</titleInfo>
+<identifier type="isbn">0-910483-05-1</identifier>
+<originInfo>
+<place>
+  <placeTerm type="text">Berkeley, California</placeTerm>
+</place>
+<publisher>Off Centaur Publications</publisher>
+<dateIssued>1981</dateIssued>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Wayne, Phillip</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Lee, Teri</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Cook, Catherine</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kare, Jordin</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<note>Information provided by Harold Stein
+</note>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Cold Dreams</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Live and Learn</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hanarahan’s Bar</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Icarus Arising</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Howl at the Moon</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The One of Us</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fuel to Feed the Drive</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Lord of the Night Wind Rune</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Moon Runner</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dark Memories</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Arise, My Love</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dark Moon Circle</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Year of the Unicorn</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Innocence</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Three Sisters</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Pan, Pan, Pan</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ballad of the Peacetime Soldier</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Green Passions</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Marching Song of the Uruk Hai</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Doc’s Guitar</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Lament of a Dry Town Bridge</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Android’s Love Song</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Valkyrie’s Last Ride</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dark Desires</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Visitor</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

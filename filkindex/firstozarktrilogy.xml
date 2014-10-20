@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="firstozarktrilogy">
+<recordInfo>
+<recordCreationDate>2007-12-01</recordCreationDate>
+<recordChangeDate>2007-12-05</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>First Ozark Trilogy Filksong Collection</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+
+<originInfo>
+<publisher>Magic Granny Line</publisher>
+<dateIssued>1982</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1982 by Suzette Haden Elgin</accessCondition>
+<note>Information from Margaret Middleton</note>
+<name type="personal">
+<namePart>Elgin, Suzette Haden</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song of the Bridgewraith</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Girl Improperly Named</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Troublesome's Song</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Bodacious Stableman</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song of the Mule</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Proper Naming Song, for Girlbabies</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Yallerhound Blues</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Cunning Charlotte</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Responsible's Song</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Caroline-Ann's Song</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Baby No Granny Would Name</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spells, Oh Spells, Oh Careless Spells</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sibling Song</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Again, Amazing Grace</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ozark Music Theory</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

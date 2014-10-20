@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="conterpoint2013">
+<recordInfo>
+<recordCreationDate>2013-07-02</recordCreationDate>
+<recordChangeDate>2013-07-02</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Conterpoint 2013 Program Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Program book with songs for Conterpoint 2013, the 
+Baltimore-Washington area 2013 NEFilk convention</abstract>
+<originInfo>
+<publisher>Conglomeration</publisher>
+<dateIssued>2013</dateIssued>
+</originInfo>
+<name type="personal">
+<namePart>Ehrlich, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Leger, Matt</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hartford to Hogwarts</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ross, Andrew</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Galway to Graceland</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Thompson, Richard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>CGI</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Cinii, Ariel</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>That Old-Time Rock &amp; Roll</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Out in the Darkness</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jeffers, Sue</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tribute</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Greenberg, Sandra</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Greenberg, Bari</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The One on the Right</title>
+   <subTitle>(Fannish Version)</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kirby, Larry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The One on the Right</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Valancy's Gift</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Kids These Days</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Maaren, Kari</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Principles of Website Design, Circa 1987</title>
+   <subTitle>(Simple GIFs)</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kesselman, Joe</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Simple Gifts</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Brackett, Joseph Jr.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Board and Twine</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jeffers, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Geek Love Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Elumir, Errol</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Lindan, Erin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hymn of the Grayson Farmer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Feld, Harold</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Puddler's Tale</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Rogers, Stan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Sweet Lo</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mangan, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>My Sweet Lord</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Harrison, George</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Martian Cowboy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Stanfill, Craig</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Western Cowboy</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>City of Lorr</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>City of Doors</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Crowell, Mary</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Star Wars VII</title>
+   <subTitle>The J. J. Abrams Version</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Borgeye the Filker Man</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mangan, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Popeye the Sailor Man</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lerner, Sammy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Around a Distant Star</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rosenfeld, Robert</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Changes</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gold, Lee</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Other Side of the River</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mills, Phil</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Running Down the Stars</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, Bill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Greek Humanities 101</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Ross, Andrew</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>(I’m Gonna Be) 500 Miles</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>The Proclaimers</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+
+</mods>

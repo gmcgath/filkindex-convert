@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="recroomrhymes14">
+<recordInfo>
+<recordCreationDate>2007-03-05</recordCreationDate>
+<recordChangeDate>2007-05-20</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Rec-Room Rhymes #14</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Roberta Rogow and others</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>Other Worlds Books</publisher>
+<dateIssued>1997</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1997 Roberta Rogow
+</accessCondition>
+<name type="personal">
+<namePart>Rogow, Roberta</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sibley, Jane</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Cole, Michael</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Landis, Kate</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Editor Speaks</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Take It to the Limit!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Beat the Borg!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Which Side Are You On?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Kirk Ain't So Special</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crawford, Dan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Holo-Doc's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Schloesser, Dawn</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>It's Now or Never!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Zathras Fan Club Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>French, Kassi</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Shadow Family</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Difranco, Steven</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Just Another Day in Med-Lab</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>"X-Filk"</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Schloesser, Dawn</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Sidekick</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Independence Day</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>They Have Survived!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Razzle-Dazzle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crawford, Dan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Girl in the Chain-Mail Brassiere</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wernick, P.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Okamura, D.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Conventional Insomnia</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Escher's Convention</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>French, Kassi</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

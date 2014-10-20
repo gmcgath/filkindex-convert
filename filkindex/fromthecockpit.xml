@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="fromthecockpit">
+<recordInfo>
+<recordCreationDate>2008-05-03</recordCreationDate>
+<recordChangeDate>2010-06-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>From the Cockpit</title>
+<subTitle>The Con-Chord Post-Convention Songbook</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<abstract>Songbook accompanying the ConChord I convention of 1983</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Westminster, California</placeTerm>
+</place>
+<publisher>ConChord and The Philk Fee-Nom-ee-non (PFNEN)</publisher>
+<dateIssued>1983</dateIssued>
+</originInfo>
+<accessCondition>Copyright &#xA9; 1983 by Dag Designs.</accessCondition>
+<note>Information from Barney and Kate Evans</note>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>Invention</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Claire, Stephens</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Oh-Oh, I'm Falling in Love Again</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hoffman, Al</namePart>
+</name>
+<name type="personal">
+<namePart>Manning, Dick</namePart>
+</name>
+<name type="personal">
+<namePart>Markwell, Mark</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>Give The Cockpit A Try</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Ross, Patricia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Born To Run</title>
+</titleInfo>
+<name type="personal">
+<namePart> Springsteen, Bruce</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>Just Don't Take It Our On Me</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Ross, Patricia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>It's Still Rock And Roll To Me</title>
+</titleInfo>
+<name type="personal">
+<namePart>Joel, Billy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>Wing Chewer's Song</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>O'nal, A. T.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Someone's Knocking At the Door</title>
+</titleInfo>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>Tommy Sorethumb</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Ross, Patricia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Pinball Wizard &amp; Tommy Can You Hear Me</title>
+</titleInfo>
+<name type="personal">
+<namePart>Townshend, Pete</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>Fight Song</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Claire, Stephens</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>An old high school fight song</title>
+</titleInfo>
+<name>
+<namePart>Many High School Students</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>The Mummy &amp; The Soprano Re-unite</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Ross, Patricia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Evergreen</title>
+</titleInfo>
+<name type="personal">
+<namePart>Williams, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord: The Movie, The Musicial</title>
+<subTitle>I've Grown Accustomed To Deep Space</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Katz, Curtis L.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>I've Grown Accustomed To Her Face</title>
+</titleInfo>
+<name type="personal">
+<namePart> Loewe, Frederick</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Filker</title>
+</titleInfo>
+<name type="personal">
+<namePart>Weiss, Rick</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Joyce, Mistie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Designer</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin, Cindy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Film Maker</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fox-Davis, Susan</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Windwalker</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willson, Karen</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Con-Chord</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rose, Robert K.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Convoy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis Jr., Louis F. </namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Official Song of the Science Fiction Club of the University of Wallamaloo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rose, Robert K.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Philosopher's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Idle, Eric</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Con-Chord<sup>2</sup></title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>New York Escape</title>
+</titleInfo>
+<name type="personal">
+<namePart>O'Nal, A.T.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>New York, New York</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>An Asteroid Named Reststop</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Blade Runner</title>
+</titleInfo>
+<name type="personal">
+<namePart>Speelman, John</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Road Runner Theme</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cameron, Barbara</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>James Watt Spacer Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Streeter, Rander</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Wouldn't It be Loverly</title>
+</titleInfo>
+<name type="personal">
+<namePart>Loewe, Frederick</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Con Hills of Earth</title>
+</titleInfo>
+<name type="personal">
+<namePart>Streeter, Randa</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Sound of Music</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rodgers, Richard</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Star Linker</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rosen, Andy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Rainbow Connection</title>
+</titleInfo>
+<name type="personal">
+<namePart>Williams, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart> Ascher, Kenneth</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dangerous Color</title>
+<subTitle></subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Passovoy, Anne</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Sea Queen</title>
+</titleInfo>
+<name type="personal">
+<namePart>Parker, Rilla</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Banzhof, Donna</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nine Princes in Amber</title>
+</titleInfo>
+<name type="personal">
+<namePart>Joyce, Mistie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Henry Martin</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Betrayal</title>
+</titleInfo>
+<name type="personal">
+<namePart>Banzhof, Donna</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Long, Rebecca</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Consurvival 101</title>
+</titleInfo>
+<name type="personal">
+<namePart>Streeter, Randa</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>How to Handle A Woman</title>
+</titleInfo>
+<name type="personal">
+<namePart>Loewe, Frederick</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Animation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Weber, Chris</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Alouette</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nothing Will Ever Be The Same</title>
+<subTitle></subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Clark, Ernest</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Alien Aria</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dayne, Alison</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Yesterday</title>
+</titleInfo>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>When the Fans go Marching In</title>
+</titleInfo>
+<name type="personal">
+<namePart>Speelman, John</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When The Saints Go Marching In</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>SW Round 6.1</title>
+</titleInfo>
+<name type="personal">
+<namePart>O'Nal, A.T. </namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Farajachqua</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lim Jong Tea &amp; Me</title>
+</titleInfo>
+<name type="personal">
+<namePart>Weber, Chris</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>My Bonnie</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Astral Projection</title>
+</titleInfo>
+<name type="personal">
+<namePart>Aronson, Peter</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>My Bonnie</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Frustration</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shapero, Kay</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Run, Cthulu, Run</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sung From Under The Bed</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shapero, Kay</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Cecilia</title>
+</titleInfo>
+<name type="personal">
+<namePart>Simon, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Breeze</title>
+</titleInfo>
+<name type="personal">
+<namePart>Parker, Rilla</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Banzhof, Donna</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Searching</title>
+</titleInfo>
+<name type="personal">
+<namePart>Parker, Rilla</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Donna Banzhof</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Degobah</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dayne, Alison</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Camelot</title>
+</titleInfo>
+<name type="personal">
+<namePart>Loewe, Frederick</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Pusher</title>
+</titleInfo>
+<name type="personal">
+<namePart>Clark, Ernest</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Go See HAL</title>
+</titleInfo>
+<name type="personal">
+<namePart>O'Nal, A.T. </namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Cal Worthington commercial theme</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filkers Dining Together</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bratman, David</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Sisters Dancing Together</title>
+</titleInfo>
+<name type="personal">
+<namePart>Taylor, Kathleen</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ode To The Britains</title>
+</titleInfo>
+<name type="personal">
+<namePart>Richardson, Valerie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dragon Man</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mailander, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Rocket Man</title>
+</titleInfo>
+<name type="personal">
+<namePart>John, Elton</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lost Souls</title>
+</titleInfo>
+<name type="personal">
+<namePart>Heslin, Rilla</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Banzhof, Donna</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Three Kings' Picnic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jane Mailander</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Teddy Bears' Picnic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bratton, John Walter</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</mods>

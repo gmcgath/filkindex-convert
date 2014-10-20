@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="liberatedtardistrek">
+<recordInfo>
+<recordCreationDate>2011-10-10</recordCreationDate>
+<recordChangeDate>2011-10-10</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Liberated Tardis Trek</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+<abstract>Songs and poems by Wendy D. Atkinson</abstract>
+<originInfo>
+<dateIssued>1989</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1989 Wendy D. Atkinson ALL RIGHTS RESERVED
+</accessCondition>
+<name type="personal">
+<namePart>Atkinson, Wendy</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+
+
+
+</mods>

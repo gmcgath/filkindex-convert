@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="wackademia">
+<recordInfo>
+<recordCreationDate>2009-12-29</recordCreationDate>
+<recordChangeDate>2009-12-29</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Dr. Jane's Wackademia</title>
+<subTitle>Lyric &amp; Chord Book</subTitle>
+</titleInfo>
+<originInfo>
+<place>
+  <placeTerm type="text">Berkeley, California</placeTerm>
+</place>
+<publisher>Unlikely Publications</publisher>
+<dateIssued>1989</dateIssued>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<abstract>Companion songbook to the cassette tape of the same name</abstract>
+<form authority="marcform">print</form>
+</physicalDescription>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Woodmansee, Ken</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Holmen, Rachel</namePart>
+<role>
+<roleTerm>photographer</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Drivel</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bamboo</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Van Ronk, Dave</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Doo-Da-Rock Rock</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>We Can't Find</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song of the Middle Manager</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The "Overflowin' Catbox" Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The "I Don't Know It" Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Empirical Strikes Back</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Battle with the Elements</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Anthem to Bureaucracy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

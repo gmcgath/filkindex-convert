@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="jutwo">
+<recordInfo>
+<recordCreationDate>2006-11-18</recordCreationDate>
+<recordChangeDate>2006-12-17</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Ju Two</title>
+<subTitle>New Songs on Philk, Phun, Phoolishness, Phoibles and Phantasy</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<language>
+<languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Juliane Honisch</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Frankfurt am Main, Germany</placeTerm>
+</place>
+<publisher>Self-published</publisher>
+<dateIssued>1997</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1997 Juliane Honisch.
+All  rights reserved, including copying, distribution or translation rights.
+No part of this book must be copied without a written permission  of the copyright holder/publisher.</accessCondition>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Koch, Sylvia</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Diener, Andrea</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sauder, Brigit</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filkers' Delight</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Spinning Tower</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dröge, Kerstin</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Holophile's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jazzing at Warp One</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Autumn Leaves</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Living on the Disc</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Terror Time in Lancre</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Rock Around the Troll</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Four Bikers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>My Heart's Not in the Highlands</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Snowqueen</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sleeping Beauty</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>No Frogs, Please</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Juvenile Delinquents</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Royal Dream</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Galway Bay</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nachtdrude</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ork Sein</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nightflyer</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dröge, Kerstin</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Körte, Rika</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Loving You</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Waldgeflüster</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Körte, Rika</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>High Chem Calamity</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cats Vs. Bears</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Not Quite the Truth</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Blind Paris</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Fan</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>My Personal Gneechie</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Storm</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Remembrance</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ghost From the Past</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sweet Seventeen</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Time to Grow Up</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>No Longer New</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Minstrel Boy</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>In Black Rain Drowning</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Here on the Mountain</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Grey Mundania</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dröge, Kerstin</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Questing Through Midgard</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mildred, the Librarian</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>An Island Called Sibín</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+</relatedItem>
+
+</mods>

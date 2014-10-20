@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="conflikt4">
+<recordInfo>
+<recordCreationDate>2014-05-25</recordCreationDate>
+<recordChangeDate>2014-05-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Conflikt IV Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+<abstract>Songbook for the Conflikt IV (2011) filk convention</abstract>
+<originInfo>
+<dateIssued>2011</dateIssued>
+<place>
+  <placeTerm type="text">Seattle, Washington</placeTerm>
+</place></originInfo>
+<accessCondition>All material rights to these songs are returned to the
+writers/composers upon publication. Copies may be made of this book for
+non-commercial use provided all copyright notices and credits are
+maintained intact.
+</accessCondition>
+<name type="personal">
+<namePart>Vohwinkel, Astrid</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Put My Low Stat</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crowell, Mary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Crazy Blind Michael</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ross, Andrew</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">Thompson, Richard</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Crazy Man Michael</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shuttle Bound for Glory</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Osier, Marc</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Truck Driver to the Stars</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Glover, Rich</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>There's a Hole in My Spaceship</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McCorison, Juliana</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>There's a Hole in My Bucket</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Diesel-Driven Eight Dimensional Jet Car Blues</title>
+   <subTitle>You Want It, Artie? You Got It</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Korra'ti, Dara</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Banzai, Buckaroo</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Tommy, Perfect</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Unexpected</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Shaddyr</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Mazing Grace</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Newman, Benjamin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Amazing Grace</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gamer Widow Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>MacKay, Charlene</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Short with Glasses</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jaekel, Dawn</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>One More Filksong</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Osier, Mark</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>One More Minute</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Yankovic, Weird Al</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Door into Summer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Baildon, Titania</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Veggie Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jacques, Shawna</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Siren Song</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dockrey, Michelle</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Fabris, Tony</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dark Lullaby</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lambard, Creede</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Lion's Cross</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ross, Andrew</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Southern Cross</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Callie's Law</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Weiss, Rick</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Beware of the Sentient Chili</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Weber, Chris</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

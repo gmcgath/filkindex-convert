@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="gafilk2012">
+<recordInfo>
+<recordCreationDate>2012-03-25</recordCreationDate>
+<recordChangeDate>2012-03-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>GAFilk 2012 Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>The songbook for the GAFilk 2012 filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Georgia</placeTerm>
+</place>
+<publisher>GAFilk Convention Committee</publisher>
+<dateIssued>2012</dateIssued>
+</originInfo>
+
+<name type="personal">
+<namePart>Crowell, Mary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Crowell, Wesley</namePart>
+<role>
+<roleTerm>Book designer</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Emerald Green</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dockrey, Michelle</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Fabris, Tony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Accidental Admiral</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Matthesen, Elise</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Am the Very Model of a Modern Major General</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sullivan, Arthur</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Annual Fairyland Ball</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Foye, Berdene C.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Tatum, Melissa L.</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mimsy</title>
+   <subTitle>(Was the Jazzersnark)</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Misty</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Garner, Errol</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lunatic Moon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, BIll</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Music of Life</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Tatum, Melissa L.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Malcolm, Jim</namePart>
+     <role>
+       <roleTerm>arranger</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Filking Zombie Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Always a Planet</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Snyder, W. Scott</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>She's Always a Woman</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Joel, BIlly</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fly</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mellenthin, Claudia</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Schafer, Hanspeter</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Aural Vixation</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wynne, Rob</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Girl Who's Never Been</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dockrey, Michelle</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Raining Iguanas</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Helmich, Rick</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Middleton, Margaret</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sweet Betsy from Pike</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Find Words for Me</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Alway, Peter</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Music's So Hot Tonight</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dorn, Sherman</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Baby, It's Cold Outside</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Loesser, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mama's Hands</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sutton, Brenda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Do It Yourself — Mark II</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Goode, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>McNamara's Band</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>A Doctor Who filk and parody of Bill Sutton's "Do It Yourself"</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>"Coming Armageddon"</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>The unPaul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Gentle Arms of Eden</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Carter, Dave</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gamer's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mason, Elliott</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Not Everybody Dies</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Neely, Erica</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sam and Rosie</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Goode, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Yellow Rose of Texas</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Dryad</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Meckley, Teresa</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Foye, Berdene C.</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Now That They're Gone</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Grossman, Marc</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>On My Own</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Schönberg Claude-Michel</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ooblek in the Bathtub</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Matthesen, Elise</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Crying in the Bathtub</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bucklin, Nate</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Strangers No More</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sutton, Brenda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>For Auld Lang Syne</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Burns, Robert</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

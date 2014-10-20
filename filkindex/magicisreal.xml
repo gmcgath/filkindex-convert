@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="magicisreal">
+<recordInfo>
+<recordCreationDate>2007-02-05<!--required--></recordCreationDate>
+<recordChangeDate>2008-07-27</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Where the Magic Is Real Songbook</title>
+<subTitle>Songs from FilKONtario 8, April 12-14, 1998</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+
+<abstract>Songbook for FilKONtario 8, the Toronto area filk convention of 2000</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Hamilton, Ontario, Canada</placeTerm>
+</place>
+<publisher>FilKONtario committee</publisher>
+<dateIssued>2000</dateIssued>
+</originInfo>
+<accessCondition>Copyright 2000 FilKONtario. Copyright for all songs
+reverts to the songwriters. "Nobody Knows I'm Really an Alien"
+copyright 1998, Martian Trophy Music, used by permission.</accessCondition>
+<name type="personal">
+<namePart>Hayman, Judith</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Headford, Sally Jane</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Introduction</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hayman, Judith</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Beat the Rain</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hickey, Ray, Jr.</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <note>Mandolin solo</note>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Dark Man</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kwinn, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dorsai Mountains</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McMicking, Blade, D.I.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>These Are My Mountains</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Enterprise</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Shoji, Joey</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Farewell to Childhood</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kimberley, Talis</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Farewell to Tarwathie</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gay Vampire Boogie</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McQuillin, Cynthia</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The King</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Honisch, Juliane</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Dröge, Kerstin</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lessons</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hintermeyer, Christine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Nobody Knows (that I'm Really an Alien)</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Linsley, Karen</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Landa. Lloyd</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shootin' with Rasputin</title>
+  </titleInfo>
+  <note>Traditional, as sung by John Hall, D.I.</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Solar Flare</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Baardman, Sam</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Storyteller</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Alexander, Heather</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Standing Here in Line</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Brown, Fred</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Walk Among the Stars</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rabinovitch, Shelley</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Where the Magic Is Real</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kwinn, Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Wish Upon a Star</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Huey, Diana</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Macdonald, Steve</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="thusfilkedzarathustra">
+<recordInfo>
+<recordCreationDate>2006-12-15</recordCreationDate>
+<recordChangeDate>2008-01-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Thus Filked Zarathustra</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>A songbook for Conterpoint 2001 and the 2001 World Science Fiction Convention.</abstract>
+<originInfo>
+<publisher>Conglomeration, Inc.</publisher>
+<dateIssued>2001</dateIssued>
+</originInfo>
+<accessCondition>Copyright 2001 by Conglomeration, Inc.
+All rights to the songs contained in this book are retained
+by the original authors or copyright holders.
+</accessCondition>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dennis, Miki</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sibley, Jane</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+      <namePart>Martin, Nyani-Iisha F</namePart>
+     <role>
+       <roleTerm>illustrator</roleTerm>
+     </role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Also Sprach Kubrik</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Strauss, Erwin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Also Sprach Zarathustra (opening)</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Strauss, Richard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Battle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Weingart, Dave</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <note>Inspired by Iron Chef</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Agent of the M.I.B.</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Leger, Matt G.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Cover of the Rolling Stone</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Man in Black</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bunnell, John C.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Green Grow the Lilacs</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mitchell, W. Chad</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Angel with a Sword</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dark Lullaby</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Taylor, Virginia</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Northeastern Travels</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Many Hearts, One Voice</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Macdonald, Steve</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Little Fuzzy Animals (with Great Big Eyes)</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Smothers, Harry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Little Fuzzy Animals</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Hayes, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>The lyrics were inadvertently transcribed from a third-party website, and don't completely reflect the author's intent.</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song for Fjalar</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <note>Based on Poul Anderson's Operation Luna</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sam's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nyrond, Zander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sams Lied</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gunkelmann, Franklin</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+  <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+  </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sam's Song</title>
+      </titleInfo>
+     <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+     </language>
+      <name type="personal">
+        <namePart>Nyrond, Zander</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+        <role>
+          <roleTerm>lyricist</roleTerm>
+        </role>
+      </name>
+      <note>Original song in English</note>
+  </relatedItem>
+  <note>German translation of "Sam's Song"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dangerous Heroes (the Deli Version)</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dorn, Sherman</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Dangerous Heroes</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Longcor, Michael</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spaceships on Strings</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Brown, Fred</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song of the Tanks</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kirby, Larry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Burning Bridges</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Schifrin, Lalo</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Curb, Mike</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>Based on Space: Above and Beyond</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Some Thing's Coming / Tonight V.2</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Phillips, The Late Howard</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Something's Coming</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bernstein, Leonard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Tonight</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bernstein, Leonard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bin There, Dun That</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Faber, Cat</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Been There, Done That</title>
+   <subTitle>The Perils of Cons</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Martin, Nyani-Iisha F</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Mandel, Mark</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bin There, Dun That</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Faber, Cat</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Don't Flame at a Usenet Troll</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Feld, Harold</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Mandel, Mark</namePart>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Don't Swear at Machinery</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Leathers, Graham</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Eternal Dutchman</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Songs That Matter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Chua, Terence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Site Unseen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dean, Lawrence</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Minstrels of the Night</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Parker, Frank</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Who Killed the Dragon?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sibley, Jane</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Cock Robin</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Annie's Luck</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Faber, Cat</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Broken Wings</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Teschke, Anke</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filk Is Fattening</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Brown, Fred</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Leaving of Terra</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Shuch, H. Paul</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Leaving of Liberpool</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ballad of Captain Bravo</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Parker, Frank</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Just a Boy Named Harry</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Weingart, Dave</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <note>Based on Harry Potter</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Riders at Dawn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bunnell, John C.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Darcy Farrow</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Campbell, Tom</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Gillette, Steve</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Drive the Sun</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Bottorff, Michelle</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Out of the Park</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Cinii, I Abra</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <note>Partly based on Jurassic Park theme by John Williams</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Who Owns the Bones?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Robinson, Jane A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Jupiter Farewell</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mandel, Mark A.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Jamaica Farewell</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Burgle, Irving</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dreaming</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mar, Kathy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+</mods>

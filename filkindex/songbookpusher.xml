@@ -1,0 +1,916 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="songbookpusher">
+<recordInfo>
+<recordCreationDate>2006-11-20</recordCreationDate>
+<recordChangeDate>2006-11-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Songbook Pusher</title>
+<title>Songs by Heather Rose Jones</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding, two-color cover</note>
+</physicalDescription>
+<abstract>Songs by Heather Rose Jones</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">El Cerrito, California</placeTerm>
+</place>
+<publisher>Off Centaur Publications</publisher>
+<dateIssued>1988</dateIssued>
+</originInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Perenne, Luise</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>An Allegory</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Another War Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Are You in a Play?</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Beyond the Western Sea</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Biotech Fantasy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Bird of Gold</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Black Swan</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Black Widows in the Privy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bloodsisters</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bordersong</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Captain, Oh Captain</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Cat Who Warps by Herself</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Celtic Woman's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Elfland's Daughter</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fill the Cup</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Freeway Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Irish Washerwoman</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>God's Gift to the Kingdom</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Crafty Maid's Policy</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Green Mountains</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hail to the Dream</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Herald's Farewell</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Homonymity</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hunting the Hart</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Huntsman's Wife</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Invitation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Isabeau's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Janet's Ride</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Konrad's Ballad</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lament for the Unicorn</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Military Aid to Developing Nations</title>
+<subTitle>A Historical Perspective</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mists Rising</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Moon Above and Fire Below</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Moon Lady</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Music and Magic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>What I Did on My Summer Vacation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Noble Paladin</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Oath</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>On the Hills</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>One January Morning</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Phantom Garbage Barge of Islip</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Phlebotomist's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Protest Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Red Is for Purity</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Reflections</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Selkie's Harp</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Seneschal's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Fair Ellen Pugh</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Shadow Harper</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Songbook Pusher</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Songs of Lands Afar</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sonnet for the P-3 Lab</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Starcrossed</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Telegraph Fair</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>This Time and Place</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Two of Us</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Welsh History 101B</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Ash Grove</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Western Land</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>What News?</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The White Hounds</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wolves</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+</mods>

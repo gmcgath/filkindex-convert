@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="recroomrhymes9">
+<recordInfo>
+<recordCreationDate>2007-03-05</recordCreationDate>
+<recordChangeDate>2007-05-31</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Rec-Room Rhymes #9</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Roberta Rogow and others</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>Other Worlds Books</publisher>
+<dateIssued>1992</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1992.
+All rights revert to writers and artists.
+</accessCondition>
+<name type="personal">
+<namePart>Rogow, Roberta</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Chmielnewski, Mary</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Landis, Kate</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>"Mildrew"</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Stulz, Barbara</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Summer, Gennie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Young, Pat</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Some Words from the Editor</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>One Bright Starship</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Favorite Television Program, etc.</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crawford, Dan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Love-Seekers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>We Are Imzadi</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Starbase Ten</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crawford, Dan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Unification Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Banned from Argo ... Still</title>
+  </titleInfo>
+  <name>
+      <namePart>The Toronto Trek IV Filkers</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Freddy's Dreams</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'll Be Back</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Thunder Rolls</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song for a Hologram</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Last of the Table Round</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Star of the County Down</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Zoo of Royalty</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crawford, Dan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Cold Metal Garrett</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Coleoptera Coccinellidae!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Provenzando, Lenny</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ladyhawke</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Costumer's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Filk-Sing with a Trekkie Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Dinosaur Fan's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Hyper Hilton</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Moon Above and Fire Below</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Jones, Heather Rose</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Professional Fan</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Is There Life Out There?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Out There!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Man Without a Planet</title>
+   <subTitle>or, The Cosmonaut Who Never Returned</subTitle>
+  </titleInfo>
+  <name>
+      <namePart>The Lunacon Parody Workshop</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Ship That Never Returned</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

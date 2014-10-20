@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="contata98">
+<recordInfo>
+<recordCreationDate>2006-11-17</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+</recordInfo>
+<titleInfo>
+<title>Contata 1998 Program Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Program book with songs for Contata 1998, the New York
+City area filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">New Jersey</placeTerm>
+</place>
+<publisher></publisher>
+<dateIssued>1998</dateIssued>
+</originInfo>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dragonflight</title>
+</titleInfo>
+<name type="personal">
+<namePart>Macdonald, Steve</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Oh My God! She Filked Kenny!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mailander, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Let's Make the Water Turn Black</title>
+</titleInfo>
+<name type="personal">
+<namePart>Zappa, Frank</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Little Magic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Osier, Mark</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>I Know the Plot</title>
+</titleInfo>
+<name type="personal">
+<namePart>Glasser, Marc</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>I Do the Rock</title>
+</titleInfo>
+<name type="personal">
+<namePart>Curry, Tim</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Gen X SF Fan's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>McAfee, Michael</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>An SF Editor's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>Haldeman, Joe</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lost Chances</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hayman, Judith</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>G &amp; X Meet G &amp; S</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wald, Kevin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Major General's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sullivan, Arthur</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Alternative Side</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cinii, I Abra</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Patriot Game</title>
+</titleInfo>
+<name type="personal">
+<namePart>Behan, Michael</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Silver and Gold</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hutnik, Ed</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Barnum's Pride</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Dawson's Christian</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>404: Not Found</title>
+</titleInfo>
+<name type="personal">
+<namePart>Weingart, David</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>307 Ale</title>
+</titleInfo>
+<name type="personal">
+<namePart>Smith, Tom</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>If a Certain Song Had Been Written in C++</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wald, Kevin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mall of Galaxy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ehrlich, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dutchman</title>
+</titleInfo>
+<name type="personal">
+<namePart>Macdonald, Steve</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cold Wind Blowing</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leger, Matt</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Frank Hayes Disease</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gold, Lee</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Never Set the Cat on Fire</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hayes, Frank</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>FIAWOL</title>
+</titleInfo>
+<name type="personal">
+<namePart>Levine, Rennie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Closer to Fine</title>
+</titleInfo>
+<name type="personal">
+<namePart>Saliers, Emily</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Another Story</title>
+</titleInfo>
+<name type="personal">
+<namePart>Durno, Allison</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ohi, Debbie Ridpath</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Parody's Done</title>
+</titleInfo>
+<name type="personal">
+<namePart>Osier, Mark</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Journey's Done</title>
+</titleInfo>
+<name type="personal">
+<namePart>Macdonald, Steve</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+</mods>

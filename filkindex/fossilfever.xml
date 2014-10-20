@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="fossilfever">
+<recordInfo>
+<recordCreationDate>2006-11-18</recordCreationDate>
+<recordChangeDate>2006-11-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Fossil Fever</title>
+<subTitle>Lyric and Chord Book</subTitle>
+</titleInfo>
+<originInfo>
+<place>
+  <placeTerm type="text">Berkeley, California</placeTerm>
+</place>
+<publisher>Unlikely Publications</publisher>
+<dateIssued>1992</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1992 Unlikely Publications.
+Cover art copyright 1992 Ken Woodmansee. All rights reserved.</accessCondition>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Companion songbook to the cassette "Fossil Fever"</abstract>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Woodmansee,  Ken</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ambition</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Great Cretaceous Hadrosaur Quartet</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>That Everlastin' Outcrop in the Sky</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Plesiosornithology</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Preacher and the Prof</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Digga Bigga Bone</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Graviportal Polka</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Out of the Clear Blue Sky</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Tyrannosaur's Lullaby</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Disappearin' Archosaur Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fossil Fever</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Labyrinthodont's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Movin' the Bones</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+</mods>

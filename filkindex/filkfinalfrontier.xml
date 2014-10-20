@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="filkfinalfrontier">
+<recordInfo>
+<recordCreationDate>2009-05-31</recordCreationDate>
+<recordChangeDate>2009-05-31</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Filk: The Final Frontier</title>
+<subTitle>Where No Filk Has Gone Before, Vol. 1</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+<abstract>Parodies by Claire Meier</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Silver Spring, Maryland</placeTerm>
+</place>
+<publisher>Claire Meier</publisher>
+<dateIssued>1985</dateIssued>
+</originInfo>
+<accessCondition>Material herein may not be duplicated or reprinted 
+without permission. Performance at Cons (science fiction conventions)
+is encouraged and does not require my permission. (Do mention my name, though.)</accessCondition>
+
+<name type="personal">
+<namePart>Meier, Claire</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+</mods>

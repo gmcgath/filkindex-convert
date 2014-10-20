@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="compleatrivenstar">
+<recordInfo>
+<recordCreationDate>2010-10-27</recordCreationDate>
+<recordChangeDate>2010-10-27</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Compleat Rivenstar Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+<originInfo>
+<accessCondition>The entire contents of the Compleat Rivenstar Songbook
+are copyright 1981 by M. K. Longcor. All rights reserved.
+The COmpleat Rivenstar Songbook is not and should not be construed as
+a publication of the Society for Creative Anachronism.</accessCondition>
+<place>
+  <placeTerm type="text">Indiana</placeTerm>
+</place>
+<publisher>Michael Longcor, aka Moonwulf Starkadhersson</publisher>
+<dateIssued>1981</dateIssued>
+</originInfo>
+<note>This is a combined edition of two earlier Rivenstar Songbooks.
+</note>
+<name type="personal">
+<namePart>Longcor, Michael</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>De Sylveaston, Annora</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Corvo, Joserlin</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+</mods>

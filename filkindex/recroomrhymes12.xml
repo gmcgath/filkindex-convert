@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="recroomrhymes12">
+<recordInfo>
+<recordCreationDate>2007-03-05</recordCreationDate>
+<recordChangeDate>2009-04-02</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Rec-Room Rhymes #12</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Roberta Rogow and others</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>Other Worlds Books</publisher>
+<dateIssued>1995</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1995.
+All rights revert to writers and artists.
+</accessCondition>
+<name type="personal">
+<namePart>Rogow, Roberta</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Etmansky, Stephanie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzalez, Juan</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ellenbacher, Jean</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>L'Argent, Jayne A.</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Summers, Gennie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fleck, Jan</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Siders, Ellen</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Editor Speaks</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>He's Dead ... Jim</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Argo's View</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Savignano, Lisa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Am a Good Old Klingon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>S'Turm Bl'Kros</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Last Ball Game</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Baker, Gregory A.</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Band from Argo on DS9</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Deep Space Nine</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lane, Skye</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Captain Kathryn Jameway</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Neelix Soup Surprise</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Voyager Rag</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Baker, Gregory A.</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ballad of Babylon Five</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>DiGiacamo, Mario</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>No Answers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Londo</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clapham, K.</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>McKenna, M.</namePart>
+       <roleTerm>author</roleTerm>
+  </name>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+       <roleTerm>author</roleTerm>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sheridan</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>With the Files Tucked Underneath His Arm</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>X-Rated Wake-up Call</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Paul, Crystal</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Sound of Cylons</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Savignano, Lisa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Passing Through</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Grade Z Movie Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Savignano, Lisa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Blake's Sevener's List</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Savignano, Lisa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hunting Tonight</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Baker, Gregory A.</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Flight of Apollo 13</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dial C for Cupid</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crawford, Dan</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Banned from Con Suites</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Savignano, Lisa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bubba Can Filk</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song of the Vampire Congress</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Rogow, Roberta</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <note>Credited to Rogow "&amp; co"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Banned Books Week</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mailander, Jane</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <note>Credited to Jane Mailander "et. al"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+
+</mods>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="recroomrhymes10">
+<recordInfo>
+<recordCreationDate>2009-11-30</recordCreationDate>
+<recordChangeDate>2009-11-30</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Filk #1</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, produced on a ditto machine, stapled</note>
+</physicalDescription>
+<abstract>An early filk book or zine</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">New Hyde Park, NY</placeTerm>
+</place>
+<publisher>Arnold Katz</publisher>
+<dateIssued>1963</dateIssued>
+</originInfo>
+<accessCondition>
+</accessCondition>
+<name type="personal">
+<namePart>Katz, Arnold</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>publisher</roleTerm>
+</role>
+</name>
+<note>This should probably be considered a one-off zine rather than a book,
+but its early date makes it worth listing. The individual songs aren't credited
+but may be by Arnold Katz.</note>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Editorial</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Katz, Arnold</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Join a New APA</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Havah Nagila</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Two Fuggheads</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Two Brothers</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Deadlines</title>
+   <subTitle>or The Faned's Lament (Day 0)</subTitle>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Am a Fan of Constant Feuding</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Am a Man of Constant Sorrow</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Discon Special</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Midnight Special</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Faned Bill</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Railroad Bill</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sing Albert Lewis</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sing Hallelujah</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>John Campbell</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>John Henry</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Neodom</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Loch Lomond</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

@@ -1,0 +1,3132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="letsfilkabout2">
+<recordInfo>
+<recordCreationDate>2007-07-11<!--required--></recordCreationDate>
+<recordChangeDate>2013-12-22</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Let's Filk About Songbook: Vol. II</title>
+<subTitle></subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+</language>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>A4, comb binding</note>
+</physicalDescription>
+
+<abstract>Filk songs in German and English</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">BBerlin, Germany</placeTerm>
+</place><publisher>Edition Pegasus</publisher>
+<dateIssued>2000</dateIssued>
+</originInfo>
+<accessCondition>All songs and artwork copyright by their creators.
+This book may not be reproduced, in whole or in part, without
+permission from the publisher or/and the authors/artists.</accessCondition>
+<name type="personal">
+<namePart>Scholz, Kirstin</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bäcker, Christian</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bergermann, Thea</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Budinger, Linda</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fischer, Anja</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Loban, Gunhid</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Marheinecke, Martin</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Maya</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Scheja, Christel</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Tora</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Weiß, Kristina</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Vorwort</title>
+   <subTitle>Introduction</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Scholz, Kirstin</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <note>Bilingual text</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Der Botschafter und die Schatten</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Scholz, Kirstin</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ranger Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Shadara vom dunklen Fels</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Die Gedanken Sind Frei</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Becker, A. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sister to Sister</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>B'Erel</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bang Today</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Whitaker, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Whitaker, Anne</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Walker, Tim</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Walker, Annie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Gimmee, Gimmee, Gimmee</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Abba</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Voice Without a Name</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>B'Erel</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Programm to User</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Hoch auf dem Gelben Wagen</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Jason's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>GUN</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Cindy, Oh Cindy</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Leave Him</title>
+   <subTitle>(Or: The Sensible Thing to Do)</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, A. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Ueberall, C. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Leave Her, Johnny</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Immortals Never Die</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>There Is a Happy Land</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Death Musings</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Darkness</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Jordin Kare</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>March of the Fighting Girls</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>GUN</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Green Berets</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bunny!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hahn, J. G.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Riu, Riu</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Howes, Robert</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Werding, Juliane</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sailor Moon Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Evanda, Thea</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Moebis, Carolina</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sailor Moon's Sailors</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Spanish Ladies</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>13 Krieger</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Step It Out, Mary</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>True Love</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Damm, Alexa</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Teal'c: One Day</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kinder, Sabine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Kinder, Michael</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tragic Romance</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Blum, Christine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Now Sleep, My Darling</title>
+   <subTitle>A Karsite-Lullaby</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Auld Lang Syne</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Nehmt Abschied, Brüder</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bockshagener Trinklied</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Budinger, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lustig is das Zigeunerleben</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Für An</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jörns, Petra E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Robin and His Men</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Anonymous</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rosarot</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>GUN</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Darkness</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Kare, Jordin</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Green Eyes</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Greensleeves</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Sixth Sense</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Crimson and Crystal</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>McQuillin, Cynthia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Wrestler is a Big, Butch Man</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, A. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ein Hase Saß im Tiefen Tal</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Slayer's Prayer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Scholz, Kirstin</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sunnydale Lovers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Johnny Loves Jenny</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fallen Angel</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Fallen Angel</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Light Within the Darkness</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Darkness</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Kare, Jordin</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Slayer / Giles' Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Nights in White Satin</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Reliable</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Kirstin Scholz</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Peculiar Girl</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Joleen</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Body and Soul</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Black Davie's Ride</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>McQuillin, Cynthia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>La Notturna Vida Loca</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Esteban</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Thesilée</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Living in Vida Loca</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Martin, Ricky</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Elfquesting</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Star Trekkin'</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>The Firm</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Redlance Alone</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Cruel War</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lament for the Way</title>
+   <subTitle>Strongbow's Lament</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Helva's Lament</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>James, Rhodri</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Wolfrider</title>
+   <subTitle>Leetah's Lament</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Grey Rider</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Whitaker, Mike</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Curse You, Blackhair!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Joshua Fought the Battle of Jericho</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dress!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Soley, Kate</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ancient Yearning</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Durno, Allison</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Desert and Forest</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Durno, Allison</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Fairy King</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ilisch, Maja</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Tavenrath, Andrea</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <note>English translation of Goethe's "Erlkönig"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Comrades</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Budinger, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Scholz, Kirstin</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Captain Quack and the Princess</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lohmann, Alexander</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Captain Jack and the Mermaid</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Davis, Meg</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Prinz Friedrich</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bolle Reiste Jüngst zu Pfingsten</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Geschichtenerzähler</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jorns, Petra E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Storyteller</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Alexander, Heather</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Der Stille Elfenwald</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dreamer</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Anonymous</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Crystal and Silver</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>van dem Boom, Britta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Anonymous</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Behead Them!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>He's Dead, Jim</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Die Wilde Abenteurer-Horde</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gnulfy's Hammersong</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, A. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>If I Had a Hammer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Seeger, Pete</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Hays, Lee</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Das Blut der Anderen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>GUN</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Es Wird Nacht Señorita</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Jürgens, Udo</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rowan's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ravenwood, Marada</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>House of the Rising Sun</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Der Wanderer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lübke, Kerstin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>McNaughlore, Ebony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Willo Wisp</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Tanger, Volker</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Stein für Stein</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Linßen, Gregor</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Daeniken's Captain Kork</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Tanger, Volker</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Englishman in New York</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sting</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Der Phoenix</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Phoenix</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>German translation of Julia Ecklar's "The Phoenix"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song of the Fey</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nothers, Oliver</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Inquisition, Wir Kommen...</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nothers, Oliver</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Blaue Enzia</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Balu blüht der Enzian</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Impi der Kämpfer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, A. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Paul, der Bademeister</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Die Ärtzte</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Pantherfang</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Silbersang, Gwydon</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Camouflage</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ridgeway, Stan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Der Fröhliche Schwarzmagier</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Moebis, Carolina</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Evanda, Thea</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gebt Mir Einen Stern</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, C. J.</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <note>German translation of a Cynthia McQuillin song</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Weißt Du Wieviel...</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>GUN</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Des Moorweibs Handel</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Silbersang, Gwydon</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <note>German translation of a Leslie Fish song</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Déjà Vu</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hintermeyer, Christine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Traumnacht</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jörns, Petra E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Christmas at Sea</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Davis, Meg</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Die Rose von Tatzelfels</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jörns, Petra E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>My Winter Rose</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Davis, Meg</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lord Hans, Der Schwertmeister</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Honisch, Juliane</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sir Jock of the Sword</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Nyrond, Zander</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>German translation of Zander Nyrond's "Sir Jock of the Sword"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Road</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mask</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shared Dreams</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Cruel Sister</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Thesilée</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Cruel Sister</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Der Mann am Meer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Embrace</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>t'Rhaillieu, Reena</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sometimes After Dark</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>McQuillin, Cynthia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Schlaflied für Andrew</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Reena</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Grey Rider</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Whitaker, Michael</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bella Ciao</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bella Ciao</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Das Mondschwert</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Schormann, Jan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Running with Wolfs</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fittkau, Jan-Tajo</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Erika Körte</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Saphie</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fittkau, Jan-Tajo</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Feenstunde</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>t'Rhaillieu, Reena</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Fairest Flame</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>McQuillin, Cynthia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>13 Flüsse</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>van den Boom, Britta</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Treffen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jörns, Petra E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Meeting</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Die Ballade vom Schattenreiter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Das Weltentor</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Weinand, Anna Verena</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Arandis</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jörns, Petra E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Musings</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lackey, Mercedes</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>In the Forest of the Free</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sternenträumer, C. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Teschke, Anke</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Joaquim's Lied</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Shadara vom dunklen Fels</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Pact with the Devil</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ist Mir Doch Sch ... Egal</title>
+  </titleInfo>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Starship Enterprise</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Buchmüller, Katja</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Felsberger, Bernd</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Easter ("Seasons End")</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Non Sequitur</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>B'Erel</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Ja'el</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Easter ("Seasons End")</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Khemorex Khan</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Tanger, Volker</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Dschinghis Khan</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Kim and Paris</title>
+  </titleInfo>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Love and Marriage</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Klingon Bat'leth</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Midnight Special</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Barclay</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hintermeyer, Christine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lessons</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hintermeyer, Christine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Der Worf-Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hintermeyer, Christine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>X-Mas in the Star Trek Universe</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dredar, Anne E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Winter Wonderland</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Red Alert, Red Alert</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dredar, Anne E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Jingle Bells</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Star Wars</title>
+   <subTitle>Every Breath You Take</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Budinger, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Every Breath You Take</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sting</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Zehn Kleine Jedi-Meister</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Geraldy, Thorsten</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Zehn Kleine Jägermeister</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Defeat</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>B'Erel</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Come to Me</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>B'Erel</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ain't She Great</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Eine Handvoll Filker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Tanger, Volker</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bei Ilse und Willi auf'm Land</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mey, Reinhard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Fan's Story</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, C. J. Sternenträumer</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Wild Montana Skies</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Denver, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Con-Is-Over Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Tanger, Volker</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Before You Accuse Me</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Clapton, Eric</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Du-Da! E-lah</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Tanger, Volker</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <note>Paraphrase of an African song (African text included)</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Promise</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ballad of the Norris Principle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ueberall, Chris J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Swing Low, Sweet Chariot</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Schwarzpulver und Alkohol</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Körte, Rika</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Black Powder and Alcohol</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>German translation of Leslie Fish's "Black Powder and Alcohol"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Wenn Sterne Fallen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>t'Rhaillieu, Reena</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Stille Nacht</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>GUN</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Silent Night</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Gruber, Franz</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Kein Solches Lebewesen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>GUN</namePart>
+     <role>
+       <roleTerm>translator</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>No Such Thing</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Nyrond, Zander</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>German translation of "No Such Thing" by Zander Nyrond</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Departure</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Budinger, Linda</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Scholz, Kirstin</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Du und Ich</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jörns, Petra E.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Way Old Friends Do</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Clement, Dave</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ill-Pissed by Moonlight</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gunkelmann, Frank</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ill Met by Moonlight</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dröge, Katy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Blow Folks Blow</title>
+   <subTitle>oder: Sorry. It Was Late...</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiejetzt, J. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Norris, T.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ick haff mol een...</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Unterschätzt Nie die Kleinen Mädchen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>reena</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Unsterblich</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Midsummer Night</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Klippen der Zeit</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wiest, Eva</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

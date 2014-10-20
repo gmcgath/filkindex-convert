@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods xmlns="http://www.loc.gov/mods/v3" ID="cursesfilkedagain">
+  <recordInfo>
+  <recordCreationDate>2008-01-22</recordCreationDate>
+  <recordChangeDate>2013-12-15</recordChangeDate>
+  <!-- If you modify this file, please update the recordChangeDate element -->
+  </recordInfo>
+  <titleInfo>
+    <title>Curses! Filked Again!</title>
+  </titleInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+	<form authority="marcform">print</form>
+	<extent>28 pages</extent>
+    <note>8 1/2 x 11, left edge stapled</note>
+  </physicalDescription>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Temple City, CA</placeTerm>
+    </place>
+    <publisher>Old Collinwood Publishing House</publisher>
+    <dateIssued>1980</dateIssued>
+  </originInfo>
+  <abstract>filksongs about Dark Shadows TV show</abstract>
+  <name type="personal">
+  <namePart>Christy, JoAnn</namePart>
+  <role>
+  <roleTerm>editor</roleTerm>
+  </role>
+  <role>
+  <roleTerm>illustrator</roleTerm>
+  </role>
+  </name>
+  <name type="personal">
+  <namePart>Lammerts, Pat</namePart>
+  <role>
+  <roleTerm>editor</roleTerm>
+  </role>
+  </name>
+  <name type="personal">
+  <namePart>Robin, Marcy</namePart>
+  <role>
+  <roleTerm>editor</roleTerm>
+  </role>
+  </name>
+  <note>Information provided by Margaret Middleton</note>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Are You Going (to Collinsport, Maine)</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Christy, Jo Ann</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Scarborough Fair</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Under the Storm Clouds</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Swan, Kathy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Over the Rainbow</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Arlen, Harold</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fear to The World</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Curtiss, Daniella</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Joy to the World</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>DS Town</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Clementine</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Sweet Miranda</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Crocker, Debbie</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Yankee Doodle</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Angelique the Witch</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Crocker, Debbie</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Camelot</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Bring Back My Love to Me</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Crocker, Debbie</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>My Bonnie</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>At the Blue Whale</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Copacabana</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Has Anybody Seen Maggie</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Five Foot Two</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Willie Loomis</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Evans, Kat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Edelweiss</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Governess</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Curtiss, Daniella</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Dancing Queen</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Jason Wants</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Christy, Jo Ann</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Titwillow</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Won't You Come Home, Burke Devlin?</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Won't You Come Home Bill Bailey</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Not Quite Santa Claus</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Nelson, Kristi</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Up on the Housetop</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Vampires Prowl</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Wilie, Susan</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Jimmy Crack Corn</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Barnabas is Coming to Town</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Curtiss, Daniella</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Santa Claus is Coming to Town</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Vampires</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>People</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>I Owe My Body to You</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Can't Take My Eyes Off of You</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Werewolves are Following Me Around</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Christy, Jo Ann</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Raindrops Keep Fallin' on my Head</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Where, Oh Where Has my Werewolf Gone?</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Graham, Jean</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Where Oh Where Has my Little Dog Gone</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>DS Fandom</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>A Cursed One</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Yankee Doodle</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Hallelujan!</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>The Cursed Ones</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Michael, Row the Boat Ashore</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Found a Coffin</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Two Cursed Ones</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Found a Peanut</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>My Bat</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Two Cursed Ones</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>My Hat, it Has Three Corners</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Gotcha!</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>The Cursed Ones</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Pick a Bale of Cotton</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>When The Moon Gets Full</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Curtis, Daniella</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>When I'm 64</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Home 'Way Up in Maine</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>My Old Kentucky Home</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Vampire Joy</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>The Cursed Ones</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Here We Come a-Wassailing</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>White Garlic Cloves</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Two Cursed Ones</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>White Coral Bells</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>the Lust for Blood</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Christy, Jo Ann</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Lammert, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Look of Love</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Barnabas</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Edelweiss</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Evening Shadows</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Bond, Edlyne</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Apple Blossom Time</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Collinwood</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Loch Lomond</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Carolyn's Lament</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Christy, Jo Ann</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Summertime</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Angelique Very Pretty</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lammerts, Pat</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Lemon Tree</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Legends of Collinwood</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Mayer, Maria</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Resch, Kathy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Robin, Marcy</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Lucy in the Sky with Diamonds</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Those Were the Days</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Sousa, Paul</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Those Were The Days</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Dark Shadows Dreamer</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Curtis, Daniella</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Daydream Believer</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+</mods>

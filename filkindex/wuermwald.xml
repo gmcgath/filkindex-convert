@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="wuermwald">
+<recordInfo>
+<recordCreationDate>2009-03-28</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Würm Wald Post-Revel Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<note>Two earlier editions are cited in the credits: First Folump Edition,
+July 1983 (50 copies). Second Folump Edition, September 1983 (75 copies).</note>
+<originInfo>
+<place>
+  <placeTerm type="text">El Cerrito, California</placeTerm>
+</place>
+<publisher>Off Centaur Publications</publisher>
+<dateIssued>1984</dateIssued>
+</originInfo>
+<accessCondition>Editorial Content copyright 1983 by Ernest Clark.
+Music and/or lyrics with known copyright history are credited on the appropriate
+pages. Art copyright 1983 by Folump Enterprises.
+</accessCondition>
+
+<name type="personal">
+<namePart>Clark, Ernest</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>calligrapher</roleTerm>
+</role>
+<role>
+<roleTerm>researcher</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>de Folo, Beryl</namePart>
+<role>
+<roleTerm>calligrapher</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Lembke, Charles</namePart>
+<role>
+<roleTerm>researcher</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Hylin, Carl</namePart>
+<role>
+<roleTerm>researcher</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Schaufele, Steven</namePart>
+<role>
+<roleTerm>researcher</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Introduction</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clark, Ernest</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Note on Performing</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Itches in Me Britches</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hylin, Carl</namePart>
+     <role>
+       <roleTerm>arranger</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>When We're Met Together</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Maids, When You're Young</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Zuleika</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Green Grow the Rashes, O</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Burns, Robert</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Wind and the Rain</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Shakespeare, WIlliam</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Woad</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Men of Harlech</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Scotland's Burning</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Run, Lady, Run</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clark, Ernest</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Great Selkie</title>
+  </titleInfo>
+  <note>Child Ballad #113</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Dreary Dream</title>
+  </titleInfo>
+  <note>Variant upon Child Ballad #114</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Unquiet Grave</title>
+  </titleInfo>
+  <note>Child Ballad #78</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Henry Martin</title>
+  </titleInfo>
+  <note>Child Ballad #250</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Nottamun Town</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ash Grove</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lady Margaret</title>
+  </titleInfo>
+  <note>Variant upon Child Ballad #74</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Three Ravens</title>
+  </titleInfo>
+  <note>Child Ballad #26</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Happy Birthday</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Schaufle, Steven</namePart>
+     <role>
+       <roleTerm>arranger</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Volga Boatman</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Sing of Dead Bunnies</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Longcor, Michael</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Sweet Betsy from Pike</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>First verse by Michael Longcor; the rest by other members of Rivenstar Barony</note>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Marvelous Axe</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Erickson, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Marvelous Toy</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Paxton, Tom</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Voice of the Dragon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clark, Ernest</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Roots</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clark, Ernest</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Word of Bod</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clark, Ernest</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ye Jacobites by Name</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Causes of Rebellion</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Cass, Ann</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Retreat Along the Wabash</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>How Many of Us Are Out in It?</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Erika of Inis-Manannan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Vicar of Bray</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Radio Free Pennsic</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Clark, Ernest</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Sound of Silence</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Simon, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Treegirtsea Province</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Stuart, Robert L. S. J. III</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Luckenbach, Texas</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Minstrel Boy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Moore, Thomas</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <note>The book incorrectly credits the song to Thomas More.</note>
+  <typeOfResource>notated music</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Garryowen</title>
+  </titleInfo>
+  <typeOfResource>notated music</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Note on Sources</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+
+
+</mods>

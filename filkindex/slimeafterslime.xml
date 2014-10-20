@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="slimeafterslime">
+<recordInfo>
+<recordCreationDate>2009-05-31</recordCreationDate>
+<recordChangeDate>2009-07-09</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Slime After Slime</title>
+<subTitle>The Second Denebian Slime Devil Songbook</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+<originInfo>
+<place>
+  <placeTerm type="text">Baltimore, Maryland</placeTerm>
+</place>
+<publisher>Slime Devil Press</publisher>
+<dateIssued>1985</dateIssued>
+</originInfo>
+<accessCondition>COPYRIGHT C JULY, 1985: "SLIME AFTER SLIME: THE SECOND
+DENEBIAN SLIME DEVIL SONGBOOK". NO REPRINTS OR REPRODUCTIONS
+WITHOUT THE EXPRESS PERMISSION OF SLIME DEVIL PRESS. THIS IS AN
+AMATEUR FAN PUBLICATION AND DOES NOT INFRINGE ON THE RIGHTS OF
+PARAMOUNT, NORWAY PRODUCTIONS, NBC, LUCASFILM, OR ANYONE ELSE,
+FOR THAT MATTER.</accessCondition>
+
+<name type="personal">
+<namePart>De Simone, Regina</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>James, Melissa</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Dougherty, Cathy</namePart>
+<role>
+<roleTerm>calligrapher</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Rouark, Kathleen</namePart>
+<role>
+<roleTerm>book designer</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Bartas, Denise</namePart>
+<role>
+<roleTerm>book designer</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Along Came Jones</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barkas, Denise</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Along Came Jones</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Stevens, Ray</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>American Trek</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>American Pie</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>MacLean, Don</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Chekov Shuffle</title>
+  </titleInfo>
+  <name>
+      <namePart>The Slimes</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Curly Shuffle</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Come Back to the Bridge</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Cross Over the Bridge</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Page, Patti</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Darth Vader</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Deckers Song</title>
+   <subTitle>Shuttle Lights</subTitle>
+  </titleInfo>
+  <name >
+      <namePart>Slimes and Friends</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Harbor Lights</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fans Just Wanna Have Fun</title>
+  </titleInfo>
+  <name >
+      <namePart>The Slimes</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Girls Just Wanna Have Fun</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lauper, Cyndi</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gold and Blue</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Desert Moon</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>De Young, Dennis</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hey, V'Ger</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Rouark, Kathleen</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Venus</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Marshall, Ed</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'm Skywalker the Jedi I Am</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barkas, Denise</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Dougherty, Cathy</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I am Henry the Eighth, I Am</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Want a Hero</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Want a Hero</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Tyler, Bonnie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Want a New Film</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Want a New Drug</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lewis, Huey</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>K-S Love</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Baby Love</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dozier, Lamont</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Holland, Brian</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Holland, Edward Jr.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Let's Hang On</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Let's Hang On</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Valli, Frankie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Let's Hear It for the Crew</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Let's Hear It for the Crew</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Williams, Deneice</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Longest Time</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>For the Longest Time</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Joel, Billy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Maniac</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Maniac</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Captain's Back</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>My Boyfriend's Back</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shahna's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>The Slimes</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Yellow Polka Dot Bikini</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Pockriss, Lee</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>Vance, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Space Is Our Battlefield</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barkas, Denise</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Love Is a Battlefield</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Benatar, Pat</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spockfinders</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ghostbusters</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Parker, Ray Jr.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Starfleet Command</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>New York, New York</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Steal the Ship</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barkas, Denise</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Stay the Night</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>T'hy'la</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Scrimger, Weston</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>M-O-T-H-E-R</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Trek It</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Beat It</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Jackson, Michael</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Warriors</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barkas, Denise</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Warrior</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Scandal</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Wrath of Khan Rag</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Scrimger, Weston</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Sylvester, Geraldine</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Vatican Rag</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lehrer, Tom</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+  <name type="personal">
+      <namePart>James, Melissa</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

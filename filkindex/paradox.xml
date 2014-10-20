@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="paradox">
+<recordInfo>
+<recordCreationDate>2007-08-05</recordCreationDate>
+<recordChangeDate>2007-08-05</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Paradox</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>Songs by Barry and Sally Childs-Helton.</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Indiana</placeTerm>
+</place>
+<publisher>Space Opera House</publisher>
+<dateIssued>1990</dateIssued>
+</originInfo>
+<accessCondition>Except as noted, all contents are published and (C)
+1990 by Space Opera House.
+</accessCondition>
+<name type="personal">
+<namePart>Childs-Helton, Barry</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Childs-Helton, Sally</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bear</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Useful Phrases for Time-Travelers Visiting the Late 20th Century</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Alphabet Soup Blue</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Sally</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Body Shop Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Galactic Personals</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Sally</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lightsailor</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Dark-Eyed Sailor</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Monorail to Atomland</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Dark-Eyed Sailor</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Moose and Squirrel</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Childs-Helton, Sally</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Duke of Earl</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Chandler, Gene</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Relativity Paradox Calypso</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Don't Tie Me Donkey Down There</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Small Designs</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The War-of-the-Worlds Top-40 Radio Musical of 1963</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

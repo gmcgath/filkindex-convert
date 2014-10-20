@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="compleatfilkertrek">
+<recordInfo>
+<recordCreationDate>2007-11-26</recordCreationDate>
+<recordChangeDate>2009-04-11</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Compleat Filker</title>
+<subTitle>"Star Trek" Songs, Special Edition</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+<abstract>A short collection of Star Trek Songs</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Ohio</placeTerm>
+</place>
+<publisher>C. L. Morgan</publisher>
+<dateIssued>1986</dateIssued>
+</originInfo>
+<accessCondition>The Compleat Filker, &#xA9; 1983, 1984, 1985, 1986, C. L. Morgan,
+Morgan's Mystique (formerly a division of Fannish Enterprises, Ltd.). All rights reserved.
+</accessCondition>
+<name type="personal">
+<namePart>Morgan, C. L.</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+
+</mods>

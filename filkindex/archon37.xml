@@ -1,0 +1,658 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="archon37">
+<recordInfo>
+<recordCreationDate>2013-11-01</recordCreationDate>
+<recordChangeDate>2013-11-01</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Archon 37 Filkbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11" spiral bound, color cover</note>
+</physicalDescription>
+<abstract>Filk book for Archon 37 science fiction/fantasy convention</abstract>
+<originInfo>
+<publisher>Mountain Cat Media</publisher>
+<dateIssued>2013</dateIssued>
+</originInfo>
+<accessCondition>This filk book is for the sole purpose of sharing our love of filk.
+It is a free book. No part of this book may be sold or profited from by anyone.
+No part of it may be copied without the express permission of the author of the individual song.
+Each author is the sole owner of their work appearing here which is reprinted
+with their kind permission.
+Copyright 2013 Mountain Cat Media, LLC
+</accessCondition>
+
+<name type="personal">
+<namePart>Greenberg, Sandra</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>book designer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Greenberg, Bari</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>One Tin Filker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Newmark, John</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Newmark, Jennifer</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>One TIn Soldier</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lambert, Dennis</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+       <name type="personal">
+        <namePart>Potter, Brian</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+     <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <note>Winner of the 1st annual Archon Tin Filker Songwriting Contest at Archon 36</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sisterhood of Flight</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Greenberg, Sandra</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Greenberg, Bari</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>No Hurry</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dockrey, Michelle</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Wet Velvet</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McConnell, Katt</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Half a Chance</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, Bill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Song about Fog</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crowe, Lizzie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Coleman, Eric</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Pirate Christmas</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Smith, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <note>To the tune of "assorted holiday songs"</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>One Way to Go</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gallagher, Diana</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Robots Can Do Anything Better than You</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lloyd, R. J.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Anything You Can Do</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Berlin, Irving</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Undead Dog</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kirby, Larry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Underdog Theme</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Favorite Sci-Fi Things</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Newmark, Jennifer</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>My Favorite Things</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Rodgers, Richard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Water</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McManamon, Cathy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Disenchanted</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Crowe, Lizzie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Coleman, Eric</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Joker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ewbank, Mark</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Ewbank, Michelle</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Escape (from Tatooine)</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hanak, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Escape</title>
+       <subTitle>The Pina Colada Song</subTitle>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Holmes, Rupert</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Husband, the Filker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Roper, Bill</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Roper, Gretchen</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Come Fly with Me</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Greenberg, Sandra</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Greenberg, Bari</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>In Another Castle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McConnell, Katt</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shield</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McManamon, Kathy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Yield</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ray, Amy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Wish I Had a Transporter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Newmark, Jenifer</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Wish I Was a Punk Rocker</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Thorn, Sandi</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Algorithms</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>The Drooling Algorithm Table at the Conflikt 6 Lunch</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Hallelujah</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Cohen, Leonard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Six-String Love</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dockrey, Michelle</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Fabris, Tony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Super-Comet-Fragment-Impact-Extra-Large-Explosions</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Kare, Jordin</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Supercalifragilisticexpialidocious</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sherman Brothers</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Neuter Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Newmark Jenifer</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Lazy Song</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mars, Bruno</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sulu's Lament</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hanak, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Man's Too Strong</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dire Straits</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Filker</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ewbank, Mark</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Boxer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Simon, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Suit of Armor</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Smith, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+
+
+</mods>

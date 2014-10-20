@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="gonnahowltonight">
+<recordInfo>
+<recordCreationDate>2008-07-11</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Gonna Howl Tonight</title>
+<subTitle>A Beauty and the Beast Songbook</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<note>8 1/2 x 11, stapled</note>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs based on the 1987-1990 TV series Beauty and the Beast</abstract>
+<originInfo>
+<publisher>Iddy-Biddy Press</publisher>
+</originInfo>
+<note>There were at least six "Gonna Howl Tonight" songbooks. This information
+is based on Gary McGath's remote recollection, plus information cloned from
+GHT #6 which hopefully applies to all of them.</note>
+
+<name type="personal">
+<namePart>du Veritas, Cicatrice</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+
+</mods>

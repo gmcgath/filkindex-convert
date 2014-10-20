@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="pegasus">
+<recordInfo>
+<recordCreationDate>2006-11-13</recordCreationDate>
+<recordChangeDate>2006-11-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Pegasus Winners, Volume 1</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs that won the Pegasus Award, issued by the Ohio
+Valley Filk Festival, through 1994. Four songs were omitted due to
+failure to obtain permissions.
+</abstract>
+<originInfo>
+<publisher>M.A.S.S. F.I.L.C.</publisher>
+<dateIssued>1994</dateIssued>
+</originInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hauksdottir, Carolly Cristin</namePart>
+<role>
+<roleTerm>artist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sibley, Jane</namePart>
+<role>
+<roleTerm>artist</roleTerm>
+</role>
+</name>
+<accessCondition>Copyright 1994 by M.A.S.S. F.I.L.C.
+Songs and artwork copyright by their respective authors.</accessCondition>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hope Eyrie</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1984</note>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lullaby for a Weary World</title>
+</titleInfo>
+<name type="personal">
+<namePart>Burnside Clapp, T.  J.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1990</note>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Daddy's Little Boy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Porath, Murray</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Best Parody, 1986</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Daddy's Little Girl</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Return of the King, Uh-Huh</title>
+</titleInfo>
+<name type="personal">
+<namePart>Smith, Tom</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Crossover Song, 1992</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Temper of Revenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best War Song, 1991</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Unreality Warp</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Best Humorous Song, 1984</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kinda Mediocre, Actually</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Roper, Bill</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Best Schtick, 1987</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Unreality Warp</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Boy and his Frog</title>
+</titleInfo>
+<name type="personal">
+<namePart>Smith, Tom</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1991</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Song of the Shield-Wall</title>
+</titleInfo>
+<name type="personal">
+<namePart>Doyle, Debra</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Williamson, Melissa</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Historical Song, 1988</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wind from Rainbow's End</title>
+</titleInfo>
+<name type="personal">
+<namePart>Roper, Bill</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1988</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lightsailor</title>
+</titleInfo>
+<name type="personal">
+<namePart>Childs-Helton, Barry</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Best Space Song, 1993</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Dark-Eyed Sailor</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dawson's Christian</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1989</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ian the Grim</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1987</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Superman Sex Life Boogie</title>
+</titleInfo>
+<name type="personal">
+<namePart>Smith, Tom</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Media Song, 1988</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Velveteen</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Love Song, 1991</note>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Daddy's Little Girl</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Literary Song, 1990</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Do It Yourself</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sutton, Bill</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Best Techie Song, 1989</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>'Macnamara's Band, sort of -- sideways'</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Weekend-Only World</title>
+</titleInfo>
+<name type="personal">
+<namePart>Burnside Clapp, T.  J.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Fannish Song, 1990</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Reconsideration of Anatomical Docking Maneuvers in a Zero-Gravity Environment</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gallagher, Diana</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Humorous Song, 1986</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Witnesses' Waltz</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1986</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>God Lives on Terra</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1992</note>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Madame Curie's Hands</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>Best Tribute, 1992</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Leader of the Band</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fogelberg, Dan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Harbors</title>
+</titleInfo>
+<name type="personal">
+<namePart>Passovoy, Anne</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Best Filk Song, 1987</note>
+</relatedItem>
+</mods>

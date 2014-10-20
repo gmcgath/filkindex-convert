@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="heraldsharpershavoc">
+<recordInfo>
+<recordCreationDate>2007-01-23</recordCreationDate>
+<recordChangeDate>2007-01-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Heralds, Harpers and Havoc</title>
+</titleInfo>
+<originInfo>
+<publisher>Firebird Arts and Music</publisher>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<note>Information obtained from filk database at www.filk.info
+</note>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Holderkin Sheep Song</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Meeting</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Threes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Holderkin Sheep Song</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Philosophy</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Her Father's Eyes</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dark and Stormy Night</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Healer's Dilemma</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sun and Shadow</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>For Talia</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Face Within</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Laws</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Musings</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>First Love</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Arrow's Flight</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fundamentals</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Otherlove</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>After Midnight</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Herald's Lament</title>
+</titleInfo>
+</relatedItem>
+
+
+</mods>

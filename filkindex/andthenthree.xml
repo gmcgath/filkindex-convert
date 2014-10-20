@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="andthenthree">
+<recordInfo>
+<recordCreationDate>2007-05-07</recordCreationDate>
+<recordChangeDate>2010-06-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>...and Then Three Come Along Together...</title>
+</titleInfo>
+<identifier type="isbn">1-870824-44-X</identifier>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Omnibus collection of contents of On Filkley Moor,
+Drunken Rabble Project, and The Old Grey Wassail Test</abstract>
+<originInfo>
+<publisher>Beccon Publications</publisher>
+<dateIssued>2001</dateIssued>
+<place>
+  <placeTerm type="text">England</placeTerm>
+</place>
+</originInfo>
+
+<note>Gytha North was the editor of the original three books which
+are combined here.</note>
+<name type="personal">
+<namePart>Robinson, Roger</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>North, Gytha</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Mason, Sue</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dixon, Kevin</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+</mods>

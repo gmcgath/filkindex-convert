@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="filkfromdeveloping">
+<recordInfo>
+<recordCreationDate>2006-11-25</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Filk from a Developing Country</title>
+<subTitle>Songs of Fantasy and Science Fiction</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<language>
+<languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>A4, saddle stitch</note>
+</physicalDescription>
+
+<abstract>Songs by Juliane Honisch; most in English, some
+in German. The first filk book published in Germany.</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Frankfurt am Main, Germany</placeTerm>
+</place>
+<publisher>Juliane Honisch</publisher>
+<dateIssued>1995</dateIssued>
+<edition>First Edition</edition>
+</originInfo>
+<accessCondition>Copyright 1995 by Juliane Honisch.</accessCondition>
+<name type="personal">
+<namePart>Honisch, Juliane</namePart>
+<role>
+<roleTerm>author</roleTerm>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Diener, Andrea</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sauder, Birgit</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>von Stockfleth, Bettina</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filk from a Developing Country</title>
+  </titleInfo>
+  <note>Introduction to book</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Another Round</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Boy Heroes</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The British Grenadiers</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Honor the Microbe</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Decision</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ecological Solution</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Bamboo</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Van Ronk, Dave</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Neofan's Lament</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>When Filkers Go A-Roving</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>A-Roving in the Night</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Oversized Star Treveller</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Kulturkritiker</title>
+  </titleInfo>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ja das Schreiben und das Lesen</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Die Seuche</title>
+  </titleInfo>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Tavern in a Town</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Striking Heroes</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Streets of London</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fantasy Fantasies</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Another Little Beggarman</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Jolly Beggarman</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tempus Fugit</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Storyteller's Song</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Were Howl</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Troll Fiord</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Neverending Boredom</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Moon So Bright</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dark Transgression</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Scifiligion</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Brotherhood of the Wise</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Illengyal's Fate</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Baerenthal Ballade</title>
+  </titleInfo>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lied des Großmeisters Aterias</title>
+  </titleInfo>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Attempt</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Come Away</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Aria from "Dido and Aeneas"</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Purcell, Henry</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Escapist Dreams</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ferengi Sale</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Undiscovered Prejudice</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Jim's Sins</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rest and Irritation</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ose Ode to Odo</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Original</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Diplomatic Mission</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>For Scotty</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Beyond</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Klingon Schoolkids' Catechism</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Where Our Dreams Are Living</title>
+  </titleInfo>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Co Sheineas an fhideag airgid</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Choice Vulcan</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>We're the Borg</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

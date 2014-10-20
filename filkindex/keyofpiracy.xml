@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="keyofpiracy">
+<recordInfo>
+<recordCreationDate>2006-11-18</recordCreationDate>
+<recordChangeDate>2007-03-28</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>In the Key of Piracy</title>
+<subTitle>The Bucconeer Filk Book</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>Songbook for Buconeer, the 1998 World Science Fiction Convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Baltimore, Maryland</placeTerm>
+</place>
+<publisher>Baltimore Worldcon</publisher>
+<dateIssued>1998</dateIssued>
+</originInfo>
+<accessCondition>Compilation copyright 1998 Baltimore Worldcon 1998, Inc.
+Writers of individual songs retain copyright to their works.</accessCondition>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dennis, Miki</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Second Hand Songs</title>
+</titleInfo>
+<name type="personal">
+<namePart>Turner, Jonathan</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Word of God</title>
+</titleInfo>
+<name type="personal">
+<namePart>Faber, Cat</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>As Photons Fly</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>As Time Goes By</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hupfeld, Herman</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Build a Little Piece</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Stayin' Alive on Babylon 5</title>
+</titleInfo>
+<name type="personal">
+<namePart>Levesque, Arthur</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Y.M.C.A.</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Phone Call Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gold, Lee</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>If I Fell</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lennon, John</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Field Guide to Common Forms of -ose</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kaplan, Howard</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>What Shall We Do With a Statue of Lenin?</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sibley, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>What Shall We Do With a Drunken Sailor</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Galaxy's Wide</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stauff, Ed</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Water Is Wide</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Running for the Shadows</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cinii, I Abra</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bounce!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kesselman, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dorn, Sherman</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Crosstown Bus</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune from chorus used</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mews for Maggie</title>
+</titleInfo>
+<name type="personal">
+<namePart>Soley, Kate-Barton</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>They Did Say They Were Pirates</title>
+</titleInfo>
+<name type="personal">
+<namePart>Todd-Prather, Martha</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Paper Sea (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fithp Invasion Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Phillips, Carol</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Craft, Judy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Banned from Argo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Simple Song of Celebration</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gendron, Denise</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Distant Voices</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ehrlich, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Mundane Father's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>Thompson, Cheryl</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>A Chat With Your Mom</title>
+</titleInfo>
+<name type="personal">
+<namePart>Berryman, Lou</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Berryman, Peter</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Neofan's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>Honisch, Ju</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Magnificent Star</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mandel, Mark</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carolyn Snide</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Kerowyn's Ride</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cold Butcher</title>
+</titleInfo>
+<name type="personal">
+<namePart>Macdonald, Steve</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Loki</title>
+</titleInfo>
+<name type="personal">
+<namePart>Osier, Mark</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Lodi</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+</relatedItem>
+
+</mods>

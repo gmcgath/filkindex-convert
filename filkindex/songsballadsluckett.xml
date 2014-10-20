@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="songsballadsluckett">
+<recordInfo>
+<recordCreationDate>2011-10-10</recordCreationDate>
+<recordChangeDate>2011-10-10</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Songs and Ballads</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, saddle stitch</note>
+</physicalDescription>
+<abstract>Songs by David Luckett</abstract>
+<originInfo>
+<dateIssued>1983</dateIssued>
+</originInfo>
+<accessCondition>All songs and lyrics copyright David Luckett 1983.
+Illustrations copyright Peter Saxon 1983
+</accessCondition>
+<name type="personal">
+<namePart>Luckett, David</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Saxon, Peter</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+
+
+</mods>

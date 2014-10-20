@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="boskone14">
+<recordInfo>
+<recordCreationDate>2006-12-28</recordCreationDate>
+<recordChangeDate>2006-12-28</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Boskone 14 Filksong Supplement</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>i+22pp.</extent>
+<note>Mimeographed, side-wire stitched, 8-1/2"x11"</note>
+</physicalDescription>
+<abstract>16 "standard" filksongs plus 20 filksongs entered in the Boskone 14 filksong contest.</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Massachusetts</placeTerm>
+</place>
+<publisher>New England Science Fiction Association</publisher>
+<dateIssued>1977</dateIssued>
+</originInfo>
+<note>This was intended to be a supplement to the first edition of the NESFA Hymnal which had been published the previous year.
+Information provided by NESFA at www.nesfa.org
+</note>
+<name type="personal">
+<namePart>Benders, Kris</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ross, A. Joseph</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Raskind, Lisa</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+</mods>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="returntomassteria">
+<recordInfo>
+<recordCreationDate>2008-07-11</recordCreationDate>
+<recordChangeDate>2008-09-17</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Return to Massteria</title>
+</titleInfo>
+
+<note>Nick Smith says there is no book by this title in the "Massteria"
+series. This record is being retained to supersede older, erroneous records.</note>
+
+
+</mods>

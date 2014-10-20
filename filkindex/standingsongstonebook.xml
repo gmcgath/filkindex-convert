@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl"?>
+<mods xmlns="http://www.loc.gov/mods/v3" ID="standingsongstonebook">
+  <recordInfo>
+    <recordCreationDate>2014-2-2</recordCreationDate>
+    <recordChangeDate>2014-2-2</recordChangeDate>
+  </recordInfo>
+  <titleInfo>
+    <title>The Standing Song Stone Book</title>
+  </titleInfo>
+  <physicalDescription>
+    <note>8.5 x 11, ringbinder punched</note>
+  </physicalDescription>
+  <abstract>SCA songs from Calontir</abstract>
+  <originInfo>
+  </originInfo>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Men of Calon</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Goodleech</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Men of Harlech</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Calontir</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Amono, Maegril Elentur</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Camelot!</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Rodgers, Richard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Calontir Stands Alone</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Blackhand, Lord Brom</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Johnny Comes Marching Home</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>A Calontir Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Coeur de Boeuf, William</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Old Gray Mare</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Surgeon's Lament</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Goodleecgh</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Bulldog Down at Yale</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>What Shall we Do With a Drunken Shireling?</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Goodleech</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>WSWDWA Drunken Sailor</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Brummbar Went to a Wedding</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>d'Aurillac, Balloux</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Shadowcatcher, Dunsel</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Guy of Flanders</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Devil Went Down to Georgia</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Twelve Stages of Authorization</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Harald of Three rivers</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Twelve Days of Christmas</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Be True to Your Shire</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>MacAuleth, Amleth</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Be True to Your School</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Help Me Brummbar</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>MacAuleth, Amleth</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Help me Rhonda</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Beach Boys</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Hooked on SCA Games</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>de la Lunargent, Lyra</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Leaving on a Jet Plane</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Denver, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Song of the Peoples</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hlodowechssun, Lord Erich</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Cyfrwys Llewryrch Gan Annibyniaeth</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>They'll Know We Are Christians By Our Love</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Imperium Compound</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>various Middle Kingdom bards</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Lydia Pinkham's Medicinal Compound</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>My Seneschal's Fault</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>various Middle Kingdom bards</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>My Favorite Things</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Chivalry</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>bro Morganwyg, Lady Morgana</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Lemon Tree</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>PP&amp;M?</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Hark! The Heralds Loudly Cry</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>MacEanruig, Sir Steven</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Hark The Herald Angels Sing</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>A Traitor Baron Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Blackhand, Lord Brom</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Rudolph the Red Nosed Reindeer</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Still Another Traitor Baron Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Goodleech</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Ballad of Davy Crockett</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Plague Rat</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>The Barony of Three Rivers</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>My Bonnie Lies Over the Ocean</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Descent of the Dragon</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>MacRorie, Donal</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Johnnie o'Braidislee</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Skean Dhu</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>MacAuleth, Amleth</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Can Do</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Great Norse Rover</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Blackhand, Lord Brom</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Irish Rover</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>I Am a Dane</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Espicier, Gwyneth</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>I Am a Rock</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Simon, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Viking Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>MacTavish, Ayrbaird</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>We Three Kings</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Anti-Viking Challenge Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>MacTavish, Ayrbaird</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>the Lumberjack Song</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Rollin' to Jerusalem</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Blackhand, Lord Brom</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Gallant Forty-Five</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Spanish Inquisition</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lewis, Anthony R.</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>MacNamara's Band</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Joy To the World</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Sir William the Lucky</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>MacEanruig, Sir Steven</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Joy to the World</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Skye Boat Song</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Bastard King of England</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Green Grow the Rushes, Oh!</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Campbells are Comin'</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Temperance Union</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>My God, How the Money Rolls In!</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Limerick Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>goopwads of folks</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>chorus is "Cielito Lindo"</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>High Fly the Nazgûl</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Johnstone, Ted</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Green Grow the Rushes, Oh</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Tiptoe 'Cross the Rooftops</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Asprin, Bob</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Tiptoe Thru the Tulips</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fafhrd's Hangover</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Asprin, Bob</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Teddy Bears' Picnic</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+</mods>

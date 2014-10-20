@@ -1,0 +1,804 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="goldengait">
+<recordInfo>
+<recordCreationDate>2006-12-23</recordCreationDate>
+<recordChangeDate>2006-12-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Golden Gait Filkbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>Filk songbook prepared for ConFrancisco, the 1993 World Science Fiction Convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">San Francisco, California</placeTerm>
+</place>
+<publisher>Gold Rush</publisher>
+<dateIssued>1993</dateIssued>
+</originInfo>
+<accessCondition>All songs and artwork not covered by prior copyright
+are copyrighted as part of Con the Golden Gait Filkbook, September 1993.
+All rights to artwork and songs revert to the authors upon publication of the Golden Gait Filkbook.
+</accessCondition>
+<name type="personal">
+<namePart>Gold, Lee</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gold, Lynn</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gold, Barry</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Introduction</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gold,  Lee</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Gold, Lynn</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Convention Report</title>
+   <subTitle>Incident along Fantasy Way</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Digby, Tom</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <note>Written in 1974</note>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lullaby for a Weary Fan</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lullaby for a Weary World</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Burnside-Clapp, T. J.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Curry Queen</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Rhodri</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Come Ye Knights</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Willis, Sheila</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Donuts, Donuts</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Dona Dona</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Secunda, Sholem</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Chocolate</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Taylor, Virginia</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Marvelous Toy</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Paxton, Tom</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Waltzing Matilda</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>"Overflowing Cathouse" Blues</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McQuillin, Cynthia</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Overflowing Cat Box Blues</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Robinson, Jane</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gene Roddenberry's Ghost Is Haunting Deep Space Nine</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ehrlich, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Carmen Miranda's Ghost</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Babylon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Hagel, Crystal</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Camelot</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Loewe, Frederick</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Good Ol' Classic Trek</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Weller, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Weller, Catherine</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Achy Breaky Heart</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Cyrus, Billy Ray</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Eulogy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Bela Lugosi's Spirit</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Oppen, Eric</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Carmen Miranda's Ghost</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fish, Leslie</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Catschools</title>
+   <subTitle>Incident along Fantasy Way</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Digby, Tom</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Federation Jail</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mailander, Jane</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Tijuana Jail</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Universal Soldier</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Wood, Keith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Universal Soldier</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sainte-Marie, Buffy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>All of the Nomads</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Oppen, Eric</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Banks of Sicily</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gonna Raise the Phoenix</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ellis, Joe</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Born Again T-Rex</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Browne, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Born Again Trek</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Movin' the Cones</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Rhodri</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Movin' the Bones</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Robinson, Jane</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ankh-Morpork, Ankh-Morpork</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Pickett, Tim "Quetzal"</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>New York, New York</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>L.A., April 30, 1992</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Weingart, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name><relatedItem type="constituent">
+  <titleInfo>
+   <title>Achy Breaky Arse</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Marmel, M. Mitchell</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm><relatedItem type="constituent">
+  <titleInfo>
+   <title>Size</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Revine, Rennie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Lies</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Rogers, Stan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Barbers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Browne, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Harbors</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Passovoy, Anne</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mathom-Schism Tango</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Marmel, M. Mitchell</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Masochism Tango</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lehrer, Tom</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Fire Upon the Deep</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Weingart, Dave</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Señor Guthrie</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGath, Gary</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Grandfather's Clock</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Work, Henry</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Endeavor: Dreamlifter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ellis, Joe</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tack My Name</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Fish, Leslie</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Frosty the Snowperson</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Marmel, M. Mitchell</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Frosty the Snowman</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Shoulda</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mar, Kathy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role><relatedItem type="constituent">
+  <titleInfo>
+   <title>An Alto's Lot</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>James, Rhodri</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>A Policeman's Lot</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Sullivan, Arthur</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Mamas, Don't Let Your Babies Grow Up to Be Hackers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>van Pelt, Mike</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Mamas, Don't Let Your Babies Grow Up to Be Cowboys</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Were-Nerd</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gold, Lynn</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Achy Breaky Heart</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Cyrus, Billy Ray</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Daddy's Little Girl</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ecklar, Julia</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

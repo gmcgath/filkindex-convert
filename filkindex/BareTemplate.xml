@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3">
+<recordInfo>
+<recordCreationDate>YYYY-MM-DD <!--required--></recordCreationDate>
+<recordChangeDate>YYYY-MM-DD</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title></title>
+</titleInfo>
+<identifier type="isbn"></identifier>
+<language>
+<languageTerm type="code" authority="iso639-2b"></languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note></note>
+</physicalDescription>
+
+<abstract></abstract>
+<originInfo>
+<place>
+  <placeTerm type="text"></placeTerm>
+</place>
+<publisher></publisher>
+<dateIssued></dateIssued>
+</originInfo>
+<accessCondition></accessCondition>
+<name type="personal">
+<namePart></namePart>
+<role>
+<roleTerm></roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title></title>
+<subTitle></subTitle>
+</titleInfo>
+<name type="personal">
+<namePart></namePart>
+<role>
+<roleTerm></roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title></title>
+</titleInfo>
+<name type="personal">
+<namePart></namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</mods>

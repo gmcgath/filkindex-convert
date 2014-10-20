@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="crystalvisions">
+<recordInfo>
+<recordCreationDate>2007-08-19</recordCreationDate>
+<recordChangeDate>2007-08-19</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Crystal Visions</title>
+</titleInfo>
+<originInfo>
+<publisher>Off Centaur Publications (probably)</publisher>
+<dateIssued>1980</dateIssued>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Wayne, Phillip</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<note>Information obtained from filk database at www.filk.info
+</note>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Moon Dance</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Honor of Ulster</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Love Fetch</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Snow Queen</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Snow</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Soul Walker</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sabbath</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Midwinter's Night</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hi Ho</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Iron and Steel</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Chieri </title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dragon Lords</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leave Taking Morn</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ylan's Song; Someday</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Follow the Dog Star Home</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ryan's Star; Crimson and Crystal</title>
+</titleInfo>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Silent Daggers</title>
+</titleInfo>
+</relatedItem>
+
+</mods>

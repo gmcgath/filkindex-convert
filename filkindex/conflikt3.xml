@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="conflikt3">
+<recordInfo>
+<recordCreationDate>2014-05-26</recordCreationDate>
+<recordChangeDate>2014-05-26</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Conflikt III Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, saddle stitch</note>
+</physicalDescription>
+<abstract>Songbook for the Conflikt III (2010) filk convention</abstract>
+<originInfo>
+<dateIssued>2010</dateIssued>
+<place>
+  <placeTerm type="text">Renton, Washington</placeTerm>
+</place></originInfo>
+<accessCondition>All material rights to these songs are returned to the
+writers/composers upon publication. Copies may be made of this book for
+non-commercial use provided all copyright notices and credits are
+maintained intact.
+</accessCondition>
+<name type="personal">
+<namePart>Turner, Jasmine</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filkers Are Strange</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sledge, Stephen G. "Casey"</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>People Are Strange</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Facebook Chanty</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Ross, Andrew</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Come All Ye Gallant Fishermen</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>MacColl, Ewan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Wreck of the Crash of the Easthill Mining Disaster</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lunderville, Brooke</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Hit Me with Your One Shot</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Jaekel, Dawn</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Hit Me with Your Best Shot</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Benetar, Pat</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Am Unicorn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Sledge, Stephen G.</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Falling Free</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Smith, Tom</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Roll Down the Water</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lambard, Creede</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Moon Dance</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Traub, JT</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Moondance</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Morrison, Van</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Don't Throw that Missile!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Mandel, Mark</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Don't Push that Button</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Elms, Duane</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Knitting Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McCorison, Juliana</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>The Garden Song</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mallet, David</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>More to Come</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Garcia, Alisa</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tonight I Sleep Alone</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Glover, Rich</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rosemary and Rue</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Lunderville, Brooke</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Oh, Michelle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>McGuire, Seanan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Still Star Struck</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Turner, Cindy</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Walking to Seattle</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Phoenix of Portland</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Walkin' to New Orleans</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

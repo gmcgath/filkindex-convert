@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="dasfolk">
+<recordInfo>
+<recordCreationDate>2007-11-26</recordCreationDate>
+<recordChangeDate>2007-11-27</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Dasfolk Filk Rock</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<abstract>A collection of filksongs written by Denver fen. 
+Features the filk opera "Con Time Space: Twin Ruum."</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Colorado</placeTerm>
+</place>
+<publisher></publisher>
+<dateIssued>circa 1970</dateIssued>
+</originInfo>
+<note>Information from Filkindex by Sourdough Jackson.
+Listed in the M. Horvat collection of science fiction fanzines
+at the University of Iowa Libraries.</note>
+<name type="personal">
+<namePart>Tockman, Judy</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+
+</mods>

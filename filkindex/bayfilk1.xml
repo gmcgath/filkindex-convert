@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="bayfilk1">
+<!-- The top-level mods element should have an ID attribute which is the same
+     as the file name, minus the ".xml" extension -->
+<recordInfo>
+<recordCreationDate>2007-11-26<!--required--></recordCreationDate>
+<recordChangeDate>2009-09-19</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Bayfilk 1 not so Instant Songbook</title></titleInfo>
+
+<language>
+<languageTerm type="code" authority="iso639-2b"><!-- Most common
+values are eng (English) and deu (German). Use more than one
+language element if multiple languages are used. If just one
+or two songs are in a different language, it's probably best
+to give them a language element rather than adding it here. -->eng</languageTerm>
+</language>
+<physicalDescription>
+<!-- The form element will be the same for all printed books -->
+<form authority="marcform">print</form>
+<note>Stapled<!-- Information about format and binding can go here --></note>
+</physicalDescription>
+<abstract>The Songbook was made from copies of songs provided by members of Bayfilk 1</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">El Cerrito, California</placeTerm>
+</place>
+<publisher>Off-Centaur publications</publisher>
+<dateIssued>1982</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1982 by Off-Centaur Publications. Copyrighted material used by permission of authors.</accessCondition>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>I'm A Carl Sagan Groupie</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leib, Amyellen</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role></name>
+<name type="personal">
+<namePart>Took, Fang van</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role></name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>I'm A Yankee Doodle Dandy</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Strawberry Jellow Forever</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leib, Amyellen</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Strawberry Fields</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lennon/McCartney</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>I Surely Would</title>
+</titleInfo>
+<name type="personal">
+<namePart>Banzhof, Donna</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>El Condor Pasa</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robles, Daniel Alomía</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Radiation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Yturralde, Mark</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Dr Pepper Theme (I'm A Pepper)</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Mage Who Lost His Glasses</title>
+</titleInfo>
+<name type="personal">
+<namePart>Armbruster, Lori</namePart>
+<role>
+<roleTerm>Lyricist, Composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Twelve Days of FRP</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gilly, James</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Twelve Days of Christmas</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Slaying fo the Remorhaz</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cole, Cory</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Wearig of the Green</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</relatedItem>
+
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Little Cthulu</title>
+</titleInfo>
+<name type="personal">
+<namePart>Simpson, Don</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<note>Song has a spoken indroduction.</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Little Lulu animated cartoon theme</title>
+</titleInfo>
+<note>Tune suggested or parodied </note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cabin Fever</title>
+</titleInfo>
+<name type="personal">
+<namePart>Barnes, Georgia</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>MacDonald, Kathleen</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<note>With assistance from Leslie Fish &amp; Raven</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Daisy Bell (Bicycle Built for Two)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dacre, Harry </namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Zolena</title>
+</titleInfo>
+<name type="personal">
+<namePart>Turner &amp; Friends, Evelyn</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>El Paso</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robbins, Marty </namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Superman is Fragile, He's Got Monomucleosis</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kotrben, Rick</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Supercalifragilisticexpialidocious</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sherman, Richard M &amp; Robert B</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>When Oppsites Unite</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hellerstein, Nathaniel</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ballad of Inverness</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ballad of Bayfilk 1</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish Leslie</namePart>
+<role>
+<roleTerm>Lyricist, Composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Few Hours</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bratman, David</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Few Hours</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Expansion Kit for Paul Anderson's "TRANSPORTEERS"</title>
+</titleInfo>
+<name type="personal">
+<namePart>Smith, Nick</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When Johny Come Marching Home</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>It's All Our Fault</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willett, Paul</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Space is Dark</title>
+</titleInfo>
+<name type="personal">
+<namePart>Roper, Bill</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ronald-Reagan-Carl-Sagan-San-Diegan Pagan Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willett, Paul</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Richter Scale</title>
+</titleInfo>
+<name type="personal">
+<namePart>Clark, Jay Kent</namePart>
+</name>
+<name type="personal">
+<namePart>Davis, Elliott</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Road to the Future</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willett, Paul</namePart>
+<role>
+<roleTerm>Lyricist, Composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>On Crypton II</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin, Cindy</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>On Broadway</title>
+</titleInfo>
+<name type="personal">
+<namePart>Barry, Mann</namePart>
+</name>
+<name type="personal">
+<namePart>Weil, Cynthia</namePart>
+</name>
+<name type="personal">
+<namePart>Leiber, Jerry</namePart>
+</name>
+<name type="personal">
+<namePart>Stoller, Mike</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mos Eisley Space Port</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin, Cindy</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Copacabana</title>
+</titleInfo>
+<name type="personal">
+<namePart>Manilow, Barry</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Star Wars/Empire Marching Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin &amp; J. Wayne, Cindy</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When Johnny Comes Marching Home</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Miranda</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wilson, Karen</namePart>
+<role>
+<roleTerm>Lyricist, Composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Programer's Alphabet</title>
+</titleInfo>
+<name type="personal">
+<namePart>Savitzky, Steve</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Sweet Betsy from Pike</title>
+</titleInfo>
+<name type="personal">
+<!-- Indicating the composer(s) is sufficient, but name the lyricist
+     as well if you want -->
+<namePart>Stone, John A.</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Freeway Filkers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Note, See</namePart>
+<role>
+<roleTerm>Lyricists</roleTerm>
+</role>
+</name>
+<note>Eric Gerds, Teri Troutman, Chris Weber, Curtis White, James Long, William Long, Rebecca Long, Rilla Parker, Carol Yobie, Barney Evans, Marie Munns</note>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Proud Mary</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fogerty, John</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Tully &amp; Ice</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jackson, Mary Kay</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ring of Fire</title>
+</titleInfo>
+<name type="personal">
+<namePart>Carter &amp; Merle Kilgore, June</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>When the Millenium Falcon leaves for Alderaan</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wilson, Anne</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When the Midnight Choo-Choo Leaves for Alabam'</title>
+</titleInfo>
+<name type="personal">
+<namePart>Berlin, Irving</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Be A Droid</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willson, Anne</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Be A Clown</title>
+</titleInfo>
+<name type="personal">
+<namePart>Porter, Cole</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+Be A Clown</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Bantam Cock</title>
+</titleInfo>
+<name type="personal">
+<namePart>Traditional</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Star Trek Connection</title>
+</titleInfo>
+<name type="personal">
+<namePart>Evans, Barney</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Rainbow Connection</title>
+</titleInfo>
+<name type="personal">
+<namePart>Williams &amp; Kenneth Ascher, Paul</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Moonlight Over Livermore</title>
+</titleInfo>
+<name type="personal">
+<namePart>Roberts, Mike</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Jamaician Farewell</title>
+</titleInfo>
+<name type="personal">
+<!-- Indicating the composer(s) is sufficient, but name the lyricist
+     as well if you want -->
+<namePart>Burgie &amp; Traditional, Irving</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Murderous Little Toy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Roberts, Mike</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Marvelous Little Toy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Paxton, Tom</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Larry's Red Lab Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Roberts, Mike</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Dance of the Hours, (Hello Muddah, Hello Fadduh)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ponchielli, Amilcare</namePart>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Isle of Time</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bethel, Kimberly</namePart>
+<role>
+<roleTerm>Lyricist, Composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Obi Wan</title>
+</titleInfo>
+<name type="personal">
+<namePart>Long, Rebecca</namePart>
+<role>
+<roleTerm>Lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Billy Boy</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

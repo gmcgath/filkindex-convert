@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="waitingwords">
+<recordInfo>
+<recordCreationDate>2007-11-29</recordCreationDate>
+<recordChangeDate>2007-11-29</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Waiting Words</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>A5, Saddle stapled</note>
+</physicalDescription>
+<abstract>Songs by Michele (Miki) Dennis</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United Kingdom</placeTerm>
+</place>
+<publisher>Vicecountess Productions</publisher>
+<dateIssued>2000</dateIssued>
+</originInfo>
+<note>Information obtained from Rafe Culpin's UK Filk Music Database.</note>
+<name type="personal">
+<namePart>Dennis, Michele</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Love Song For Filkers</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Danse Macabre</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Serial Folk Killer</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Always Halloween</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Wild Hunt</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Betrayal</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Waiting Words</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tobit's Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Dream</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Robert's Cry</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>What!</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Realm of the Butterfly</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Dennis, Michele</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+</relatedItem>
+
+
+</mods>

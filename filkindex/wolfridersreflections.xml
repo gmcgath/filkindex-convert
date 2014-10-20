@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="wolfridersreflections">
+<recordInfo>
+<recordCreationDate>2006-11-25<!--required--></recordCreationDate>
+<recordChangeDate>2006-11-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>A Wolfrider's Reflections</title>
+</titleInfo>
+<identifier type="isbn">0-910483-15-9</identifier>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, saddle stitch, color front and back covers</note>
+</physicalDescription>
+<abstract>Songs based on the Elfquest series of graphic novels</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">El Cerrito, California</placeTerm>
+</place>
+<publisher>Off Centaur Publications</publisher>
+<dateIssued>1984</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1984, 1987 Off Centaur Publications. 
+Elfquest is a registered trademark of WaRP Graphics, Inc.,
+and is used by permission. Artwork Copyright 1984 WaRP Graphics, Inc.
+Cover artwork Copyright 1986 WaRP Graphics.</accessCondition>
+<name type="personal">
+<namePart>Lee, Teri</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hauksdottir, Carolly</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Akar, Monique</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fun and Games</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Children of the Fall</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Tam's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Calling</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nightcrawler</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>All About Berries</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Shadow Pact</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Shades of Shadow</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Hunt</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Confrontation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Remembering</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Marking Time</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Strange Blood</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>True as Gold</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Suitors</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Wolfrider's Reflections</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Triangle</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lackey, Mercedes</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Healer's Hands</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Marching Orders</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Troll Hall</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Pridefall</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Catatonia County Rag</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+
+</mods>

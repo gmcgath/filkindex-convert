@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="darkmooncircle">
+<recordInfo>
+<recordCreationDate>2007-01-23</recordCreationDate>
+<recordChangeDate>2009-04-12</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Dark Moon Circle</title>
+</titleInfo>
+<originInfo>
+<place>
+  <placeTerm type="text">Berkeley, California</placeTerm>
+</place>
+<publisher>Unlikely Publications</publisher>
+<dateIssued>1989</dateIssued>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<abstract>An older collection of Cynthia McQuillin's pagan songs</abstract>
+<form authority="marcform">print</form>
+</physicalDescription>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Woodmansee, Ken</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hauksdottir, Carolly</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ashes</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>As the Time Goes</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carnival Christ</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cup and Flame</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Darkling Sea</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dark Moon Circle</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Death Dreamer</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Familiar Beast</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lucifer's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Magic Shoppe</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Maid and the Unicorn</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Passion's Price</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ritual Is the Best Excuse</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Rowan Tree</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sing I</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Song of the Warlock</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Star Circle</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Vessels</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin,Cynthia</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+
+
+</mods>

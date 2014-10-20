@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="songbuchderfilken">
+<recordInfo>
+<recordCreationDate>2007-11-27</recordCreationDate>
+<recordChangeDate>2007-11-27</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Songbuch der Filken</title>
+</titleInfo>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<originInfo>
+<publisher></publisher>
+</originInfo>
+<note>Listed in the M. Horvat collection of science fiction fanzines
+at the University of Iowa Libraries.</note>
+
+</mods>

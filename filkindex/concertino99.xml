@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="concertino99">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>ConCertino 1999 Program Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>Program book with songs for ConCertino 1999, the New England
+filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Massachusetts</placeTerm>
+</place>
+<publisher>M.A.S.S.F.I.L.C., Inc.</publisher>
+<dateIssued>1999</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1999 by M.A.S.S. F.I.L.C. Individual songs
+copyrighted by contributors.</accessCondition>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Acts of Desperation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Carroll, Jack</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Acts of Creation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Faber, Cat</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>And the Filkers All Sang "Banned From Argo"</title>
+</titleInfo>
+<name type="personal">
+<namePart>McAfee, Michael</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>And the Band Played Waltzing Matilda</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bogle, Eric</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Colony in Space</title>
+</titleInfo>
+<name type="personal">
+<namePart>Thiesen, Alan</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Colors of the Laser</title>
+</titleInfo>
+<name type="personal">
+<namePart>Holly, Robin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Colors of the Wind</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dream to Last</title>
+</titleInfo>
+<name type="personal">
+<namePart>McKenna, Marjorie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Both Sides Now</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mitchell, Joni</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Duet for Tourist &amp; Failed Wizard</title>
+</titleInfo>
+<name type="personal">
+<namePart>Silverman, Rachel</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>New York, New York</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ghost Filkers in the Sky</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lapgan, Palman</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ghost Riders in the Sky</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ranger Stan Jones</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>If I Only Had a Cray</title>
+</titleInfo>
+<name type="personal">
+<namePart>Aronson, Dave</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>If I Only Had a Brain</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Imperial Coast Guard Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Strauss, Erwin S.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Coast Guard Song</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Imperial May</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gold, Lee</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Imperial March</title>
+</titleInfo>
+<name type="personal">
+<namePart>Williams, John</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>King in Krothering (A)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mandel, Mark</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Major Elements</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gendron, Denise</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Major General's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sullivan, Arthur</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>MormonCon</title>
+</titleInfo>
+<name type="personal">
+<namePart>Liebmann, Michael</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>HeavenCon</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Pointy-Haired Man</title>
+</titleInfo>
+<name type="personal">
+<namePart>Brinich, Steve</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Angry Young Man</title>
+</titleInfo>
+<name type="personal">
+<namePart>Joel, Billy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Rye Town (Escher) Hilton</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lapgan, Palman</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Hotel California</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Skimming the Internet</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Take It One Step and One Day at a Time</title>
+</titleInfo>
+<name type="personal">
+<namePart>Parker, Frank</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Unpacking the Library</title>
+</titleInfo>
+<name type="personal">
+<namePart>Holly, Robin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Teddy Bears' Picnic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bratton, John W.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>William Shatner's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Thiesen, Alan</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>You've Got to Hide Your Love Away</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lennon, John</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Witnesses Walloped</title>
+</titleInfo>
+<name type="personal">
+<namePart>Holly, Robin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Turner, Jonathan</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Witnesses' Waltz</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Yoda Battles</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ek, Adam</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bach, Johann Sebastian</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+</mods>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="magicgranny">
+<recordInfo>
+<recordCreationDate>2007-12-01</recordCreationDate>
+<recordChangeDate>2007-12-05</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Magic Granny's Industrious Strength Science Fiction &amp; Fantasy Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+
+<originInfo>
+<publisher>Magic Granny Line</publisher>
+<dateIssued>1984</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1984 by Suzette Haden Elgin</accessCondition>
+<note>Information from Margaret Middleton and songbook index page</note>
+<name type="personal">
+<namePart>Elgin, Suzette Haden</namePart>
+<role>
+<roleTerm>author</roleTerm>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Dragon's Tale</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Computer Chip Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Froggy Went A-Rovin'</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>There's a Martian in My Pocket</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Go Tell the Dragon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Down in Holes</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>We're Off to Space</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Tadling, Go to Sleep</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dear Little Creature</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Good Ship Bodacious</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

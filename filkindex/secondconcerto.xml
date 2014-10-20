@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="secondconcerto">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2006-11-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Second ConCerto Program Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Program book with songs for The Second ConCerto, the 
+1997 southern New Jersey filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">New Jersey</placeTerm>
+</place>
+<publisher>The Second ConCerto Committee</publisher>
+<dateIssued>1997</dateIssued>
+</originInfo>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>4064</title>
+</titleInfo>
+<name type="personal">
+<namePart>O'Brien, Maureen</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Lennon, John</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When I'm 64</title>
+</titleInfo>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>After the Happy Ending...</title>
+</titleInfo>
+<name type="personal">
+<namePart>Allcock, Phil</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Another Earth</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Blues on Your Knife</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gold, Lee</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Blues in the Night</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bohemian Toastedy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Daverin, Brenda</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bohemian Rhapsody</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mercury, Freddie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Darkness</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Darkness</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kare, Jordin</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Goin' Filkin'</title>
+</titleInfo>
+<name type="personal">
+<namePart>Strauss, Erwin S.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Talkin' Baseball</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Judgment</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hanley, Ian</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lady (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Krangle, Jodi</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Like the Dorsai</title>
+</titleInfo>
+<name type="personal">
+<namePart>Durno, Allison</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Londo's Regrets</title>
+</titleInfo>
+<name type="personal">
+<namePart>Feld, Harold</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When the Wind Blows</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bogle, Eric</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Modern Revenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wells, Terri</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Temper of Revenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nuts</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kwinn, Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Technonerdboy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ohi, Debbie Ridpath</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>When I First Put This Uniform On</title>
+</titleInfo>
+<name type="personal">
+<namePart>Botteron, Carol J.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When I First Put This Uniform On</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sullivan, Arthur</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Work of the Weyr Folk</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kranzer, Ellen</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Work of the Weavers</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Wraggle-Taggle Filkers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mandel, Mark</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Wraggle-Taggle Gypsies</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>X-Rated First Date</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ehrlich, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Chat With Your Mom (A)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Berryman</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+</mods>

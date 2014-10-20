@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="singasongofseti">
+<recordInfo>
+<recordCreationDate>2006-11-20</recordCreationDate>
+<recordChangeDate>2007-05-12</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Sing a Song of SETI</title>
+<subTitle>The Official Songbook of The SETI League, Inc.</subTitle>
+</titleInfo>
+<identifier type="isbn">0-9650707-1-9</identifier>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>Songs by H. Paul Shuch about the search for extraterrestrial intelligence (SETI).</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>The SETI League, Inc.</publisher>
+</originInfo>
+<accessCondition>All lyrics  copyright 1995, 1996 by H. Paul Shuch, Ph.D.
+</accessCondition>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>SETI League Anthem</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Wishful Thinking</title>
+</titleInfo>
+<name type="personal">
+<namePart>Thiesen, Alan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied; chorus is "Red Wing," traditional</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Karl Jansky</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Kilkelly</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Peter</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Grote Reber</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>If You're Happy and You Know It</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Old 8JK (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hydrogen Line</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bell Bottom Trousers</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Crazy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Crazy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nelson, Willie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>NRAO</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Take Me Home, Country Roads</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nanoff, Nivert &amp; Denver</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Holmdel Laddies</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Highland Laddie</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Little Green Man</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Wild Rover</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Arecibo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>I Feel Pretty</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bernstein, Leonard</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cyclops Scans the Skies</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Very Large Array</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Ballad of the Wow! Signal</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Springfield Mine Disaster</title>
+</titleInfo>
+<name type="personal">
+<namePart>Seeger, Peggy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nancay</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>La Vie en Rose</title>
+</titleInfo>
+<name type="personal">
+<namePart>Louigui</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cosmic Carl</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Rosin the Beau</title>
+</titleInfo>
+<name type="personal">
+<namePart>Osbourn, J. G.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Project Phoenix</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Waltzing Matilda</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Pegasus 51</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Banned from Argo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hey Paul!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Hey Jude</title>
+</titleInfo>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Tax Cutters on the Hill</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ghost Riders in the Sky</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Suns Shall Never Set on SETI</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+</mods>

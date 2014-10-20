@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="somedreamsare">
+<recordInfo>
+<recordCreationDate>2007-01-04</recordCreationDate>
+<recordChangeDate>2007-01-04</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Some Dreams Are Worth Having Songbook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>19 pages</extent>
+</physicalDescription>
+<abstract>18 Blake’s 7 filk songs by Judith Proctor.</abstract>
+<originInfo>
+<dateIssued>1998</dateIssued>
+</originInfo>
+<name type="personal">
+<namePart>Proctor, Judith</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<note>Information provided by Harold Stein</note>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spirit Of The Seven</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I'll Always Be A Thief</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Avon's Love Life</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>No-one Recalls Your Name</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>It's Lonely When You Never See The Sky</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>It's A Long Way To Cygnus Alpha</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Pack Up Your Toolkit</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Come And Join The Army</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Gunfighter</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Goodbye Federation</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Liberator</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Cruel Is The Snow</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ladies From Hades</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song For Kerril</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>I Can't Remember</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Once A Jolly Rebel</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Thingamabob That Does The Job</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sunset On Sarran</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Some Dreams Are Worth Having</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Proctor, Judith</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</mods>

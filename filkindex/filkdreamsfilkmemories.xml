@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="filkdreamsfilkmemories">
+<recordInfo>
+<recordCreationDate>2007-03-28</recordCreationDate>
+<recordChangeDate>2007-03-28</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Filk Dreams &amp; Filk Memories Songbook</title>
+<subTitle>Songs from FilKONtario 9 &amp; 10</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding</note>
+</physicalDescription>
+<abstract>A songbook containing songs from the CDs Filk Dreams and Filk Memories, compiled from songs recorded at FilKONtario 9 and 10.</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Canada</placeTerm>
+</place>
+<publisher>FilKONtario</publisher>
+<dateIssued>2002</dateIssued>
+</originInfo>
+<accessCondition>Copyright 2002, FilKONtario and USB studios. All songs used by permission of the songwriters. Lyrics and Tunes are copyright of the artist except where noted.</accessCondition>
+<name type="personal">
+<namePart>Headford, Sally-Jane</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+</mods>

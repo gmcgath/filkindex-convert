@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="inthekeyoffantac">
+<recordInfo>
+<recordCreationDate>2007-11-26</recordCreationDate>
+<recordChangeDate>2007-11-26</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>In the Key of Fanta-C</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<abstract>Short, one-author collection</abstract>
+<originInfo>
+<dateIssued>circa 1986</dateIssued>
+</originInfo>
+<note>Information from Filkindex by Sourdough Jackson</note>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+</mods>

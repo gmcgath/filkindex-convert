@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="concerto90">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2009-11-08</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>ConCerto Program Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Program book with songs for ConCerto, the 1990 southern
+New Jersey filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Cherry Hill, New Jersey</placeTerm>
+</place>
+<dateIssued>1990</dateIssued>
+</originInfo>
+<name type="personal">
+<namePart>Higgins, Barbara Lynn</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Butler, Paul</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sibley, Jane</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bender, Eileen</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Landermann, Susan</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sound the Horn</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGowan, Jennifer</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>McGowan, Jennifer</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Little Fuzzy Vegetables</title>
+</titleInfo>
+<name type="personal">
+<namePart>Higgins, Barbara L.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Little Fuzzy Animals</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hayes, Frank</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Minus Ten and Freezing</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dave Weingart</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Minus Ten and Counting</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Come Ye Muppets</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Rebel Knights' Recruiting Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willis, Sheila</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Goddammit, Merry Filksingers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Burham, E.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Freeman, N.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>God Rest You Merry, Gentlemen</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Captain, Sensors Indicate</title>
+</titleInfo>
+<name type="personal">
+<namePart>Higgins, Barbara L.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Wargames</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hobbes's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Brener, Mara</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ramblin' Wreck from Georgia Tech</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Stink Up the River</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Drink Up the River</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ivory Soap</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ivory Rose</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Dragon and the Phoenix</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jones, Heather Rose</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Intemperate Revenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stein, Michael</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Temper of  Revenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Little Filkers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Asbornsen, C.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Feld, Harold</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Higgins, Barbara L.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Little Boxes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Reynolds, Malvina</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Safety Pins Lost</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Innocence Lost</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ecklar, Julia</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kitty Carnage</title>
+</titleInfo>
+<name type="personal">
+<namePart>Higgins, Barbara L.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Little Boxes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Reynolds, Malvina</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Gump's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Brener, Mara Eve</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Wallaby Stew</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Tree of Lights and Tinsel</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Arafel's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bills, Bills, Bills</title>
+</titleInfo>
+<name type="personal">
+<namePart>Higgins, Barbara L.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Wells, Wells, Wells</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+</mods>

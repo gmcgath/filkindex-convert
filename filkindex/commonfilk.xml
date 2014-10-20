@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="commonfilk">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2006-11-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Book of Common Filk</title>
+</titleInfo>
+<identifier type="isbn">1-870824-17-2</identifier>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>A5, comb binding</note>
+</physicalDescription>
+<abstract>Songbook for Fourplay, the 1992 British filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">England</placeTerm>
+</place>
+<publisher>Fourplay convention committee</publisher>
+<dateIssued>1992</dateIssued>
+</originInfo>
+<accessCondition>Copyright Fourplay January 1992.
+Copyright reverts to contributors on publication.</accessCondition>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Most Unkindest Cut of All</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fine, Colin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Uncle Arthur</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Good Omens</title>
+</titleInfo>
+<name type="personal">
+<namePart>James, Rhodri</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Johnny's So Long at the Fair</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Make it Sleazy</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Take It Easy</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Ballad of Brundle Fly</title>
+</titleInfo>
+<name type="personal">
+<namePart>Malme, Chris</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Old Woman Who Swallowed a Fly</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Mage's Lot</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nanson, Tom</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sullivan, Arthur</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Policeman's Lot Is Not a Happy One</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Single Boys of Maidenhead</title>
+</titleInfo>
+<name type="personal">
+<namePart>Beet, Marion</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Joys of Maidenhood</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Those Ose Songs</title>
+</titleInfo>
+<name type="personal">
+<namePart>Whitaker, Mike</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Rundle, Anne</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hopkins, Mary</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Those Were the Days</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Washing Day</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rundle, Anne</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Allcock, Phil</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Swing the Cat</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Captain Sidney's Malady</title>
+</titleInfo>
+<name type="personal">
+<namePart>Allcock, Phil</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Signy Mallory</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Not 'Wanderlust' - Wonder Lost</title>
+</titleInfo>
+<name type="personal">
+<namePart>Brunner, John</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Lincolnshire Poacher</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>It Ain't Necessarily So</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fourplay Committee</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>It Ain't Necessarily So</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gershwin, George</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Aluminium</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bell, Chris</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Finchley Central</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Any Cold Iron</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nyrond, Zander</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Any Old Iron</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bedlam Cats</title>
+</titleInfo>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bedlam Boys</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sister Pagan</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bell, Chris</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Brother Christian</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Backward Christian Soldiers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nyrond, Zander</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Onward Christian Soldiers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sullivan, Arthur</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Thorny Solution</title>
+</titleInfo>
+<name type="personal">
+<namePart>Agent Orange</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Spanish Harlem</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Back in the USSG</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fourplay Committee</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Back in the USSR</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lennon, John</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Reluctant Viking</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dennis, Michele</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>When This Bloody War Is Over</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>SF Filk Convention</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fourplay</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Science Fiction Double Feature</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>There's A Hole in My Programme</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wareham, Peter</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Funnell, Gwen</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>There's a Hole In My Bucket</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Getting in First</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davies, Steve</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Whiskey in the Jar</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Drivel</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bamboo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Van Ronk, Dave</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ten Green Bottles</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nyrond, Zander</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Filthy and the Fon</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nyrond, Zander</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Preacher and the Prof</title>
+</titleInfo>
+<name type="personal">
+<namePart>Robinson, Jane</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Blue Flame</title>
+</titleInfo>
+<name type="personal">
+<namePart>Housden, Valerie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Enough is Enough</title>
+</titleInfo>
+<relatedItem type="preceding">
+<titleInfo>
+<title>I Am Henry VIII</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+</mods>

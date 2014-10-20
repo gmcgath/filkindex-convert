@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="fromthecockpit3">
+<recordInfo>
+<recordCreationDate>2008-05-03</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>From the Cockpit #3</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<abstract>Songbook accompanying the ConChord 3 convention of 1987</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">California</placeTerm>
+</place>
+<dateIssued>1987</dateIssued>
+</originInfo>
+<accessCondition></accessCondition>
+<note>Information from Barney and Kate Evans</note>
+
+
+</mods>

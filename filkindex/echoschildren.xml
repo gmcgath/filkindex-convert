@@ -1,0 +1,1633 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="echoschildren">
+  <recordInfo>
+    <recordCreationDate>2006-11-25</recordCreationDate>
+    <recordChangeDate>2009-09-24</recordChangeDate>
+    <!-- If you modify this file, please update the recordChangeDate element -->
+  </recordInfo>
+  <titleInfo>
+    <title>Echo's Children -- Songbook 2003</title>
+  </titleInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <note>8 1/2 x 11, comb binding</note>
+    </physicalDescription>
+    
+    <abstract>Songs by the performing duo, Echo's Children
+      (Catherine "Cat" Faber and Arlene "Callie" Hills)
+    </abstract>
+  <originInfo>
+    <place>
+      <placeTerm type="text">United States of America</placeTerm>
+    </place>
+    <publisher>Self-published</publisher>
+    <dateIssued encoding="w3cdtf">2005-11-2</dateIssued>
+  </originInfo>
+  <accessCondition>Copyright notices are given with individual songs</accessCondition>
+  <name type="personal">
+    <namePart>Faber, Catherine</namePart>
+    <role> <roleTerm>author</roleTerm> </role>
+  </name>
+  <name type="personal">
+    <namePart>Hills, Arlene "Callie"</namePart>
+    <role>
+      <roleTerm>author</roleTerm>
+    </role>
+  </name>
+
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Acts of Creation</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Alys’ Lullaby </title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>Characters and situations from The Vorkosigan Series by Lois McMaster Bujold.</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Annie’s Luck</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>As Good As Any</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>At the Studio</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>The Irish Washerwoman</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>trad.</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+    <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Autumn Leaves </title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2004</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Bested</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Beware of the Sentient Songbook</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Beware of the Sentient Chili</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>Chris Weber</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+      <note>From Westerfilk II</note>
+    </relatedItem>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Bin There, Dun That</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Blowing Winter In</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Bold Adventurer, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <note>concert lead sheet</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Brown Gal</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>But Fairer the Tree</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Fair Was The Blossom</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>Faber, Catherine</namePart> 
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+    <typeOfResource>text</typeOfResource> 
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Butterbug Blues</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart> 
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name> 
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <note>Characters and situations from The Vorkosigan Series by Lois McMaster Bujold.</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Carousel, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2003</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Circles of Music</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1992</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Windmills</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>Alan Bell</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+    <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Columbia</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Common Things</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>David Drive Me Crazy Blues</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Devil’s Music, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fair Was The Blossom</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>Characters and situations from the works of David Weber.</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fair Were The Towers</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Flatten the Grass</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1996</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Flatten the Tune</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Gift of Free Will, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Goodbye, You Willamette</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2002</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Grandmother’s Hands</title>
+    </titleInfo>
+    <name type="personal"> 
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>In loving memory of Beatrice Hills, 1910-1994</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Green Willow</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Gwydion’s Courting</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1992</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Heart of Summer, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Heather’s Hind</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>High Frontier</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>How Far Back Does Music Go?</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2001</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>How It Is Applied</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>Characters and situations from The Vorkosigan Series by Lois McMaster Bujold.</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>I Meant To Do That</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Jack Frost</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>John Talos’ Canon</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1994</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>July</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1995</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Least of My Kind, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1994</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Let It Go</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Living Earth, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2001</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Low Among the Roses</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Mad in White Linen</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1991</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Mark’s Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1994</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>Characters and situations from The Vorkosigan Series by Lois McMaster Bujold.</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Meme of Death</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>2001</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>How Far Back Does Music Go?</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>Faber, Catherine</namePart>
+	<role> <roleTerm>lyricist</roleTerm> </role>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <name type="personal">
+	<namePart>Hills, Arlene "Callie"</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+    </relatedItem>
+    <typeOfResource>text</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Minhyrdin the Fair</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1996</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Mortal Clay</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2002</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Mountain Man</title>
+      <subTitle>(My Father's Legacies)</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>My Planet’s Child</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name> 
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name> 
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>New Computer Blues</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name> 
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Nine Cats</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Dido Bendigo</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>trad.</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>  
+   <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>No Greater Love</title>
+      <subTitle>(aka Marcus' Song)</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name> 
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <note>Characters and situations from the television series "Babylon 5".</note>
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>No Quarter</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>Characters and situations from the works of David Weber.</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>No Selling Songs</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name> 
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Oh, Garibaldi</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>Faber, Catherine</namePart>
+	<role> <roleTerm>lyricist</roleTerm> </role>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+    </relatedItem>
+    <typeOfResource>text</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Nuts from the Hazel Tree</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>O Sumer!</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2003</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Oh, Garibaldi</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Old Patterns</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Oops</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Out of the Music’s Way</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2003</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Outward Bound</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+     </name>
+    <originInfo> <copyrightDate>1996</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>I've Got a Home in Beulah Land</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>trad.</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem> 
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Part of Who We Are</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <note>concert lead sheet</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Play It Slow</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <note>concert lead sheet</note>
+    <note>"Dedicated to Joe Bethancourt, with great affection"</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Pooka</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Short'nin' Bread</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>trad.</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Quaddie Ballet</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>2002</copyrightDate> </originInfo> 
+
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>The Ballad of the Hunley</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>John Huff</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+    <typeOfResource>text</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Rain Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1996</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Recumbent Bicycle Blues</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Rest in Me</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Riding a Tiger</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>Characters and situations from the works of David Weber.</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Right and Left Grand</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Sanity Time</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Say Again, Tower</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name> 
+    <originInfo> <copyrightDate>1999</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Seasons of Love</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1996</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Tallis Canon</title>
+	<subTitle>(16th century)</subTitle>
+      </titleInfo>
+      <name type="personal">
+	<namePart>trad.</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Second Thoughts</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2001</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Seventh Horse, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>She is Gone</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1994</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Sixteen Tomes</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Sixteen Tons</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>trad.</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Skill at Wit</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <note>concert lead sheet</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Somewhere in An Tir</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Song of the Stars</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1981</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Songs of Human Crafting</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <name type="personal">
+      <namePart>Olhoeft</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <name type="personal">
+      <namePart>Esty</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Spotted Goat, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Sunshine Waltz</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1994</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Tapestry, ’Broidery, Ribbon and Lace</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1990</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>They Spoke with their Hands</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Tribute</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2002</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+    <note>Elegy for Dave Carter, 1952-2002</note>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Under the Gripping Beast</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1994</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>United 93</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2001</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Via Astra</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Novus Miles</title>
+      </titleInfo>
+      <name type="personal">
+	<namePart>trad.</namePart>
+	<role> <roleTerm>composer</roleTerm> </role> 
+      </name>
+      <note>Tune suggested or parodied</note>
+    </relatedItem>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Warrior Maid</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1993</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Web of Love</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wedding Dance</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1997</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wedding Promises</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2001</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wednesday, April 19, 1995</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1995</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>When the Wind Changes</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Where the Shadows Are</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2001</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wild Rose</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1996</copyrightDate> </originInfo> 
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wings</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wings of Human Knowledge</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>2000</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Word of God, The</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1994</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>Yogh, Ash, and Thorn</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+    </name>
+    <originInfo> <copyrightDate>1995</copyrightDate> </originInfo>
+    <relatedItem type="preceding">
+      <titleInfo>
+	<title>Oak, Ash and Thorn</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+    </relatedItem> 
+    <typeOfResource>text</typeOfResource>
+ </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>You Work Too Hard</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Faber, Catherine</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name>
+    <originInfo> <copyrightDate>1995</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+ <relatedItem type="constituent">
+    <titleInfo>
+      <title>You’ll Be There</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Hills, Arlene "Callie"</namePart>
+      <role> <roleTerm>lyricist</roleTerm> </role>
+      <role> <roleTerm>composer</roleTerm> </role> 
+    </name> 
+    <originInfo> <copyrightDate>1998</copyrightDate> </originInfo> 
+    <typeOfResource>text</typeOfResource>
+    <typeOfResource>notated music</typeOfResource>
+  </relatedItem>
+
+<!-- Song listing transcribed by Jesse Weinstein <http://purl.org/NET/JesseW/SundryStuff/> -->
+
+</mods>

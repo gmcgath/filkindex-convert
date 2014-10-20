@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="fantomvoices">
+<recordInfo>
+<recordCreationDate>2007-03-31</recordCreationDate>
+<recordChangeDate>2007-03-31</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>FanTom Voices</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>A5, Saddle stapled</note>
+</physicalDescription>
+<abstract>The lyrics book for the tape of the same name</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United Kingdom</placeTerm>
+</place>
+<dateIssued>1999</dateIssued>
+</originInfo>
+<note>Information obtained from Rafe Culpin's UK Filk Music Database.</note>
+<name type="personal">
+<namePart>Nanson, Tom</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+
+</mods>

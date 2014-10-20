@@ -42,10 +42,12 @@ public class Person {
      *  but it should minimize the amount of manual work needed.
      */
     public void setAndFlipName(String n) {
-        String[] tokens = n.split (" ");
-        if (tokens.length == 2 && ! ("The".equals (tokens[0]))) {
-            n = tokens[1] + ", " + tokens[0];
-        }
+    	if (n != null) {
+	        String[] tokens = n.split (" ");
+	        if (tokens.length == 2 && ! ("The".equals (tokens[0]))) {
+	            n = tokens[1] + ", " + tokens[0];
+	        }
+    	}
         name = n;
     }
     

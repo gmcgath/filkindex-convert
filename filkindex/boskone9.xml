@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="boskone9">
+<recordInfo>
+<recordCreationDate>2006-12-28</recordCreationDate>
+<recordChangeDate>2006-12-28</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Boskone 9 Filk-Song Song Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>i+17 pp.</extent>
+<note>Mimeographed, one staple, 8-1/2"x11"</note>
+</physicalDescription>
+<abstract>19 mixed filk songs</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Massachusetts</placeTerm>
+</place>
+<publisher>New England Science Fiction Association</publisher>
+<dateIssued>1972</dateIssued>
+</originInfo>
+<note>Information provided by NESFA at www.nesfa.org
+</note>
+<name type="personal">
+<namePart>Blank, Karen</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Harter, Richard</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+
+</mods>

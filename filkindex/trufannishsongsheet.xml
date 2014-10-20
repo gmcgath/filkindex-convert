@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="trufannishsongsheet">
+<recordInfo>
+<recordCreationDate>2007-11-29</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Trufannish Song Sheet</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<form authority="marcform">print</form>
+<originInfo></originInfo>
+<note>Listed by Ned Brooks on fanac.org. 
+</note>
+
+
+
+</mods>

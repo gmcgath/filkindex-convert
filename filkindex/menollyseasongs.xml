@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="menollyseasongs">
+<recordInfo>
+<recordCreationDate>2007-11-29</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Menolly's Sea Songs</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>7 pages</extent>
+</physicalDescription>
+<originInfo>
+<publisher>Performing Arts Press</publisher>
+<dateIssued>1983</dateIssued>
+</originInfo>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>My Nightly Craft</title>
+  </titleInfo>
+<name type="personal">
+<namePart>McCaffrey, Anne</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Forman, Joanne</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Fickle Wind</title>
+  </titleInfo>
+<name type="personal">
+<namePart>McCaffrey, Anne</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Forman, Joanne</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>O Wide Sea</title>
+  </titleInfo>
+<name type="personal">
+<namePart>McCaffrey, Anne</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Forman, Joanne</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+
+
+</mods>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="songattheready">
+<recordInfo>
+<recordCreationDate>2007-12-01</recordCreationDate>
+<recordChangeDate>2007-12-05</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Song at the Ready</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+
+<originInfo>
+<publisher>Magic Granny Line</publisher>
+<dateIssued>1984</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1984 by Suzette Haden Elgin</accessCondition>
+<note>Information from Margaret Middleton and songbook index page</note>
+<name type="personal">
+<namePart>Elgin, Suzette Haden</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song at the Ready</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The World They Call Terra</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Fare Ye Well</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ballad of Three Good Men</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Lady's Riddle Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Song of the Mindwife</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Star-Anchored, Star-Angered</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Country of the Lovin' Mind</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lady of the Spaceways</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>All the Stones Alive, Oh...</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Blessing Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Carol for Rosamond</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sorrowin' Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dear Little Creature</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>When I Was a Young Girl</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>How to Use Bar Chords</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Filk Guitar Microworkshop</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Haden Elgin, Suzette</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

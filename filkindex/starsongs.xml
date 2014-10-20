@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="starsongs">
+<recordInfo>
+<recordCreationDate>2007-11-28</recordCreationDate>
+<recordChangeDate>2010-06-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Star Songs</title>
+<subTitle>Or There's a Possum in the Circle</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<originInfo>
+<accessCondition>COPYRIGHT MARCH 1992. AUTHORS RETAIN RIGHTS</accessCondition>
+
+<publisher>Larry D. Kirby, III</publisher>
+<dateIssued>1992</dateIssued>
+</originInfo>
+<name type="personal">
+<namePart>Kirby, Larry D.</namePart>
+<role>
+<roleTerm>publisher</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Crim, Meredith</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Duncan, Kevin</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Swann, C. L.</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Miller, Russ</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dupec, Harold Dean</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Douglas, Jerry</namePart>
+<role>
+<roleTerm>consultant</roleTerm>
+</role>
+</name>
+
+
+</mods>

@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="concertino92">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2009-02-18</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>ConCertino 1992 Program Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Program book with songs for ConCertino 1992, the New England
+filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Massachusetts</placeTerm>
+</place>
+<publisher>M.A.S.S.F.I.L.C., Inc.</publisher>
+<dateIssued>1992</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1992 by M.A.S.S. F.I.L.C. Individual songs
+copyrighted by contributors.</accessCondition>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ketchen, Art</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bunyan's Hero</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gold, Lee</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Dawson's Christian</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Calm Down</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Chocolate</title>
+</titleInfo>
+<name type="personal">
+<namePart>Taylor, Virginia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Marvelous Little Toy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Paxton, Tom</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Chernobyl Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Michell Burnside-Clapp</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Chocolate Eclair</title>
+</titleInfo>
+<name type="personal">
+<namePart>Levine, Rennie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Threshing Machine</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Coven Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dandelion Revenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>McQuillin, Cynthia</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Dandelion Chain</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dr. Stockmann's Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Falling Down on New Jersey</title>
+</titleInfo>
+<name type="personal">
+<namePart>Burnside Clapp, Mitchell</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>Rolling Down on Old Maui</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Flies</title>
+</titleInfo>
+<name type="personal">
+<namePart>Levine, Rennie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Lies</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rogers, Stan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Horseman</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>In a Corner of the Con</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kranzer, Ellen</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Invitation</title>
+</titleInfo>
+<name type="personal">
+<namePart>Peters, Helva</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Griogal Cridhe</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Like Comyn to the Slaughter</title>
+</titleInfo>
+<name type="personal">
+<namePart>Feld, Harold</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hayes, Frank</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Like Lambs to the Slaughter</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lullaby for a Weary Cable Installer</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rubin, Michael</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Lullaby for a Weary World</title>
+</titleInfo>
+	<name type="personal">
+<namePart>Burnside Clapp, T. J.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Minus</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>My Thousand Closest Friends</title>
+</titleInfo>
+<name type="personal">
+<namePart>Pardue, Naomi</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>P.I.-in-a-Box</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kanefsky, Bob</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Red Star Rising</title>
+</titleInfo>
+<name type="personal">
+<namePart>Burnside Clapp, Mitchell</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Robin Hood</title>
+</titleInfo>
+<name type="personal">
+<namePart>Burnside Clapp, T.  J.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>She Had a New Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Carroll, Jack</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Thornberry Wine</title>
+</titleInfo>
+<name type="personal">
+<namePart>Taylor, Virginia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Vincent (Wells)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Peters, Helva</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Vincent</title>
+</titleInfo>
+<name type="personal">
+<namePart>MacLean, Don</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>When Giants Walked</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mar, Kathy</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+</mods>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="stonehillfilk">
+<recordInfo>
+<recordCreationDate>2009-04-12</recordCreationDate>
+<recordChangeDate>2009-04-12</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Stone Hill Filk</title>
+<subTitle>1991 Version</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+<originInfo>
+<place>
+  <placeTerm type="text">Riverview, Florida</placeTerm>
+</place>
+<publisher>Wade in the Water</publisher>
+<dateIssued>1991</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1991</accessCondition>
+<name type="personal">
+<namePart>Morris, Ann</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<note>The introduction states that the first version of Stone Hill Filk was published in 1984.
+Ann Morris is listed as "responsible party."</note>
+
+</mods>

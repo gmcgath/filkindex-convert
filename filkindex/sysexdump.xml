@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="sysexdump">
+<recordInfo>
+<recordCreationDate>2006-11-23</recordCreationDate>
+<recordChangeDate>2006-11-25</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Sysex Dump!</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, comb binding, protective plastic sheet in front of cover</note>
+</physicalDescription>
+<abstract>Music and words by Joe Ellis</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">United States of America</placeTerm>
+</place>
+<publisher>TesserAct Studios</publisher>
+<dateIssued>1994</dateIssued>
+</originInfo>
+<accessCondition>This collection Copyright 1994, Joe Ellis</accessCondition>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Vision of Tomorrow</title>
+</titleInfo>
+<note>Credit for words and music is given as: 
+Mrs. Sheet's 1985 3rd gr., Rushmore Elem. School, Huber Heights, OH</note>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ad Astra!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+<typeOfResource>notated music</typeOfResource>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Breakin' Warp Is Hard to Do</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Breaking Up Is Hard to Do</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sedaka</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Greenfield</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Atlantis Rising</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>On the Mid-Deck</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>And the Sky Full of Stars</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Go Johnny Five!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Johnny B. Goode</title>
+</titleInfo>
+<name type="personal">
+<namePart>Berry, Chuck</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Flare Sun Risin'</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bad Moon Rising</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fogerty, J. C.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mark and Jan's Excellent Adventure</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Challenge of Space</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dawn of Discovery</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hubble's Myopic Eyes Make Me Blue</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>I Only Have Eyes for You</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dubin</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Warren</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Endeavor: Dreamlifter</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Columbia's Children</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Yellow Ross of Texas</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Yellow Rose of Texas</title>
+</titleInfo>
+<name type="personal">
+<namePart>George, Don</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Slick Willie</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sullivan, Arthur</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Tit Willow</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Oliver!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Consider Yourself</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lionel Bart</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Enterprise</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Code of Silence</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Gonna Raise the Phoenix</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Cat Came Back (v6.66)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Cat Came Back</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lawson's Pagan</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Dawson's Christian</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Harper's Farewell</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>No Strings Attached</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Band from Argo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Banned from Argo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Who'll Come a-Filking?...</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Waltzing Matilda</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johnny One-Filk</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Johnny One-Note</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rodgers, Richard</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Live Life Like a Puppeteer!</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Bonny Ship the Diamond</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>On Dragon's Wings</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Girl from Three Mile Island</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Girl from Ipanema (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Moraes</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gimbel</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Jobim</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Prayer for Forgiveness</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Rambler</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Gambler</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Quartermaster's Revenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Milkin' Serial</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Henry the Eighth</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Tin Can Do!</title>
+<subTitle>From "Guys &amp; Droids"</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Fugue for Tinhorns</title>
+</titleInfo>
+<name type="personal">
+<namePart>Frank Loesser</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>March of the Luddites</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Marching Song of the Gillmen</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Octopus's Garden</title>
+</titleInfo>
+<name type="personal">
+<namePart>Starr, Ringo</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune used or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Deep Space Nine</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Clementine</title>
+</titleInfo>
+<note>Tune used or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Innocence Lost</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Vanguard</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Awakening</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource></relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Robofilker</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ellis, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+</mods>

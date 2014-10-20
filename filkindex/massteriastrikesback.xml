@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="massteriastrikesback">
+<recordInfo>
+<recordCreationDate>2008-07-11</recordCreationDate>
+<recordChangeDate>2008-07-11</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Massteria Strikes Back</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<abstract>Songbook from the L.A. Filkharmonics</abstract>
+<originInfo>
+<place>USA</place>
+</originInfo>
+<note>Information from Harold Stein</note>
+
+
+
+</mods>

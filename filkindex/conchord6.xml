@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="conchord6">
+<recordInfo>
+<recordCreationDate>2010-03-23</recordCreationDate>
+<recordChangeDate>2010-03-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>A Long Time Ago in a Hotel Not Very Far Away ... Con-Chord 6 Program book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songbook for the 1990 Con-Chord filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">California</placeTerm>
+</place>
+<dateIssued>1990</dateIssued>
+</originInfo>
+<accessCondition>This program book is Copyright 1990 by Con-Chord and DAG Productions.
+All rights reserved. All songs appearing in this book are with the permission
+of the authors. All songs that are not covered by prior copyright are copyright
+1990 by Con-Chord. All rights to these materials revert to the authors upon
+pulication. Individual rights reserved.
+</accessCondition>
+<name type="personal">
+<namePart>Hunter, Llyn</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+</mods>

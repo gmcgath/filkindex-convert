@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="lemminghaslanded">
+<recordInfo>
+<recordCreationDate>2007-03-27</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Lemming Has Landed</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Tom Holt</abstract>
+<originInfo>
+<place>United Kingdom</place>
+</originInfo>
+<note>Information based on entry in Random Factors catalogue.</note>
+<name type="personal">
+<namePart>Holt, Tom</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+
+
+</mods>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="AnnotatedTemplate">
+<!-- The top-level mods element should have an ID attribute which is the same
+     as the file name, minus the ".xml" extension -->
+<recordInfo>
+<recordCreationDate>YYYY-MM-DD <!--required--></recordCreationDate>
+<recordChangeDate>YYYY-MM-DD</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Book Title</title>
+<subTitle>Book Subtitle if any</subTitle>
+<!-- If there is a subtitle, it's better to put it in the
+subTitle element than to put everything in the title element -->
+</titleInfo>
+<identifier type="isbn"><!-- Include this element if applicable --></identifier>
+<language>
+<languageTerm type="code" authority="iso639-2b"><!-- Most common
+values are eng (English) and deu (German). Use more than one
+language element if multiple languages are used. If just one
+or two songs are in a different language, it's probably best
+to give them a language element rather than adding it here. --></languageTerm>
+</language>
+<physicalDescription>
+<!-- The form element will be the same for all printed books -->
+<form authority="marcform">print</form>
+<note><!-- Information about format and binding can go here --></note>
+</physicalDescription>
+<abstract>Describe the book here</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Place of publication</placeTerm>
+</place>
+<publisher>Name of publisher</publisher>
+<dateIssued>YYYY or YYYY-MM or YYYY-MM-DD</dateIssued>
+</originInfo>
+<accessCondition>Copyright notice, licensing statement, or public domain statement</accessCondition>
+<!-- If an editor is given, list the name here -->
+<name type="personal">
+<namePart>Last, First</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<!-- See http://www.loc.gov/marc/sourcecode/relator/relatorlist.html for
+a standard list of role terms -->
+</name>
+<!-- Illustrators, including the cover artist, may be listed here -->
+<name type="personal">
+<namePart>Last, First</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<!--There should be one relatedItem, always with type="constitutent",
+for each song in the book -->
+<titleInfo>
+<title>Song Title</title>
+</titleInfo>
+<!-- Put in as many name elements as necessary to name
+     all the contributors; but if the song is to an existing
+     tune, put the composer's name in the nested relatedItem -->
+<name type="personal">
+<namePart>Last, First</namePart>
+<role>
+<roleTerm><!-- lyricist, composer, or author are most common. 
+The same person can have more than one role element. --></roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<!-- If the song is based on an existing tune, use this element.
+     If it combines multiple tunes, use one preceding relatedItem
+     for each tun. -->
+<titleInfo>
+<title>Title of original tune</title>
+</titleInfo>
+<name type="personal">
+<!-- Indicating the composer(s) is sufficient, but name the lyricist
+     as well if you want -->
+<namePart>Last, First</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<!-- If the song has lyrics separately broken out, or this is
+     otherwise a text item, keep "text" as typeOfResource.
+     If there is music notation, uncomment the "notated music"
+     type of resource. Remove "text" only if all lyrics are
+     within the music staves. This is a restricted vocabulary,
+     so use only values allowed by the schema. -->
+<typeOfResource>text</typeOfResource>
+<!-- typeOfResource>notated music</typeOfResource -->
+</relatedItem>
+
+</mods>

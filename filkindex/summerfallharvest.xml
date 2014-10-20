@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="summerfallharvest">
+<recordInfo>
+<recordCreationDate>2010-06-24</recordCreationDate>
+<recordChangeDate>2010-06-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Summer and Fall: Harvest</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<language>
+<languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Summer and Fall</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Mannheim, Germany</placeTerm>
+</place>
+<dateIssued>2010</dateIssued>
+</originInfo>
+<accessCondition>Copyright Christine Blum &amp; Eva Van Daele-Hunt 2010
+</accessCondition>
+<name type="personal">
+<namePart>Van Daele-Hunt, Eva</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Van Daele-Hunt, Rafael</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Blum, Christine</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Glorer, Miriam</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kleinsteinberg, Christian</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gunkelmann, Frank</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Schmidt, Jela</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+
+
+
+</mods>

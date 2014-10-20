@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="captainjack">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2006-11-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Captain Jack and the Mermaid</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Companion songbook to Meg Davis's cassette,
+"Captain Jack and the Mermaid"</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Albany, California</placeTerm>
+</place>
+<publisher>Off Centaur Publications</publisher>
+<dateIssued>1988</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1988 by Off Centaur Publications, Inc.</accessCondition>
+
+<relatedItem type="constitutent">
+<title>Introduction</title>
+<name type="personal">
+<namePart>Guon, Ellen</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wind in the Pipes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Elf Glade (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Yevgenia and the Snow Dragon</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Seamus and Ivy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>I'm Late, I'm Late</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nightmare (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Because You Have Wings</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Captain Jack and the Mermaid</title>
+</titleInfo>
+<name type="personal">
+<namePart>Davis, Meg</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+</mods>

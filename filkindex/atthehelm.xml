@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="atthehelm">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2006-11-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>At the Helm</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Songs by Duane Elms</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Portland, Oregon</placeTerm>
+</place>
+<publisher>Firebird Arts &amp; Music, Inc.</publisher>
+<dateIssued>1989</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1989, Firebird Arts &amp; Music, Inc.</accessCondition>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ahasuerus &amp; Flint Traveling Carnival Show (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Investigation Into the Concept of Compound Interest (An)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Roper, Bill</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Space Is Dark</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Slight Exaggeration (A)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Willson, Meredith</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>76 Trombones</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Authors (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Sullivan, Arthur</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Major General's Song</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bomber</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cat's Cradle</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Cat's in the Cradle</title>
+</titleInfo>
+<name type="personal">
+<namePart>Chapin, Harry</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Come My Lady</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Come On, Make My Day</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Dark Children</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dawson's Christian</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Don't Mess Around with Ben</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Don't Mess Around with Jim</title>
+</titleInfo>
+<name type="personal">
+<namePart>Croce, Jim</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Don't Play Catch With a Bandersnatch</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Never Smile at a Crocodile</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ghod Bless Our CPU</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>God Save the Queen</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Don't Push That Button</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Intermission</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Irish Washerwoman</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Blackhole</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Blackbird</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lennon, John</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>McCartney, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>E. E.</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Henry</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ghost Puppies in the Sky</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ghost Riders in the Sky</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Engineer</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Entertainer</title>
+</titleInfo>
+<name type="personal">
+<namePart>Joel, Billy</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>For the Rim</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Harcourt Fenton Mudd Meets Kimball Kinnison</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Get Out of Denver</title>
+</titleInfo>
+<name type="personal">
+<namePart>Seeger, Bob</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Homicidal</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Lizzie Borden</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Pi Are Square</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Irish Washerwoman</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jill the Blob</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Jack the Slob</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Late Night at the Draco Tavern</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Listmakers</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>No Quarter</title>
+</titleInfo>
+<name type="personal">
+<namePart>Coulson, Juanita</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Eighth of May</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Teddy Bears' Picnic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bratton, John W.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Madame Curie's Hands</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Leader of the Band</title>
+</titleInfo>
+<genre>song</genre>
+<name type="personal">
+<namePart>Fogelberg, Dan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Milky Way</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Southern Cross (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stills, Stephen</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+<genre>song</genre>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Paradise Lost</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Comedy Tonight</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sondheim, Stephen</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Six Little Aliens</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ten Little Indians</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Paradoxes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Little Boxes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Reynolds, Malvina</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ten Degrees or Colder</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ten Degrees or Colder</title>
+</titleInfo>
+	<name type="personal">
+<namePart>Lightfoot, Gordon</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Science Fiction in the Golden Age</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>R-O-C-K in the USA</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mellenkamp, John Cougar</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Old Time Religion Verses</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>Old Time Religion</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Spacer (The)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Gambler</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rogers, Kenny</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Startide Rising</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Spacer's Home</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>They Call This World Medea</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>They Call the Wind Maria</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rodgers, Richard</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>They Just Don't Write 'em Like That Anymore</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>They Just Don't Write 'em Like That Anymore</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kihn, Greg</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Threes, Rev. 1.1</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Threes</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Too Late</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Going Home</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>For Emily, Wherever I May Find Her</title>
+</titleInfo>
+<name type="personal">
+<namePart>Simon, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Murphy's Law Verses</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>My Bonnie</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>We're the Dorsai</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+<relatedItem type="preceding">
+<titleInfo>
+<title>In the Navy</title>
+</titleInfo>
+<genre>song</genre>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>We're Goin' Back</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+</mods>

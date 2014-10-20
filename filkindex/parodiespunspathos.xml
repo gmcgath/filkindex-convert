@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="parodiespunspathos">
+<recordInfo>
+<recordCreationDate>2008-06-12</recordCreationDate>
+<recordChangeDate>2008-06-12</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Parodies, Puns &amp; Pathos</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>loose folded</note>
+</physicalDescription>
+
+<note>Information obtained from Rafe Culpin's UK Filk Music Database.</note>
+<name type="personal">
+<namePart>Gilbert, Anthony</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Contata Contabile</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>A Stranger Dream</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lensman Smith</title>
+   <subTitle>The Man in Grey</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Hoards Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Brennan's Song</title>
+   <subTitle>The Protector</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Another Herstory</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Teething Troubles</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ode to Leslie Fish</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Answer from the Book Room</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Little Fuzzy Cannon-Fodder</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Authentic Viking</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Dobson's Pagan</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Gilbert, Anthony</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+</mods>

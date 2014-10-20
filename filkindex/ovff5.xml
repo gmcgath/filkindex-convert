@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="ovff5">
+<recordInfo>
+<recordCreationDate>2010-03-23</recordCreationDate>
+<recordChangeDate>2010-03-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Ohio Valley Filk Fest V</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Program book with songs for the OVFF (Ohio Valley Filk Fest)
+V filk convention, October 27-29, 1989</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Columbus, Ohio area</placeTerm>
+</place>
+<dateIssued>1989</dateIssued>
+</originInfo>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>(Goin' Down the) Cosmic Drain</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Sally</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Lightsailor</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Childs-Helton, Barry</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Joy of Singing</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Shoji, Joey</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

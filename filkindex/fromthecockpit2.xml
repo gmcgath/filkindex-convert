@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="fromthecockpit2">
+<recordInfo>
+<recordCreationDate>2008-05-03</recordCreationDate>
+<recordChangeDate>2009-10-04</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>ConChord II - From the Cockpit #2</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>Stapled</note>
+</physicalDescription>
+
+<abstract>The offical songbook for ConChord II (1985). It came out two years after the con.</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Santa Monica, California</placeTerm>
+</place>
+<publisher>Philk Press</publisher>
+<dateIssued>1987</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1987 by Paul J. Willett.</accessCondition>
+<note>Information from Barney and Kate Evans</note>
+
+<name type="personal">
+<namePart>Evans, Barney</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Long, Quentin</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>MqQuillin, Cindy</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Whitten, Linda</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Mailander, Jane</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>White, Mel</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Shadow</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Michelson Morley</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Roper, Bill</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Gilbert der Chemicker</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Pell</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>All Life is An Echo</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Hackers' Symbols</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Roper, Bill</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Herbs &amp; Simples</title>
+</titleInfo>
+<name type="personal">
+<namePart>Coulson, Juanita</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mark III CPU</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Leader of the Pack</title>
+</titleInfo>
+<name type="personal">
+<!-- Indicating the composer(s) is sufficient, but name the lyricist
+     as well if you want -->
+<namePart>Morton, George</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Barry, Jeff</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<name type="personal">
+<!-- Indicating the composer(s) is sufficient, but name the lyricist
+     as well if you want -->
+<namePart>Greenwich, Ellie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filk Widow</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Faerie</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Mister Author</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Nightmare</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>I Know An Old Lady...</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>I Know An Old Lady Who Swallowed A Fly</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mills, Alan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dreams</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flynt, Clif</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>If You Want To Filk At ConChord</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elms, Duane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>If You Gonna Play In Texas (You Gotta Have a Fiddle in the Band)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kellum &amp; Dan Mitchell, Murray</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>ConChord II</title>
+</titleInfo>
+<name type="personal">
+<namePart>Brener, Mara</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Findjian (Traditional Isreali Folk Tune)</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Flandry's Reflections</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wilson, Janet</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filk Trek Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bartilucci, Vinnie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Farewell to Sicily </title>
+</titleInfo>
+<name type="personal">
+<namePart>Robertson, James</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Silkie Lover</title>
+</titleInfo>
+<name type="personal">
+<namePart>Christy, Jo Ann</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Ring Of Bright Water</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Lovesong</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cherryh, C.J></namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fruits Of Victory</title>
+</titleInfo>
+<name type="personal">
+<namePart>Clark, Ernest</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Wind That Shakes the Barley</title>
+</titleInfo>
+<name type="personal">
+<namePart>Joyce, Robert Dwyer</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Boskonian Pirates</title>
+</titleInfo>
+<name type="personal">
+<namePart>Smith, Nick</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Lincoln Park Pirates</title>
+</titleInfo>
+<name type="personal">
+<namePart>Goodman, Steve</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Can't Keep Carolan Down</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gian (aka Corey &amp; Lori Cole), Carolan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wobbloids (Slugger O'Toole, Part 1)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hayes, Frank</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Windmills</title>
+</titleInfo>
+<name type="personal">
+<!-- Indicating the composer(s) is sufficient, but name the lyricist
+     as well if you want -->
+<namePart>Bell, Alan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Death Song of Slugger O'Toole (Slugger O'Toole, Part Two)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hayes, Frank</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Green Fields of France (No Man's Land)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bogle, Eric</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Challenge</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mitchel, Tera</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Blood</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cook, Robert A.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Hair</title>
+</titleInfo>
+<name type="personal">
+<namePart>MacDermot, Galt</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Joe Tullamore</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cook, Robert A.</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>John Barleycorn</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Vampire's Lament</title>
+</titleInfo>
+<name type="personal">
+<namePart>Thiesen, Peter A.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<note>The complete lyrics appear in the Bayfilk II Baysong Filkbook.</note>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Temple of Doom</title>
+</titleInfo>
+<name type="personal">
+<namePart>Weber, Chris</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Mountain of Love</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dorman, Harold</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Black Dragon</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stevens, Beth</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Wilson, Janet</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filking's No Picnic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Clarke, Dean</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Teddybear's Picnic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bratton, John Walter</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>I'm Radioactive</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stern &amp; Jane Mailander &amp; Jan Keison, Mike</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>59th Street Bridge Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Simon, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Stuck Here With A Dead Starship Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mailander, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Sinking of the Reuban James</title>
+</titleInfo>
+<name type="personal">
+<namePart>Guthrie, Woody</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Star Riddle</title>
+</titleInfo>
+<name type="personal">
+<namePart>Joyce &amp; Corey S. Cole, Mistie M.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>For Cindy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Anderson &amp; Beth Stevens &amp; Janet Wilson &amp; Maura Young, Gary</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Starship Enterpirse</title>
+</titleInfo>
+<name type="personal">
+<namePart>Clark, Catherine</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Rose</title>
+</titleInfo>
+<name type="personal">
+<namePart>McBroom, Amanda</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Spocks Solution To One Of Data Processing's Most Common Problems</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willett, Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Irish Washerwoman</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Ballad Of Paul J. Willett</title>
+</titleInfo>
+<name type="personal">
+<namePart>Joyce, Mistie</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Ballad Of Thomas Gordon</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willett, Paul</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sparklett's Commercial #36</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mailander, Jane</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Sparklett's Commercial Song</title>
+</titleInfo>
+<name type="personal">
+<namePart>Cooper, Marty</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+<typeOfResource>text</typeOfResource>
+</relatedItem>
+
+</mods>

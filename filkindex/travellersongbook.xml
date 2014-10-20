@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl"?>
+<mods xmlns="http://www.loc.gov/mods/v3" ID="traveller">
+  <recordInfo>
+    <recordCreationDate>2013-12-22</recordCreationDate>
+    <recordChangeDate>2013-12-22</recordChangeDate>
+  </recordInfo>
+  <titleInfo>
+    <title>The Traveller; the songbook</title>
+  </titleInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <note>8.5x11, originally left-side stapled</note>
+  </physicalDescription>
+  <abstract>filk songs about Classic Trek, Pern, and Battlestar Glactica-original version</abstract>
+  <originInfo>
+    <publisher>Julia Ecklar</publisher>
+    <dateIssued>1981</dateIssued>
+  </originInfo>
+  <note>Information provided by Margaret Middleton</note>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Traveller</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Song for Petiron</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Tribbles</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>the Spaceman's Prayer</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>A Last Evenings Dream</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Gambler's Lament</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Eulogy</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Light that Died</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Homecoming</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Purple and Orange Conspiracy</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Brekke's Lament</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Southern Land</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>When Love is Lost</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>"He's Dead, Jim"</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Song to a Stranded Warrior</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Christmastime in Sector Five</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Ballad to a Spaceman</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Thoughts of a Homeless Alien</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Ecklar, Julia</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent" />
+</mods>

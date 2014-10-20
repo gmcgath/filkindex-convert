@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="gilbertandservalan">
+<recordInfo>
+<recordCreationDate>2008-02-10</recordCreationDate>
+<recordChangeDate>2008-02-10</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Gilbert and Servalan Song Book</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<note>A4, laminated card covers, wire binding</note>
+<form authority="marcform">print</form>
+</physicalDescription>
+
+<abstract>Gilbert and Sullivan parodies with a Blake's Seven orientation.</abstract>
+<originInfo>
+<dateIssued>1999 or earlier</dateIssued>
+</originInfo><note>Based on information found at (http://www.hermit.org/Blakes7/Fanzines/Judiths/GilbServ.html)</note>
+
+
+</mods>

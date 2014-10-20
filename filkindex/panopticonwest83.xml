@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="panopticonwest83">
+<recordInfo>
+<recordCreationDate>2009-05-31</recordCreationDate>
+<recordChangeDate>2009-05-31</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Panopticon West '83 Filk Booklet</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>8 1/2 x 11, stapled</note>
+</physicalDescription>
+
+<originInfo>
+<dateIssued>1983</dateIssued>
+</originInfo>
+<accessCondition>All rights concerning the material printed in this
+booklet revert back to the authors and artists and is in no way
+intended to infringe upon the copyrights held by Doctor Who or the BBC-TV.</accessCondition>
+
+<name type="personal">
+<namePart>Rauscher, Erika</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Duval, Cheryl</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Faddis, Connie</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>St. John, Rob</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<name type="personal">
+<namePart>Tewell, Chris</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+</mods>

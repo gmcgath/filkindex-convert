@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="songbookofterra">
+<recordInfo>
+<recordCreationDate>2010-10-02</recordCreationDate>
+<recordChangeDate>2010-10-02</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Songbook of Terra and Outer Space, Vol SEX</title>
+<subTitle>The Bitch Rider's Guide to the Galaxy</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<language>
+<languageTerm type="code" authority="iso639-2b">deu</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>Color cover, A4 glossy paper, 300 pages, 1.3 kilograms</note>
+</physicalDescription>
+<abstract>135 songs to existing tunes, with 200 illustrations</abstract>
+<originInfo>
+<publisher>Klaus Höss</publisher>
+<dateIssued>2010</dateIssued>
+<place>
+  <placeTerm type="text">Austria</placeTerm>
+</place>
+</originInfo>
+
+<name type="personal">
+<namePart>Höss, Klaus</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<note>Based on information from
+http://www.perry-rhodan.net/aktuell/news/2010100101.html</note>
+
+</mods>

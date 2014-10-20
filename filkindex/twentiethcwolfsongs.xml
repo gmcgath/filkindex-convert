@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl"?>
+<mods xmlns="http://www.loc.gov/mods/v3" ID="20thcenturywolfsongs">
+  <recordInfo>
+    <recordCreationDate>2014-10-20</recordCreationDate>
+    <recordChangeDate>2014-10-20</recordChangeDate>
+  </recordInfo>
+  <titleInfo>
+    <title>20th Century Wolf Songs</title>
+  </titleInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+  </language>
+  <physicalDescription>
+    <note>A5 stapled, 28 pages</note>
+  </physicalDescription>
+  <abstract>Collection of Wolf von Witting's filks. Lyrics only.</abstract>
+  <originInfo>
+  	<place>
+	  <placeTerm type="text">Saltsjöbaden, Sweden</placeTerm>
+	</place>
+    <publisher>Wolf von Witting</publisher>
+    <dateIssued>1999</dateIssued>
+  </originInfo>
+  <accessCondition>Copyright Wolf von Witting 1999</accessCondition>
+  <note>Information provided by Karl-Johan Norén</note>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>All Around My Con</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>All Around My Hat</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Androis</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Model</title>
+      </titleInfo>
+      <name>
+        <namePart>Kraftwerk</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>As Bears Go By</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>As Tears Go By</title>
+      </titleInfo>
+      <name>
+        <namePart>Rolling Stones</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Asteroid Belt</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Jingle Bells</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The BEM</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Scarecrow</title>
+      </titleInfo>
+      <name>
+        <namePart>Pink Floyd</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Beyond Space and Time</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Fiddler's Green</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Bored to Tears</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Counting Trains</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Kincaide, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Breadcrumbs in Your Bed</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Seasons in the Sun</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Brel, Jaques</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Catch Me If You Can</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Blowin' in the Wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dylan, Bob</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Circle of Filk</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Circle of Steel</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lightfoot, Gordon</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Come to Stockholm</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Come to the Bower</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Davros, Davros</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Rebel, Rebel</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Bowie, David</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fell in Love</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Ich liebte eine Mädche</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Insterburg, Ingo</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>FIAWOL</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Im Frühtau zu Berge</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Filkarus</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Ikarus</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Mey, Reinhard</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Ghostriders in the Shire</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Ghostriders in the Sky</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Jones, Stan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Goodby Old Fanac</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Thirty Foot Trailer</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>McColl, Ewan</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Good Morning, Sorceress</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Weathercock</title>
+      </titleInfo>
+      <name>
+        <namePart>Jethro Tull</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>A Handful Infinity</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Mossige-Norheim, Staffan</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Heinrich R.Arenz Consong</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Rövarnas visa</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Egnér, Torbjörn</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Human Brains</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Mormon Braes</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Interplanetary Action President</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>I Wish I Was Back Home on Terra</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>I Wish I Was Back Home in Derry</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Jed, the Dead</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Chevy Van</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Johns, Sammy</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Jem-Hadar</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Gentleman Soldier</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Jophan's Journey</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Johnnie Cope</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Klingon Bat'leth</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Midnight Special</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Laserdome Battletune</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Follow Me Up to Carlow</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Little Gopher</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Dundee Weaver</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The London Fangathering '97</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Galway Races</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>May Be</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>composer</roleTerm>
+      </role>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Moonshuttle</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Moon Shadow</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Stevens, Cat</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Moorcock Song</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Dubcek Song</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Waalke, Otto</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>My Old Man's a Cyborg</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>My Old Man's a Dustman</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Name is Marvin</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Sixteen Tons</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Travis, Merle</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Our Dear Doctor Who</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Lookin' Out My Back Door</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fogerty, J.C.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Red Dwarf</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Monto</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Sae Will We Yet</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Sae Will We Yet</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Cuffe, Tony</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Serenity</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Intro music to Supremacy: Your Will Be Done</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Tel, Jeroen</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Shore Leave</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Down on the Corner</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fogerty, J.C.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Spaceballs</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Kayat, Stefan</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Colonel Bogey March</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ricketts, F.J.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Space Ranger</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Wild Rover</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Spice Girls Rising</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Bad Moon Rising</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Fogerty, J.C.</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Swordless Highlander</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Parting Glass</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Telefangathering</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Barley Grain</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>This Machine</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Osband, Robert</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Scott, Jay</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>The Children's Marching Song</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>The Transporter Chief</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Lord of the Dance</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Work on Saturn Moonbase</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Paddy at the Railway</title>
+      </titleInfo>
+    </relatedItem>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Wreckage on Mars</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>von Witting, Wolf</namePart>
+      <role>
+        <roleTerm>lyricist</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="preceding">
+      <titleInfo>
+        <title>Ticket to Ride</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>McCartney, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+    </relatedItem>
+  </relatedItem>
+</mods>

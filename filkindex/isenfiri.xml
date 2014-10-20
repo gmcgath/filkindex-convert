@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="isenfiri">
+<recordInfo>
+<recordCreationDate>2007-11-28</recordCreationDate>
+<recordChangeDate>2009-09-24</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Songs from the Isenfiri</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<form authority="marcform">print</form>
+<originInfo>
+<dateIssued>1986</dateIssued>
+</originInfo>
+<name type="personal">
+<namePart>Everson, Karen</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<note>Listed by Ned Brooks on fanac.org. 
+</note>
+
+
+
+</mods>

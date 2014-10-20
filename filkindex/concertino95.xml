@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="concertino95">
+<recordInfo>
+<recordCreationDate>2006-11-12</recordCreationDate>
+<recordChangeDate>2007-06-30</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>ConCertino 1995 ProgramBook</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+</physicalDescription>
+<abstract>Program book with songs for ConCertino 1995, the New England
+filk convention</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Massachusetts</placeTerm>
+</place>
+<publisher>M.A.S.S.F.I.L.C., Inc.</publisher>
+<dateIssued>1995</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1995 by M.A.S.S. F.I.L.C. Individual songs
+copyrighted by contributors.</accessCondition>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Adieu, Sweet Nancy</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kesselman, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Adventurers of Science</title>
+</titleInfo>
+<name type="personal">
+<namePart>McGath, Gary</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Adventurers of Science</title>
+</titleInfo>
+<name type="personal">
+<namePart>Braley, Berton</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<genre>poetry</genre>
+</relatedItem>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Aux Étoiles</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hayman, Judith</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<language>
+<languageTerm type="code" authority="iso639-2b">fra</languageTerm>
+</language>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Charlie on the UFO</title>
+</titleInfo>
+<name type="personal">
+<namePart>Chernoff, Anton</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name> 
+<name type="personal">
+<namePart>de Guardiola, Susan</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Ship That Never Returned</title>
+</titleInfo>
+<note>Alternate title: "Charlie on the MTA"</note>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Con Man Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Childs-Helton, Sally</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ballad of Coralinda</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stauff, Ed</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<genre>song</genre>
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Criminal</title>
+</titleInfo>
+<name type="personal">
+<namePart>Brinich, Steve</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>The Idiot</title>
+</titleInfo>
+<name type="personal">
+<namePart>Rogers, Stan</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fire and Honor</title>
+</titleInfo>
+<name type="personal">
+<namePart>Burton-West, Roger</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fire In the Sky</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kare, Jordin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Flying Down to Old Maui</title>
+</titleInfo>
+<name type="personal">
+<namePart>Livengood, Jylene</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>Rolling Down on Old Maui</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+
+<relatedItem type="constituent">
+<titleInfo>
+<title>Frostbite the Goblin</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mandel, Mark</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Frosty the Snowman</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Galactic Personals</title>
+</titleInfo>
+<name type="personal">
+<namePart>Childs-Helton, Sally</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>A Hundred Dreams Ago</title>
+</titleInfo>
+<name type="personal">
+<namePart>Taylor, Virginia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>If Man Were Meant...</title>
+</titleInfo>
+<name type="personal">
+<namePart>Avalon, Geoff</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Rocket Rider's Prayer</title>
+</titleInfo>
+<name type="personal">
+<namePart>Savitzky, Steve</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Librarian, Song of the</title>
+</titleInfo>
+<name type="personal">
+<namePart>Soley, Kate</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>9 to 5 Barbarian</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sutton, Bill</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Science Fair</title>
+</titleInfo>
+<name type="personal">
+<namePart>Childs-Helton, Barry</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>The Sea of Stars</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hayman, Judith</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sex and Chocolate</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ohi, Debbie Ridpath</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Krangle, Jodi</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Stole of the Seal</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kesselman, Joe</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Soul of the Steel</title>
+</titleInfo>
+<name type="personal">
+<namePart>Willinger, B. J.</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>SuperCometFragmentImpactExtraLargeExplosions</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kare, Jordin</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Supercalifragilisticexpialidocious</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Talking Building Q Blues</title>
+</titleInfo>
+<name type="personal">
+<namePart>Childs-Helton, Barry</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Unlucky in Love</title>
+</titleInfo>
+<name type="personal">
+<namePart>Taylor, Virginia</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Vampire's Lullaby</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shuch, H. Paul</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+
+<relatedItem type="preceding">
+<titleInfo>
+<title>All Through the Night</title>
+</titleInfo>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Witnesses' Waltz Too</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kranzer, Ellen</namePart>
+<role>
+<roleTerm>lyricist</roleTerm>
+</role>
+</name>
+<relatedItem type="preceding">
+<titleInfo>
+<title>Witnesses' Waltz</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fish, Leslie</namePart>
+<role>
+<roleTerm>composer</roleTerm>
+</role>
+</name>
+<note>Tune suggested or parodied</note>
+</relatedItem>
+
+</relatedItem>
+</mods>

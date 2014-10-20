@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods  version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="thefilksoengs">
+<recordInfo>
+<recordCreationDate>2013-04-23</recordCreationDate>
+<recordChangeDate>2013-04-23</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>The Filksöngs</title>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<language>
+<languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<note>pamphlet form</note>
+</physicalDescription>
+<abstract>A collection of Swedish filksongs with English translations</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Stockholm, Sweden</placeTerm>
+</place>
+<publisher>StencilFörlaget</publisher>
+</originInfo>
+<name type="personal">
+<namePart>Engholm, Ahrvid</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ode Till Roscoe På Fjärde Juli</title>
+   <subTitle>Ode to Roscoe on the Fourth of July</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>When You Wish Upon a Star</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Churchill, Frank</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>När Jag Gafierat</title>
+   <subTitle>When I Have Gafiated</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>When I'm 64</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>McCartney, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Pappersframmatningen Är Trasig</title>
+   <subTitle>The Paper Feed is Broken</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Raindrops Keep Falling on My Head</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Jag Fixar ett Hål</title>
+   <subTitle>Fixing a Hole</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ett Bedårande Barn av Sin Tid</title>
+   <subTitle>Charming Child of Our Modern Times</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Sylvain, Jules</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Rött Korrekturlack</title>
+   <subTitle>Red Corflu</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Purple Haze</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Hendrix, Jimi</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Stencil, Stencil</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Nu Skall Vi Vara Snälla</title>
+   <subTitle>Now We Must Show Kindness</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Sylvain, Jules</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Olof Müller</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Sylvain, Jules</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Ta av dig skorna</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Ramel, Povel</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Min Postorderverksamhet</title>
+   <subTitle>My Mailorder Engerprise</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>I Feel Fine</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Lennon, John</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <name type="personal">
+        <namePart>McCartney, Paul</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ge Mig ett Fanzine</title>
+   <subTitle>Give Me a Fanzine</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Andersson, Erik</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Ack Jupiter Du Sköna</title>
+   <subTitle>Jupiter, You Beautiful</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Femme-Fanen i Borås</title>
+   <subTitle>Femme-Fan in Borås</subTitle>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Engholm, Ahrvid</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Waltman, Kjell</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Gosh Wow O'Boy 'Boy</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Engholm, Ahrvid</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Dahlquist, Lasse</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Det Bläser i Vinden</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Nessle, David</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+    <language>
+     <languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+    </language>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>Blowing in the Wind</title>
+      </titleInfo>
+      <name type="personal">
+        <namePart>Dylan, Bob</namePart>
+        <role>
+          <roleTerm>composer</roleTerm>
+        </role>
+      </name>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>The Ray Bradbury Hate Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Beam, Ray</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <relatedItem type="preceding">
+      <titleInfo>
+       <title>John Brown's Body</title>
+      </titleInfo>
+      <note>Tune suggested or parodied</note>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+
+</mods>

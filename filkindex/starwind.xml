@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="stylesheets/modshtml.xsl" type="text/xsl" ?>
+<mods version="3.1" xmlns="http://www.loc.gov/mods/v3" ID="starwind">
+<recordInfo>
+<recordCreationDate>2007-03-11</recordCreationDate>
+<recordChangeDate>2007-03-11</recordChangeDate>
+<!-- If you modify this file, please update the recordChangeDate element -->
+</recordInfo>
+<titleInfo>
+<title>Starwind</title>
+<subTitle>A celebration of space exploration &amp; aviation past, present, and future</subTitle>
+</titleInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>8 pp. plus front and back cover</extent>
+<note>8 1/2 x 11, not bound</note>
+</physicalDescription>
+<abstract>Songs and poems by Anne Harlan Prather and Gail Barton</abstract>
+<originInfo>
+<place>
+  <placeTerm type="text">Colorado</placeTerm>
+</place>
+<publisher>The Prime Base General Store</publisher>
+<dateIssued>1986</dateIssued>
+</originInfo>
+<accessCondition>Copyright 1986 by The Prime Base General Store.
+All rights reserved. No part of this book may be reproduced in any way
+without written permission from the publisher.
+</accessCondition>
+<name type="personal">
+<namePart>Barton, Gail</namePart>
+<role>
+<roleTerm>illustrator</roleTerm>
+</role>
+</name>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Paging Hermes</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Barton, Gail</namePart>
+     <role>
+       <roleTerm>author</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Memorial</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Prather, Anne Harlan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Firefalcon</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Prather, Anne Harlan</namePart>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <name type="personal">
+      <namePart>Barton, Gail</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Spacechild Lost</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Prather, Anne Harlan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Sing the Stars My Song</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Prather, Anne Harlan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Death Song of a Fighter Pilot</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Prather, Anne Harlan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+<relatedItem type="constituent">
+  <titleInfo>
+   <title>Star Pilot's Hymn</title>
+  </titleInfo>
+  <name type="personal">
+      <namePart>Prather, Anne Harlan</namePart>
+     <role>
+       <roleTerm>lyricist</roleTerm>
+     </role>
+     <role>
+       <roleTerm>composer</roleTerm>
+     </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+</relatedItem>
+
+
+
+</mods>
